@@ -1,0 +1,47 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Najdorf"]
+[Black "Reshevsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 {Defensa Nimzoindia. Su creador,
+Nimzovich, nunca realizaba este c5: cambiaba pronto en c3 doblando peones y
+trataba de forzar un d5, que dejaría débil la casilla c5, donde trataba de
+alojar un potente caballo. Sin embargo, décadas más tarde fueron apareciendo
+variaciones respecto a las ideas de Nimzovich, como este c5, peleando por el
+centro de forma temprana.} 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3 Bxc3 9. bxc3
+dxc4 10. Bxc4 Qc7 {En esta posición, las blancas querrían jugar e4-e5 para echar
+el caballo de f6 y tratar de activar su alfil de c1 y sus torres para lanzar un
+ataque por el flanco de rey. Las negras pretenden impedir el avance del peón de
+e o atacar el centro de peones. En esta partida, Reshevsky combina ambas ideas.}
+11. a4 {Jugada un tanto rara de Najdorf aquí. Pretende jugar Aa3, pero el peón
+de c5 se puede defender sin problema.} 11... b6 12. Ba3 Bb7 13. Be2 Rfd8 14. Qc2
+Na5 15. dxc5 bxc5 16. c4 Be4 17. Qc3 Rab8 {b4 ha quedado débil para las blancas.
+Esto se une a que no se puede llevar una torre a b1 por culpa del alfil de e4.}
+18. Rfd1 Rxd1+ 19. Rxd1 Bc6 {Las negras tratan de presionar en a4. La captura en
+c5 es posible, pero las negras se activarían bastante con jugadas como Ne5, a la
+vez que amenazarían descubiertas sobre el alfil de c5.} 20. Qc2 h6 21. h3 (21.
+Bxc5) 21... Nb3 {Una de las ideas de este caballo es evitar la defensa del peón
+de a4 por la diagonal blanca. Por otro lado, en esta posición podría parecer
+razonable haber tratado de llevar antes el caballo de f6 hasta b6 por d7, pero
+entonces las blancas tendrían tiempos para montar la batería alfil-dama: 21. ...
+Nd7, 22. Bb2 Nb6 23. Qc3, amenzando Qxg7# y Qxa5.} 22. Bb2 Nd7 23. Qc3 f6
+{Bronstein comenta aquí que la ventaja negra es clara. El peón de a está perdido
+y parece fácil sacar jugo a la pareja de alfiles. Es esto, comenta, lo que
+explica que Najdorf optara por tratar de complicar la partida con las siguientes
+jugadas.} 24. Nh2 Nb6 {Notar que Qxb3 se encontraría con Nxa4 y, a la siguiente,
+caería el alfil de b2. Aquí Reshevsky ofreció tablas, que Najdorf aceptó.
+Reshesvsky estaba en apuros de tiempo (4 minutos para 16 jugadas antes del
+control). Parece ventaja negra, ya que a4 es insalvable y no es evidente cómo
+activar la pareja de alfiles. Sin embargo, las blancas podían forzar las tablas.
+Veamos cómo podría haber seguido:} (24... Bxa4 {Esta opción era más fuerte, ya
+que se gana el peón igualmente y el caballo de d7 defiende en f6, evitando temas
+con Nxf6+. Además, ante Ng5, las negras contarían con un tiempo extra para jugar
+e5 y bloquear la acción de la batería alfil-dama.}) 25. Ng4 Nxa4 (25... Nd4 26.
+exd4 Nxa4 {Recuperando la pieza inmediatamente. La idea era cerrar la diagonal
+a1-h8, evitando los temas con Nxf6+.}) 26. Nxf6+ gxf6 27. Qxf6 Nxb2 28. Bg4 {Y
+hay jaque perpetuo tras Bxe6+, Bf5+, etc. Las negras no podrían tratar de
+escapar de este jaque perpetuo. Veamos que pueden quedar perdidas:} 28... Qg7
+29. Bxe6+ Kh7 30. Bf5+ Kh8 31. Rd8+ Rxd8 32. Qxd8+ Qg8 33. Qf6+ 1/2-1/2

@@ -1,0 +1,57 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Smyslov"]
+[Black "Kotov"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 {7. Nf5 no es
+buena idea, aunque lo parezca, por 7. ... Bxf5 8. exf5 d5. Las negras han dado
+la pareja de alfiles, pero tienen todo el centro.} 7. Nb3 Be7 8. Be3 Nbd7 9. O-O
+O-O 10. f3 Qc7 11. Qe1 {Smyslov peca de pasivo. Era necesario haber jugado a4
+antes, para frenar b5. Incluso contra 10. ... b5 las blancas todavía tenían 11.
+a4 y, si 11. ... b4, entonces 12. Nd5 Nxd5 13. Qxd5 y las blancas quedan muy
+bien. Ahora b5 no encuentra resistencia. Decir que las blancas sí que han sacado
+algo de la apertura, y es su férreo control de e4.} 11... b5 12. a3 Nb6 13. Qf2
+Rb8 14. Rab1 {Defendiendo en b2, adelantándose a Na4 o Nc4. Esto da cuenta de la
+pasividad blanca.} 14... Be6 15. Kh1 Nc4 {Esta jugada es lo suficientemente
+buena, pero Bronstein prefiere 15. ... d5. Las negras hubieran quedado muy bien
+tras 16. exd5 Nfxd5 17. Nxd5 Bxd5 18. Bc5 Cc4. Además, se hubieran quitado su
+peón retrasado.} 16. Bxc4 bxc4 17. Nc1 Rb7 {Smyslov maniobra adecuadamente para
+parar la clara amenaza Rfb8. Decir que aquí la ruptura d5 seguía siendo fuerte,
+gracias a la mejor disposición de piezas de las negras y al hecho de que tener
+la pareja de alfiles se explota mejor en posiciones abiertas.} 18. N1a2 d5
+{Mágicamente, ahora d5 no es muy buena. Hacía falta primero 18. ... a5 19. a4
+Qb8 20. Nb5 y entonces 20. ... d5; la idea era desviar al caballo de c3 del
+control del centro y entonces romper.} 19. exd5 Bxd5 20. Nb4 Bxb4 21. axb4 {No
+se puede 21. ... Rxb4 por 22. Bc5, ganando calidad.} 21... Qc6 22. Bg5 {De
+nuevo, tomar en b4 no es buena idea, esta vez porque las blancas tendrían mucho
+ataque: 22. ... Rxb4 23. Bxf6 gxf6 24. Qd2 Be6 25. Ne4, con descubierta sobre la
+torre de b4 y tocando en f6. Ventaja decisiva.} 22... Rd7 23. Rfe1 Re8 24. Rbd1
+{Se amenaza 25. Bxf6, a lo cual habría que tomar de peón, ya que, si no, cae el
+alfil de d5.} 24... Nh5 25. Qh4 g6 26. Nxd5 Rxd5 27. Rxd5 Qxd5 28. Qe4 {Pese a
+la aparente debilidad del enroque negro, Smyslov evalúa, con acierto, que es no
+es fácil atacarlo. Es por eso que opta por buscar el cambio de damas, llegando a
+un final mejor por su, dice Bronstein, control del punto e4 y, sobre todo, por
+la debilidad de los peones del ala de dama negros.} 28... Qxe4 {Era mejor
+retirar la dama y buscar un f5-e4 en el futuro.} 29. Rxe4 f6 30. Be3 Rc8 31. g4
+Ng7 32. g5 {32. Bc5 parece que gana un peón, pero: 32. ... a5 33. Rxb4 axb4. Y
+si 34. b3, entonces 34. ... Ne6 35. Bxb4 Rxc4 36. bxc4 Nd4 y, pese al peón de
+más, parece un final de tablas. Decir que la textual busca minar e5.} 32... Kf7
+33. gxf6 Kxf6 34. Bd2 Nf5 35. Bc3 Nd4 36. f4 {No sirve cambiar en d4: 36. Bxd4
+exd4 37. Rxd4 c3 38. b3 Re8, haciendo inevitable la entrada en séptima y
+posterior toma en c2 y entablando. Kotov opta por tomar en c2, pero esto llevará
+a su caballo hasta a1, donde queda totalmente fuera de juego.} 36... Nxc2 37.
+Re2 Na1 38. Rxe5 {Mejor era 38. fxe5+ Ke6 39. Rf2, dejando la partida vista para
+sentencia, ya que será imposible evitar que las piezas blancas apoyen a su peón
+pasado, aprovechando la horrible posición del caballo. También era posible 38.
+Kg2, activando su última pieza. Lo cierto es que ahora hay defensa.} 38... Kf7
+39. Ra5 Nc2 40. Rxa6 Rb8 41. Rc6 Nxb4 42. Rc7+ {Si 42. Rxc4, entonces 42. ...
+Nd5 43. Be5 Rb3 y el rey negro irá a f5 por e6, con tablas. La sutileza es que,
+tras el jaque, si el rey va a e6 (que es donde irá), tras la captura en c4, las
+negras quedan muy restringidas si juegan Nd5 por temas tácticos: 42. ... Ke6 43.
+Rxc4 Nd5 44. Re4+ y el rey no puede ir a f5 por 45. Re5+, ganando el caballo, ni
+a d6 por 44. Bc5+, ganando la torre; el rey debería recular a d7 o f7, pero lo
+cierto es que sigue habiendo defensa (aunque complicada, ver módulo...).} 42...
+Ke6 43. Rxc4 Nd3 44. b4 {Y se firmaron las tablas.} 1/2-1/2

@@ -1,0 +1,39 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Geller"]
+[Black "Reshevsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 {También es
+posible la más agresiva 7. Bc4. En esta línea, tras un cambio de peones en d4,
+el caballo de d5 queda a salvo de peones, pero puede ser atacado por piezas.
+Podría seguir con 7. ... Nb6, con opciones para ambos bandos.} 7... cxd4 8. exd4
+g6 {Debilitando su flanco de rey a cambio de bloquear la peligrosa diagonal
+b1-h7, a la par que busca bombardear el peón de d4.} 9. Bg5 Qa5 {Contra la
+natural 9. ... Be7 hubiera venido 10. h4, con idea de atacar por el ala de rey.}
+10. O-O {Ofreciendo un peón en c3. Sería desastroso, ya que vendrían jugadas
+como Rc1 ganando un tiempo sobre la dama, d5 abriendo la posición del rey y Bf6,
+aprovechando la debilidad de las casillas negras.} 10... Bg7 11. Ne4 {Geller
+busca conquistar la casilla f6, pese a que parece que el objetivo de esta jugada
+es Nd6+.} 11... O-O 12. Bc4 Qb6 {Geller es consecuente con su plan y busca
+eliminar uno de los defensores de f6, mientras que Reshevsky sigue presionando
+sobre el peón aislado de d4.} 13. Bxd5 exd5 14. Nf6+ Bxf6 15. Bxf6 {Resulta poco
+intuitivo librarse del alfil del finachetto, más aún cuando el rival tiene el
+suyo infiltrado en el enroque. Sin embargo, tiene sentido. La opción de retirar
+al rey. si bien era jugable, se podría encontrar con contestaciones peligrosas
+como 15. Qd2 o 15. Nxd5 Qxb2 16. Bf6.} 15... Na5 {Expulsando inmediatamente al
+alfil de f6. No hay tiempo para cambiar el alfil de c8 por el caballo de f3. Por
+ejemplo: 15. ... Bg4 16. Qd2 Bxf3 17. Qh6 y las negras tienen que abandonar.}
+16. Be7 {Era posible 16. Qd2, ofreciendo el alfil de f6 por el caballo de a5,
+llegando a un final algo mejor para las blancas según Bronstein. Decir que otras
+ideas contra 16. Qd2, como 16. ... Re8, son posibles pero peligrosas, en vista
+de 17. Be5 Nc4 18. Qh6 Nxe5 19. Ng5 (lo mismo si 18. ... f6). Bronstein comenta
+que otra idea era 19. Bg5, con idea de llevar el alfil a h6.} 16... Re8 17. Bc5
+{Interesante era 17. Re1, con idea de llevar la dama a h6 vía d2. Y si 17. ...
+Qxb2, entonces 18. Bb4 Rxe1+ 19. Qxe1, con doble amenaza: tomar en a5 y Qe8+.}
+17... Qxb2 18. Rb1 Qc3 19. Rc1 Qb2 20. Rb1 Qc3 21. Rc1 Qb2 {Y tablas. Bronstein
+afirma que las blancas deberían haber tratado de luchar por la victoria, ya que
+el peón de menos se compensa por la debilidad del enroque negro. Por ejemplo, se
+podía buscar un Ne5 cuando la dama estaba en c3.} 1/2-1/2

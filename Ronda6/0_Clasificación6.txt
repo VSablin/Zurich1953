@@ -1,0 +1,15 @@
+Reshevsky	4,5
+Smyslov		4
+Keres		4
+Najdorf		3,5
+Euwe		3
+Bronstein	3
+Boleslavsky	3
+Averbaj		2,5
+Gligoric	2,5
+Szabo		2,5
+Taimanov	2,5
+Stahlberg	2
+Petrosian	2
+Geller		2
+Kotov		1

@@ -1,0 +1,38 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1953"]
+[White "Bronstein"]
+[Black "Najdorf"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 c5 6. d5 Na6 {Aprovechando que el
+alfil de casillas negras de las piezas blancas se ha desarrollado con Bg5 y no
+con Be3, las negras han golpeado el centro blanco con c5. Con este Na5, Najdorf
+planea jugar Nc7-b5. El problema de esto es que las blancas pueden rehusar el
+cambio en b5 y el caballo de c7 quedaría bastante mal ubicado.} 7. Bd3 Nc7 8.
+Nge2 a6 9. a4 Rb8 10. O-O O-O 11. Qc2 Bd7 12. h3 b5 13. f4 {Ventaja blanca por
+la posibilidad de lanzar sus peones de e y f contra la restringida posición
+negra. La acción de las negras por el ala de dama no compensa este hecho.} 13...
+Nfe8 14. axb5 axb5 15. Ra7 bxc4 16. Bxc4 Ra8 {Evitando que las blancas se doblen
+a placer en la columna a. La parte negativa para las blancas es que cambian su
+pieza más activa.} 17. Rxa8 Nxa8 18. Qb3 f6 {La idea es liberar a la dama de la
+defensa del peón de e7. Lo malo es que debilitan su enroque y restringen la
+acción del alfil de g7.} 19. Bh4 Qb6 20. Qa3 Nec7 21. b3 Nb5 22. Nxb5 Bxb5 23.
+f5 {Se amenaza 24. Nf4 g5 25. Ne6 gxh5 26. Nxf8. Además, este f5 fija la
+estructura de peones negros en casillas de este color, prácticamente enterrando
+el alfil de g7.} 23... Bh6 24. fxg6 hxg6 25. e5 Bxc4 26. bxc4 dxe5 27. Qd3
+{Sacrificando un peón. La idea de las blancas es jugar Nc3 y Tb1 para dominar el
+flanco de dama y pelear por los peones negros de c y e. Notar que las piezas
+blancas son más activas que las negras. Sobre todo, el caballo de a8 es
+especialmente malo.} 27... Kh7 28. Nc3 Qb3 {Mejor hubiera sido para las blancas
+27. Bf2 Rc8 28. Qd3 Kg7 29. h4. Najdorf ha encontrado cómo complicar la partida
+y, lo que es mejor para sus intereses, forzar el cambio de damas.} 29. Rb1 e4
+30. Rxb3 exd3 31. Rb7 Kg8 32. Kf2 {Las blancas optan por no capturar en e7 para
+que el caballo siga desactivado.} 32... Bf4 33. Kf3 Rb8 34. Rxb8+ Bxb8
+{Bronstein comenta que mejor hubiera sido 34. Rxe7 Rb3 35. Bxf6 o 34. ... Bd6
+35. Re6 Be5 36. Bxf6 Bxc3 37. Bxc3 Rb3 38. Ba5! Sin embargo, en sus análisis
+obvió 34. ... g5, que iguala la contienda. En cualquier caso, Bronstein
+desestimó estos planes sobestimando la fuerza del peón de d3. Además, mejor que
+33. Kf3 era 33. Bg3.} 35. Na4 Bd6 36. Bf2 Kf7 37. Ke3 Nc7 38. Kxd3 Na6 39. Ke4
+f5+ 40. Kf3 e6 41. Nb6 {Tablas.} 1/2-1/2

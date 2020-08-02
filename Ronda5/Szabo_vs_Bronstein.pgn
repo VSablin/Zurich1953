@@ -1,0 +1,58 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Szabo"]
+[Black "Bronstein"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. g3 e5 5. Bg2 c6 {Las blancas tiene un hueco
+importante en e4 y las negras se preparan para ocuparlo con e4-d5. Es por eso
+que las blancas cambian en e5, lo cual concede a las negras un juego fácil.} 6.
+dxe5 dxe5 7. O-O Bc5 8. Nc3 O-O 9. Qc2 Qe7 10. Nh4 Re8 11. Na4 {Las negras
+tienen en el peón de e5 su principal baza, el cual podría avanzar a e4-e3
+apoyado por sus piezas mayores. Las blancas pretenden desestabilizar la posición
+mediante internadas de sus caballos por los flancos. Bronstein decide no mover
+su alfil de casillas negras, ya que, de retirarlo, si después es intercambiado
+por otra pieza, no controlaría la casilla c5, donde las blancas podrían instalar
+un potente caballo. Continúan con su plan natural, e5, que además evita una de
+las retiradas del caballo de h4.} 11... e4 12. Nf5 Qe5 13. Bh3 {Amenazando 14.
+Bf4, cazando la dama. Las negras retirarán su alfil de negras a f8, creando
+además una escapatoria a la dama y dejando manifiesta la mala posición del
+caballo de a4. Si 13. Nxc5 Nxc5 14. Ne3, la posición es igualada pero las negras
+cuentan con cierta iniciativa por su ventaja de espacio. Es por eso que Szabo
+opta por esta línea, más aguda, para tratar de obtener ventaja.} 13... Bf8 14.
+Bd2 Qc7 15. Bg2 {Quitándose de los raxos X del alfil de c8, que generaría una
+desagradable clavada tras quitar el caballo de d7.} 15... g6 16. Ne3 Qe5 17. f4
+Qh5 {También era fuerte 17. ... exf3 18. exf3 Qd4} 18. h3 {Sacrificando en e2.
+Era preferible esto a permitir que las negras siguieran restringiendo la
+posición blanca con Bh6, Nc5, etc.} 18... Qxe2 {La dama negra inicia una
+peligrosa incursión, pero saldrá indemne.} 19. Rad1 Qd3 20. Qc1 Qd6 21. g4 Qc7
+{Así como Rad1 es claramente una jugada útil, el avance en el flanco de rey es
+de doble filo. Decir que las negras podrían haber mejorado la posición de sus
+piezas con 19. ... Nc5 20. Nc3 Qd3. En esta posición las negras estarían muy
+bien, con un gran desarrollo y peón de más. Las blancas estarían algo
+restringidas. Por ejemplo, su alfil de d2 no juega.} 22. Bc3 Bg7 {Era posible
+22. ... b5 23. Bxf6 Nxf6 24. cxb5 Qa5, pero Bronstein comenta que no tenía claro
+que en esa posición estuviera bien, así que optó por la más tranquila 22. ...
+Bg7. Ahora sí, 23. ... b5 es una amenaza muy fuerte. Sin embargo, Bronstein no
+vio la fuerte continuación de las blancas.} 23. g5 b5 {Bronstein comenta que
+debe entregar pieza para no caer en un ataque de mate. Si 23. ... Nh5, entonces
+24. Bxg7 Nxg7 25. Ng4, con un futuro Qc3, dominando la gran diagonal negra. Sin
+embargo, el módulo evalúa la posición como igualada, así que parece haber
+defensa...} 24. gxf6 Bf8 25. cxb5 cxb5 26. Nd5 Qc6 27. f5 {Tomar el caballo
+lleva a la derrota: 27. ... bxa4 28 fxg6 hxg6 29. Ne7+ Bxe7 30. fxe7 Rxe7 31.
+Qh6 Ne5 32. Rd8+ Re8 33. Bxe5! Bronstein opta por tratar de defenderse a la
+desesperada.} 27... Bb7 28. fxg6 hxg6 29. Ne7+ Bxe7 30. fxe7 b4 {Desviando al
+alfil de c3 de la gran diagonal.} 31. Bxb4 Qxa4 32. Bc3 {Buscando el mate. Más
+directo era 32. Qf4.} 32... Rxe7 33. Qh6 {Provocando 33. ... Ne5. Contra esto,
+34. Qg5 Rae8 y hay defensa. 33. Qg5 era más potente, tocando a la torre y
+buscando Qf6.} 33... Ne5 34. Qg5 {34. Rd6 era la jugada correcta aquí. Ahora hay
+defensa, aunque Bronstein no la vio.} 34... Qe8 {Error garrafal. Era necesario
+34. ... Rae8 y, contra 35. Rd8, 35. ... Re6.} 35. Rf4 Rc8 36. Rh4 Rxc3
+{Bronstein creyó aquí que podía respirar un poco pese a lo inferior de su
+posición, pero estaba totalmente perdido. De hecho 37. Qf6 llevaba al mate
+imparable, pero Szabo, increíblemente, no lo vio.} 37. Qh6 {Increíblemente, 37.
+... f5 llevaba a tablas. Dicho sea que la variante concreta que da las tablas
+era complicadísima...} 37... f6 38. bxc3 Rg7 {Mejor era Kf7.} 39. Rd8 Qxd8 40.
+Qh8+ Kf7 41. Qxd8 g5 42. Rh6 {Y Bronstein se rindió.} 1-0

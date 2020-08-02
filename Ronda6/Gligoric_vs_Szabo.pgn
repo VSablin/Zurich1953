@@ -1,0 +1,57 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Gligoric"]
+[Black "Szabo"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 {Dos opciones principales aquí: 9. ... Be7 y 9. ... Bc5. Según
+Bronstein, es mejor la segunda por dos razones: el alfil estaría más activo que
+en la primera variante y permite que la dama se desarrolle por la diagonal
+d8-h4.} 9... Be7 10. Be3 Nc5 {La variante principal, comenta Bronstein, era: 10.
+... 0-0 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 Qxd5 14. Bxd5 exf3 15. Bxc6 y las
+blancas tienen algo de ventaja.} 11. Bc2 Bg4 12. Nbd2 Ne6 {Capturar en e5 no era
+buena idea: 12. ... Nxe5 13. Bxc5 Bxc5 14. Qe1, clavando al caballo; se puede
+salvar con f6, pero aun así las blancas quedan mucho mejor; 13. ... Nf3+ 14.
+gxf3 Bh3 15. Re1 también es perdedor para las negras. Es por esto que las negras
+retiran primero su caballo, para así preparar la captura. Sin embargo, Gligoric
+se activa mucho con su siguiente original jugada:} 13. Qb1 Bh5 14. a4 b4 {La
+posición negra tiene solo un defecto: la falta de perspectivas de futuro para su
+dama. Las blancas pueden aprovecharlo con 15. c4. Tanto a la captura como al
+avance de peón, vendría 16. Be4; si 15. ... Bg6 se cambian alfiles de casillas
+blancas y 17. Rd1. De todas formas, en modo alguno 16. Be4 es decisiva: también
+sería posible 16. ... Qe7 y la posición es bastante incierta. Las blancas pueden
+optar por ganar un peón: 17. Bxc6 Qxc6 18. Nxd4 Nxd4 19. Bxd4 Bg6; sin embargo,
+pierden su ventaja posicional. Gligoric optó por otra opción, que también otorga
+ventaja a las blancas pero que ralentiza los acontecimientos.} 15. a5 Bg6 16.
+Nb3 bxc3 17. bxc3 Qb8 {Szabo, consciente de sus problemas, antepone el
+desarrollo de la dama al enroque. Se amenazaba Rd1-c4.} 18. Qa2 O-O 19. Bxg6
+hxg6 20. Rab1 Qb5 {El plan de las blancas es aprovecharse de la mala situación
+de la dama negra. Gligoric acierta al elegir ese plan, pero falla en la
+ejecución, Más fuerte era 20. Rfb1, que impedía 20. ... Qb5 por 21. Nbd4.
+Vukovic recomendó en sus análisis 20. ... Qd8, pero también ahí la dama
+carecería de futuro. Las blancas quedrían mejor con 21. Rd1 Qd7 22. Nc5 Nxc5 23.
+Rxd5; 21. ... Rb8 22. Nbd4 Nexd4 23. Nxd4 Nxe5 24. Bf4 o 21. ... Na7 22. c4.}
+21. Qc2 {Error. Mejor era buscar compliaciones tácticas. Por ejemplo: 21. Nfd4
+Nexd4 22. Nxd4 Qxa5? 23. Nxc6 Qxa2 24. Nxe7+ Kh7 25. Rb4 g5? 26. Bxg5 g6 27.
+Rh4+ Kg7 28. Bf6#; por supuesto, esto no es forzado: 21. ... Ncxd4 22. exd4 Qd7
+23. Rbc1, con ligera ventaja blanca (más espacio, peón retrasado en la columna
+c...).} 21... Qc4 22. Nfd2 Qg4 23. f4 Qf5 24. Qxf5 gxf5 {Ahora las negras están
+algo mejor, ya que el peón de a5 es débil y los peones de f4 y e5 bloquean la
+acción del alfil de casillas negras blanco.} 25. Nf3 Rfb8 26. Nfd4 Ncxd4 27.
+Nxd4 Nxd4 28. cxd4 {El alfil queda incluso peor... Sin embargo, 28. Bxd4 era
+perdedora por 28. ... Rb5 29. Rxb5 axb5 30. Ra1 Ra6 31. Kf1 Kf8} 28... Bb4 29.
+Ra1 Rb5 30. Ra4 Rab8 31. Rfa1 {31. Rc1 no vale por 31. ... Rxa5 32. Rxb4 Rxb4
+33. Bd2 Rab5 34. Bxb4 Rxb4 35. Rxc7 Rxd4 y las negras quedan con dos peones
+pasados.} 31... Bc3 32. Rd1 Rb1 33. Rxb1 Rxb1+ 34. Kf2 Ra1 {Contra la natural
+34. ... Rb5, vendría 35. Ra3 Bb4 36. Ra4 y las negras tienen que tomar en a5 de
+alfil, quedando un poco atascadas.} 35. Rxa1 Bxa1 36. Ke2 Bc3 37. Kd3 Bxa5 38.
+h3 {Según Bronstein, aquí Gligoric podía forzar las tablas con 38. Bd2! Si 38.
+... Bb6, entonces 39. Bb4 y sería muy difícil llegar al centro para el rey
+negro, ya que contra f6 vendría e6. Si se cambian alfiles: 38. ... Bxd2 39. Kxd2
+Kf8 40. Kc3 Ke7 41. Kb4 Kd7 42. Kd5. Decir que el módulo no lo tiene tan claro
+si 39. ... Kh7... Comentar también que todo esto no era posible si 34. ... Rb5.}
+38... Be1 {Ahora 39. Bd2 sería contestado con 39. ... Bg3, ganando un tiempo
+para jugar Kf8.} 39. g4 g6 40. Kc2 Kf8 41. Kd1 Bg3 {Y Gligoric se rindió.} 0-1

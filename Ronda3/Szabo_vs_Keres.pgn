@@ -1,0 +1,31 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Szabo"]
+[Black "Keres"]
+[Result "0-1"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 a6 5. Qa4+ {Error garrafal de Szabo en
+plena apertura por 5. ... b5. Las negras simplemente quedan con peón de más.
+Como dato anecdótico, aquí Keres se quedó tan sorprendido que pensó durante 15
+minutos.} 5... b5 6. Qc2 {La clave es que las blancas no habían jugado todavía
+e3. En tal caso, hubiera sido posible el famoso Qa4+ ya que, contra b5, vendría
+Nxb5 y, contra Bd7, tendrían Bxc4, quedando las blancas con peón de más y mucho
+mejor posición. De haber jugado ahora 6. Nxb5, entonces las blancas pierden
+pieza: 6. ... Bd7 7. Nxc7+ Qxc7 8. Qc2. En esta línea podrían soñar con ganar el
+peón de c4, que es bastante débil, pero estaríamos hablando de dos peones por la
+pieza en plena apertura, lo cual nunca es un buen negocio.} 6... Nc6 7. e4 e6 8.
+Bg5 {Otro error, dejándose el peón de d4. Mucho mejor era Be3 y tratar de
+complicar el juego buscando movilizar sus peones centrales más adelante. Szabo
+considera que ganará desarrollo por el segundo peón, pero Keres encuentra cómo
+defenderse y ganar plácidamente la partida.} 8... Nxd4 9. Nxd4 Qxd4 10. Rd1 Qc5
+11. Be3 Qc6 12. Be2 Bb7 13. Bf3 e5 {Bloqueando e5, ya que podría ser peligroso
+que las blancas abrieran esa diagonal.} 14. O-O Bc5 15. Nd5 Bxe3 16. Nxe3 O-O
+17. g4 Rfe8 18. Nf5 Nd7 19. b3 Nb6 20. Qc1 cxb3 {Aquí Qg5 complicaba algo el
+juego. Las negras podrían forzar el cambio de damas con Qf6, pero deteriorarían
+su estructura de peones y el caballo de f5 sería inexpugnable. Aun así, ventaja
+clara negra.} 21. axb3 Qxc1 22. Rxc1 Rac8 23. Rfd1 g6 24. Nh6+ Kg7 25. g5 c5 26.
+Bg4 Rc7 27. Rd6 Nc8 28. Rf6 Bxe4 29. Rd1 c4 30. bxc4 bxc4 31. f3 Bd3 32. Rxa6
+Ne7 33. Rd6 Ng8 34. Rc1 Rb7 35. Bd7 Rd8 36. Nxg8 Kxg8 37. Bc6 Rxd6 38. Bxb7 Rb6
+39. Bd5 Kf8 40. Ra1 c3 41. Ra8+ Ke7 {Y Szabo se rindió (y con razón).} 0-1

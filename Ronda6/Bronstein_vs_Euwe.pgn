@@ -1,0 +1,57 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Bronstein"]
+[Black "Euwe"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 {Las blancas empiezan a preparar e4.} 11. Bd3 e5
+12. Qc2 Re8 {También se juega aquí 12. ... Qe7, pero Bronstein comenta que la
+textual es mejor. Por ejemplo: 12. ... Qe7 13. dxe5 Nxe5 14. Nxe5 Nxe5 parece
+peor que 12. ... Re8 13. dxe5 Nxe5 14. Nxe5 Qxe5.} 13. e4 exd4 {Se podía buscar
+el cambio de damas con 13. ... c4 14. Bxc4 exd4 15. cxd4 Na5 16. Bd3 Qxc2 17.
+Bxc2 Nxe4, pero prefiere plantar batalla.} 14. cxd4 Bg4 {Contra 14. ... cxd4
+vendría 15. e5. Euwe busca la variante: 15. e5 Bxf3 16. exf6 Nxd4 17. Bxh7+ Kh8
+18. fxg7+ Kxg7 19. Bb2 Rad8, creyendo que tendría defensa. Análisis posteriores
+demostraron que las blancas quedaban mucho mejor y así lo confirma el módulo.
+Bronstein, sin embargo, prefirió otra línea:} 15. Qxc5 Nxe4 16. Bxe4 Rxe4 17.
+Ng5 {Buscando atacar. No sería bueno 17. d5? por 17. ... Bxf3 18. gxf3 Rh4 19.
+f4 Qd7. Por otra parte, se puede capturar el peón de d4, pero Euwe no lo hizo en
+vista de: 17. ... Rxd4 18. Bb2 Rd7 19. Qc2 g6 20. Ne4, con fuerte iniciativa
+blanca. A Bronstein le preocupaba 17. ... Rxd4 18. Bb2 Qf4, donde las negras dan
+una calidad, pero Euwe no quiso entrar en esa línea.} 17... Re7 18. Qc2 g6 19.
+Ne4 Bf5 {Aquí el sacrificio de pieza es forzado, pero es correcto. La idea es
+sacar al rey enemigo al centro del tablero, donde la dama, las torres y el alfil
+de c8 tratarán de masacrarlo.} 20. Nf6+ Kg7 21. Qd2 Kxf6 22. d5 Rd8 {La mejor
+jugada de la posición. Evita todas las amenazas blancas más inmediatas: contra
+23. Qh6, vendría 23. ... Rxd5, aliviando bastante la posición para las negras;
+contra 23. Bb2+ las negras pueden devolver pieza y quedan bien; 23. dxc6 no se
+puede por razones evidentes.} 23. Bb2+ Ne5 24. f4 Qc5+ 25. Kh1 {El peón de d ya
+está perdido. No merecía la pena taparse de alfil por 25. Bd4 Rxd5 26. Bxc5 Rxd2
+27. Bxe7+ Kxe7 28. fxe5 o 26. fxe5+ Ke6 27. Bxc5 Rxd2 28. Bxe7 Kxe7; en ambas
+variante las negras pueden entablar pese a la calidad de menos.} 25... Rxd5 26.
+fxe5+ Ke6 {Pese a la aparentemente precaria posición del rey negro, no es fácil
+atacarle. Decir que los alfiles de distinto color favorecen el ataque blanco.
+Sin embargo, la situación del rey en h1 y las centralizadas piezas mayores
+negras hacen que la primera fila blanca esté debilitada.} 27. Qg5 Kd7 {No era
+buena 27. ... Qc2 por 28. Rc1 Qxb2? 29. Qf6+ Kd7 30. e6+ y cae la dama a la
+siguiente.} 28. Rac1 {Según Bronstein, 28. a4 era prácticamente ganadora. 28.
+... Re6 29. Ba3 Qc4 30. Bd6 Rexd6 31. exd6 Rxd6 32. Rad1 o 28. ... Rexe5 29.
+Bxe5 Rxe5 30. Rac1.} 28... Qb6 29. Bc3 Re8 30. Bb4 Rexe5 {Era posible aquí 31.
+Rxf5 gxf5 32. Qg8 pero, tras 32. ... Qc6!, las blancas han de conformarse con
+las tablas por perpetuo.} 31. Qh4 a5 {32. Qxh7 axb4 33. Qxf7+ no trae nada bueno
+a las negras, así que Bronstein maniobra para llevar su alfil a g3 para
+coordinar con la torre de c1 en c7.} 32. Be1 h5 33. Bf2 Qa6 34. Bg3 Re4 35. Rxf5
+{Aceptar el envite era peligroso para las negras. 35. ... gxf5 36. Rc7+ Ke8 37.
+Rc8+ Kd7 38. Qd8+ Ke6 39. Qe8+ Kf6 40. Qh8+ Ke6 41. Re8+ Kd7 42. Rd8+ Kc6? 43.
+Qh6+ Re6 44. Qc1+ Rc5 45. Rc8+ Kd7 46. Rxc5. Sin embargo, repitiendo con 42. ...
+Kd7, las negras se salvan. Se demostró a posteriori que en todas las variantes
+hay defensa. En cualquier caso, Euwe prefirió optar por la más directa para
+entablar.} 35... Rxh4 {Bronstein casi se cuelga aquí. Fue a jugar 36. Rxd5+ Ke6
+37. Re5+? Kf6 38. Rf1+.} 36. Rxd5+ Ke6 37. Rcd1 Qc4 38. Rd6+ Ke7 39. Rd7+ Kf6
+{39. ... Kf8 parece arriesgada por 40. Rd8+ Kg7 41. Be5+ f6 42. R8d7+ Kh6 43.
+Bxf6, amenazando Bg7+, pero 43. ... Rf4 defiende todo.} 40. Bxh4+ Qxh4 41. Rf1+
+Kg5 {Y se firmaron las tablas. Tras 42. Rd5+ seguida de 43. Rxa5, es evidente
+que no hay mucho que hacer.} 1/2-1/2

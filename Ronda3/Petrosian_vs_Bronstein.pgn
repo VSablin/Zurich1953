@@ -1,0 +1,35 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Petrosian"]
+[Black "Bronstein"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 {Aquí 5. Qa4+, para después
+recuperar el peón con Qxc4, es también posible y muy común. Sin embargo, en esas
+líneas el caballo de dama de las negras jugará Nd7-Nb6, llegando a una buena
+casilla y ganando un tiempo sobre la dama blanca. Con la textual, las blancas
+tienen flexibilidad para tratar de recuperar el peón, sea mediante Ne5, Nbd2 o
+Qa4+. Si las negras jugasen c5, que en muchas posiciones del gambito de dama
+sirve para igualar rápidamente la contienda, el alfil de g2 se convertiría en un
+auténtico demonio al debilitarse por completo la gran diagonal blanca. Por
+ejemplo: 5. ... c5 6. 0-0 Nc6 7. Qa4+ Bd7 8. dxc5 Na5 9. Qc2 Bxc5 10. Ne5 Rc8
+11. Nc3  b5 12. Bg5, con muy buena posición para las blancas.} 5... Bb4+
+{Tratando de forzar Bd2, para que el caballo de dama blanco no se desarrolle por
+d2. Si 6. Nbd2, entonces vendría 6. ... c3 7. bxc3 Bxc3, consolidando las negras
+su peón de más. Era interesante sin embargo sacrificar aquí la calidad con 8.
+Ba3 Bxa1 9. Qxa1.} 6. Bd2 Be7 7. Qc2 {Las blancas no entran en Qa4+, para evitar
+que las negras hagan Bd7-Bc6 con ganancia de tiempos sobre la dama; notar que,
+de momento, el alfil blanco es bastante malo, así que le conviene buscar mejores
+diagonales. Si las negras jugaran ahora Bd7, vendría Ne5 ganando la pareja de
+alfiles (o forzando a las blancas a volver con su alfil a c8, lo cual sería
+bastante triste).} 7... Bd7 {Vemos que a Bronstein no le molesta que le cambien.
+Petrosian no entró en ello, pero la idea de Bronstein contra 8. Ne5 era: 8. ...
+Nc6. Si 9. Nxc6, entonces 9. ... Bxc6 10. Bxc6+ bxc6 11. Qxc4 Qd5, forzando el
+cambio de damas y llegando a una posición igualada. Si 9. Qxc4 Nxe5 10. dxe5 Nd5
+11. Bxd5 exd5 12. Qxd5 Qc8 13. 0-0 Bc6, donde son las negras las que se han
+quedado con peón de menos, pero tienen opciones de ataque al haberse quedado las
+blancas sin su alfil blanco.} 8. O-O Bc6 9. Qxc4 Bd5 10. Qc2 Nc6 11. Bc3 Be4 12.
+Qd1 O-O 13. Nbd2 Bg6 14. Nc4 Be4 15. Ncd2 Bg6 16. Nc4 Be4 17. Ncd2 {Y se
+firmaron las tablas.} 1/2-1/2

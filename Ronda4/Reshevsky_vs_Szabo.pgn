@@ -1,0 +1,37 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Reshevsky"]
+[Black "Szabo"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O {Las negras ofrecen sacrificar
+un peón tras 6. cxd5 Nxd5 7. Nxd5 Qxd5 8. Bxc7 a cambio de ganar en desarrollo
+vía 8. ... Na6, por ejemplo. Sin embargo, Reshesvky opta por una línea más
+tranquila.} 6. Qb3 c5 7. cxd5 cxd4 8. exd4 e6 {Las negras han sacrificado un
+peón y ofrecen un segundo peón (gambito ideado por el GM Trifunovic), con idea
+de abrir líneas contra el rey blanco, que está en el centro, todavía no puede
+enrocar corto y el enroque largo no parece nada seguro.} 9. dxe6 Nc6 {Aquí 9.
+... Bxe6 parecía mucho mejor... (¡el módulo me da la razón!).} 10. exf7+ Kh8
+{Tomar de torre no era posible por Bc4. Ya son tres los peones sacrificados.}
+11. Nf3 Nxd4 12. Nxd4 Qxd4 13. Be3 Qe5 {Las negras han recuperado un peón.
+Amenazan Ng4, presionando en e3, y Be6, recuperando otro peón. Las blancas paran
+ambas amenazas de una tacada:} 14. Be2 Be6 15. Bc4 Bd7 {Error de Szabo. Había
+que cambiar alfiles y jugar Rac8, ganando un tiempo sobre la dama Si 17. Qb3,
+entonces 17. ... Ng4 18. Nd1 Rc7 y las negras recuperan otro peón, con posición
+incierta. Si 17. Qd4, entonces 17. ... Qh5, tras la cual el enroque corto es
+imposible por Ng4, de nuevo con juego incierto. Si 17. Qf4, 17. ... Qe6 también
+da buenas opciones a las negras.} 16. h3 {Controlando Ng4, para buscar el
+ansiado enroque corto.} 16... b5 17. Be2 {Era posible 17. Nxb5 pese a la clavada
+tras 17. ... Rb8, ya que las blancas podrían seguir con 18. a4 a6 19. Qc3,
+buscando el cambio de damas. Si se cambian damas, se retoma de caballo y las
+blancas llegan a un final ganado. Si se aparta la dama, las blancas han ampliado
+su ventaja de material, pero es cierto que la posición es muy aguda, así que se
+entiende que Reshevsky no quisiera entrar en esto.} 17... Be6 18. Qxb5 Nd5 19.
+Nxd5 a6 20. Qc5 Rac8 21. Qa3 Bxd5 22. O-O Rxf7 {Aquí, si 22. ... Qxb2, entonces
+23. Qxb2 Bxb2 24. Rad1 y las blancas llegan a un final ganado. No es posible 24.
+... Bxa2 por 25. Rd2 Rcb8 26. Rxb2 Rxb2 27 Bd4#. 24. ... Bxf7 tampoco es muy
+buena por 25. Rd7.} 23. Rfd1 Bb7 24. Bxa6 {Si 24. ... Ra8 entonces 25. Qb3,
+tocando en b7 y f7.} 24... Qe4 25. Bxb7 Rxb7 26. Rac1 Re8 27. Rd2 Be5 28. Rcd1
+Kg8 29. b3 Bc7 30. Qa6 Rb4 31. Qd3 Qe5 32. Qd5+ {Y Szabo se rindió.} 1-0

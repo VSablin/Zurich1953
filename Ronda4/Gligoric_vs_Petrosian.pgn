@@ -1,0 +1,44 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Gligoric"]
+[Black "Petrosian"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 {N.d.T.:
+Bronstein dice que se trata de una Defensa India de Rey, pero a día de hoy esta
+línea tiene nombre propio: Defensa Benoni Moderna o Indio-Benoni. Decir que las
+blancas han violado ya uno de los principios del ajedrez: mover dos veces la
+misma pieza en la apertura. De hecho, lo moverán una tercera con Nc4. ¿Por qué
+esto funciona en este caso? Pues porque las negras también han violado varios
+principios: cambiar un peón central (el de e) por uno lateral  el de c),
+debilitar su complejo de casillas negras en el ala de rey al desprenderse de su
+peón de e y jugar g6 y crear un peón retrasado en d6. De hecho, el caballo irá a
+c4 para meter presión en d6 y b6, evitando así que las negras jueguen de forma
+activa con a6-b5. Este caballo puede ser sostenido jugando a4-a5. Por otra
+parte, desde d2, el caballo apoya e4, que, combinada con f4-e5, restringe
+muchísimo la posición negra.} 7... Nbd7 {La idea es jugar Nb6 contra Nc4.} 8. g3
+Bg7 9. Bg2 O-O 10. O-O Qe7 11. Nc4 Ne5 12. Nxe5 Qxe5 13. a4 a6 14. a5 {Las
+blancas están mejor, ya que, mientras que las negras no pueden explotar su
+mayoría en el flanco de dama por el incómodo peón de a5, las blancas pueden
+expandirse a placer con f4-e4-e5, creando un peón pasado en d5. Sin embargo,
+Gligoric prefiere maniobrar con sus piezas antes.} 14... Re8 15. Bf4 Qe7 16. Qb3
+{Estos movimientos suponen un error estratégico, ya que no se puede ganar al
+ajedrez sin movilizar los peones. Mejor era 16. Na4 Nd7 17. Rb1 seguido de 18.
+b4 para abrir líneas contra el peón retrasado de d6. Si las negras avanzan su
+peón de c a c4, este sería ahora débil y podría ser capturado.} 16... Nd7 17.
+Rfe1 Ne5 18. Na4 Bd7 19. Nb6 Rab8 20. Bd2 Bb5 21. Bc3 {Las blancas siguen mejor,
+aun con todo. Planean expulsar al caballo de e5, cambiar alfiles de casillas
+negras para debilitar al rey negro y romper la posición con e4-e5. Petrosian
+busca complicar el juego con sus siguientes jugadas (c4 y f5), pero estas no
+mejoran su posición.} 21... c4 22. Qc2 f5 23. h3 Qc7 24. f4 Nd7 25. Nxd7 Bxd7
+26. Bxg7 Kxg7 27. Qc3+ Kg8 28. Kh2 Qc5 29. e3 b5 30. axb6 Rxb6 31. Ra5 Qb4 32.
+Re2 Qxc3 {La debilidad de los peones negros de c y a hace que el final sea más
+fácil de jugar para las blancas. Notar que el cambio era forzado, ya que las
+blancas amenazaban con cambiar damas y luego tomar en a6.} 33. bxc3 Kf8 34. Kg1
+{Algo pasivo aquí Gligoric. Esto permite a las negras reagruparse y liberar a su
+torre de la defensa del peón de a6.} 34... Rb1+ 35. Kf2 Bb5 36. g4 Rc1 {Mejor
+era atacar al peón lateralmente con 36. ... Rb3 y, después de 37. Rc2, llevar al
+rey al flanco de dama para tratar de avanzar su peón pasado.} 37. Ra3 Kf7 38.
+Bf3 Re7 39. h4 Rd1 40. g5 Rd3 41. h5 gxh5 {Y tablas.} 1/2-1/2

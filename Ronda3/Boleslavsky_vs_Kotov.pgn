@@ -1,0 +1,55 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1953"]
+[White "Boleslavsky"]
+[Black "Kotov"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 cxd4 {Aquí
+es más habitual 7. ... b5, pero Kotov espera a que las blancas hayan jugado Nc3
+para poder jugar b4 con ganancia de tiempo en caso de que las blancas
+contraataque con a4 (previa retirada del alfil). Con la textual, las negras
+tendrán un cómodo desarrollo y podrán tener una pieza fuerte en d5. Sin embargo,
+también las blancas obtienen algo: poder desarrollar fácilmente su alfil de dama
+y la columna semiabierta e para sus piezas mayores. En lo que sigue Boleslavsky
+concentrará muchas piezas en el centro, llevando a un juego complicado y jugando
+el peón de d4 un papel muy interesante.} 8. exd4 Be7 9. Nc3 b5 10. Bb3 Bb7 11.
+Bg5 O-O 12. Rfe1 {Metiendo presión en e6  y, por rayos X, sobre el alfil de e7.
+Las negras deben tener cuidado. Por ejemplo: 12. ... Nbd7 13. Rad1 Nb6 14. Bxe6
+fxe6 15. Qxe6+ Rf7 16. Ne5 con ventaja decisiva. Es por esto que Kotov trata de
+cambiar o desviar el alfil de b3.} 12... Nc6 13. Rad1 Na5 {Error. Hay que decir
+que era muy difícil ver este error sobre el tablero. Esto permite a las blancas
+una fuerte ruptura que les deja con ventaja, desembocando en un final de un
+fuerte alfil contra un caballo. Algunos análisis (de Euwe y Stahlberg, por
+ejemplo) señalaron que Nb4 era necesaria. Sin embargo, Rauzer demostró que esto
+tampoco era bueno por: 13. ... Nb4 14. d5 Nbxd5 15. Nxd5 Bxd5 16. Bxd5 Nxd5 17.
+Bxe7 Qxe7 18. Rxd5, con pieza de más para las blancas. Najdorf recomendó 13. ...
+Nd5 14. Nxd5 Bxg5 15. Nc4 Nb4 y Euwe le dio la razón. Decir que 13. ... Nd5
+llegaba a un juego incierto. Por ejemplo: 14. Nxd5 Bxg5 15. Nb6 era interesante.
+Si 15. ... Rb8, entonces 16. Nxg5 Qxg5 17. Nd7, ganando calidad. Contra 15. ...
+Ra7, 16. d5 sería muy fuerte, abriendo la posición con las piezas negras un
+tanto descoordinadas. Si 15. ... Qxb6, entonces 16. Nxg5 y vendría un sacrificio
+imparable con Nxf7, seguido de Qxe6, ganando la partida. Comentarios míos (a
+partir del análisis del módulo): 1) Decir que, contra 15. Nb6, el módulo da
+ventaja clara negra por 15. ... Nxd4, ganando un tiempo sobre la dama. 2) En la
+línea con Nb6-Rb8, el módulo dice que es necesario intercalar d5 para evitar
+Nxd4 de nuevo. Para terminar, decir que la ventaja blanca se debe,
+esencialmente, a su mejor desarrollo. Cómo materializar esta ventaja,
+evidentemente, no es trivial.} 14. d5 Nxb3 {No era posible tomar en d5 por los
+rayos X sobre el alfil de e7.} 15. dxe6 Qb6 {Si 15. ... Bxf3 16. exf7+ Kh8 17.
+Rxd8 Bxe2 18. Rxa8 Rxa8 19. Rxe2, con dos piezas negras atacadas (el caballo de
+b3 y el alfil de e7), por lo que las blancas recuperan pieza, quedando con dos
+peones de más. También era posible 16. Qxf3 Nd4 17. Qe3.} 16. axb3 fxe6 17. Nd4
+{En vez de precipitarse con Qxe6+, las blancas prefieren instalar una fuerte
+pieza en e6.} 17... Bd6 18. Qxe6+ Kh8 19. Nf3 Rad8 20. Bf4 {Buena jugada,
+quitándole la pareja de alfiles a las negras.} 20... Bxf3 {No era bueno 20. ...
+Rfe8 21. Rxd6 Rxe6 22. Rxb6 Rxb6 23. Bc7.} 21. Rxd6 Rxd6 22. Qxd6 Qxd6 23. Bxd6
+Re8 24. Rxe8+ Nxe8 25. Be5 {El alfil de e5 domina al caballo de e8. Jugar Nf6 no
+sería bueno, ya que Bxf6-gxf6 llevaría a un final ganado para las blancas.
+Boleslavsky ahora fijará los peones negros de las columnas a y b en casillas
+blancas, acercará su rey al centro y maniobrará con el caballo para atacar el
+peón de a.} 25... Bc6 26. b4 h5 27. f3 Kh7 28. Ne2 g5 29. Kf2 h4 30. g3 hxg3+
+31. hxg3 Kg6 32. g4 Bb7 33. Ke3 Bc6 34. Nc3 Bb7 35. Ne4 Bd5 36. Nc5 Kf7 37. Nxa6
+Ke6 38. Bc3 Ba8 39. Nc5+ Kf7 40. Ne4 Kg6 41. Be5 Bd5 42. Nd2 Kf7 {Y Kotov
+abandonó.} 1-0

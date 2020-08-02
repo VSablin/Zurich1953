@@ -1,0 +1,60 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich "]
+[Date "????.??.??"]
+[Round "1"]
+[White "Taimanov"]
+[Black "Bronstein"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 b5 {Gambito Volga o Benkö.
+Sacrificio de peón. Si cxb5, se debilita mucho la cuña blanca de d5. Se sigue
+con a6, en principio una vez que el alfil de f1 se ha desarrollado, que fuerza
+bxa6, lo cual permitiría, llegando el momento, activar el alfil de dama por a6.
+Notar que el alfil de dama tendría poco futuro por la diagonal a8-h8 o por
+c8-h3. Otra idea del gambito consiste en aprovechar las columnas semiabiertas a
+y b. Ahí pueden ir las piezas mayores que, en coordinación con el alfil de rey,
+que se situará en g7, pueden ejercer mucha presión en el ala de dama blanca. Las
+blancas, por su parte, tratan de aguantar el peón de ventaja.} 6. cxb5 Bg7 7.
+Nf3 O-O 8. Be2 a6 9. bxa6 Bxa6 10. O-O {Aquí las blancas podrían haber
+intercambiado alfiles en a6. Ante esto, esta la idea de tomar con el caballo,
+que acaba yendo a d4 vía c7-b5. Este plan puede ser demasiado lento, por lo que
+también se puede considerar tomar con la torre, en cuyo caso el caballo de dama
+se desarrollaría por d7-b6-a5, para así cambiarlo por el caballo blanco de c3
+con idea de debilitar la defensa sobre los peones blancos de a y b.} 10... Qc7
+11. Re1 Nbd7 12. Bxa6 Rxa6 13. Qe2 {La idea es jugar e5, pero más preciso era el
+plan Bf4, Qd2, Rab1, Rfc1 (en vez de la jugada 11. Re1), vaciando la diagonal
+negra y jugando b4 llegado el momento para acabar por consolidar el peón de
+más.} 13... Rfa8 14. h3 {Aquí e5 era posible, pero, tras el cambio masivo en e5,
+las negras jugarían Kf8 y quedarían bien pese al peón de menos. la actividad de
+sus piezas compensa el material.} 14... Nb6 15. Bg5 Ne8 16. Bd2 {Aquí e5 no era
+posible, ya que, tras Nxe5, vendría f6, ganando pieza. Sin embargo, no parecía
+necesario retirar el alfil. Interesante era a3, ofreciendo a las negras la
+continuación Axc3, bxc3, Txa3, recuperando el peón, pero prescindiendo de su
+potente alfil de casillas negras. De este modo, las negras gozarían de buena
+actividad en el ala de dama, pero su enroque se vería debilitado.} 16... Na4 17.
+Nxa4 Rxa4 18. Bc3 {Aquí era posible Rxa2, pero, tras los cambios, las blancas
+podrían jugar en buenas condiciones e5 y las negras no tendrían planes claros
+para continuar.} 18... Bxc3 19. bxc3 Qa5 20. Qd3 Qa6 {El cambio de damas
+favorece a las negras. No tienen debilidades; pudiera parecer que e7 es débil,
+pero, al estar en la retaguardia, el rey y las torres lo pueden defender sin
+problema. Por contra, los peones de c3 y e4 de las blancas son fácilmente
+atacables. Además, un futuro e6 debilitaría mucho d5. Es por esto que, Taimanov,
+con buen criterio, rechaza el cambio.} 21. Qd2 Rxa2 22. Rxa2 Qxa2 23. e5 {Error.
+Las blancas quedan inferiores tras el cambio.} 23... Qxd2 24. Nxd2 dxe5 25. Rxe5
+Kf8 26. Nb3 {Demasiado optimista. Las blancas tendrían que conformarse con
+pelear por las tablas cambiando caballos y hasta dos peones por el peón de c5.}
+26... c4 27. Nc5 Ra1+ 28. Kh2 Nf6 {Muy buena jugada. Evita Cd7+, presiona sobre
+d5 y, llegado el momento, puede saltar a d5 o e4 para atacar c3. Notar además
+que la torre negra es muy activa, claramente mejor que su homóloga: está
+infiltrada en campo enemigo y puede atacar los peones del ala de rey. La ventaja
+es ya decisiva.} 29. Ne4 Nd7 30. Rg5 Ra2 31. Rg4 {Jugada importante. Si en vez
+de Rg4 hubieran jugado Kg3, entonces f5 cazaba el caballo. Si Kg1, entonces Re2,
+tras lo cual Ng3, Re1+ y, o bien cae el caballo, o bien la torre sola desactiva
+por completo a rey y caballo.} 31... f5 32. Rf4 Nb6 33. Ng5 Nxd5 34. Rd4 {A Rxc4
+vendría Rxf2. Notar que tampoco se puede tratar de ganar el peón de h, ya que:
+34. Rxc4 Rxf2 35. Nxh7+ Kg7 36. Ng5 Txg2+! 37. Kxg2 Ne3+, recuperando la torre y
+llegando a un final ganado por el peón de ventaja.} 34... Nb6 35. Rd8+ Kg7 36.
+f4 h6 37. Ne6+ Kf7 38. Nd4 Na4 39. Rc8 Nxc3 40. Rxc4 Nd5 41. Nf3 Rxg2+ {Si Kxg2,
+entonces Ne3+recupera la torre y se llega a un final completamente ganado.} 42.
+Kh1 Rf2 {Y Taimanov se rindió, al estar con dos peones de menos y no poder
+evitar la caída del peón de f.} 0-1

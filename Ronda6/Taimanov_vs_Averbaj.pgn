@@ -1,0 +1,64 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Taimanov"]
+[Black "Averbaj"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. a3
+{Era posible retirar el alfil a d6, pero Averbaj prefiere no perder tiempos para
+así poder quitarse su peón de d y abrir la diagonal para su alfil de b7. Después
+contraatacará con c5.} 8... Bxc3 9. bxc3 dxc4 10. Bxc4 c5 11. Bd3 Nbd7 12. Re1
+{Preparando e4. No es fácil pararlo... Si Be4, entonces vendrán Bf1-Nd2, por
+ejemplo.} 12... Ne4 13. Bb2 Rc8 14. c4 Ndf6 {Esto puede considerarse un error.
+Un mejor esquema defensivo hubiera sido Rc7,Qa8, Rfc8 y Nf8. Desde f8, el
+caballo defendería h7 de forma sencilla. Ahora puede ser desviado.} 15. Ne5 Rc7
+16. a4 {Creando tensiones en el ala de dama antes de lanzar un ataque en la de
+rey. De esta forma, la torre de a1 cobrará actividad.} 16... Nd6 17. a5 Nd7 18.
+axb6 axb6 19. Qh5 {Las distintas respuestas a la amenaza Qxh7# dejan a las
+blancas con superioridad. Por ejemplo: 19. ... Be4 20. Red1 y la torre mira con
+rayos X a la dama y a los dos caballos; 19. ... h6 20. Ng4, amenazando Nxh6+,
+ganando; 19. ... f5 debilita demasiado el enroque; 19. ... Nf6 20. Qh3, por las
+amenazas Ng4 y dxc5 y posibles desviaciones futuras (aparte de con Ng4) del
+caballo de f6. Averbaj opta por 19. ...g6, que también debilita, pero ha visto
+una variante en la que un peón blanco acaba en e5, lo cual bloquea la acción de
+las piezas blancas sobre las casillas negras del enroque negro.} 19... g6 20.
+Qh6 Nxe5 21. dxe5 Ne4 {A cualquier retirada del alfil, vendría Qd2 y las negras
+estarían bien. Pese a haber cedido la pareja de alfiles, la posición está
+bastante bloqueada. Es por eso que Taimanov opta por despojarse de su pareja de
+alfiles.} 22. Bxe4 Bxe4 23. Red1 Rd7 {Averbaj ofreció tablas aquí, pensando que
+había parado todas las amenazas blancas y que la posición iba a quedar
+totalmente seca tras el cambio de torres. Sin embrago, no vio la siguiente
+jugada...} 24. Rd6 {Si 24. ... Rxd6 25. exd6, la diagonal vuelve a abrirse y se
+amenaza mate. Contra 25. ... f6, vendría 26. Ra7, aprovechando la apertura
+previa de la columna a. En resumen, cambiar parece un suicidio, así que la
+blancas han ganado la columna d.} 24... Bb7 25. Rad1 {Esta jugada nunca puede
+parecer mala. Sin embargo, aquí era mucho mejor h4 o e4 (la segunda no la
+entiendo...).} 25... Rxd6 {Era inviable defenderse de forma pasiva. Seguramente
+una torre blanca acabaría en h3, o el alfil iría hasta f6, previo e4-Bc1-Bg5.
+Incuso abrir la posición con f4-f5 también era posible. Es por esto que el
+cambio es la mejor opción, pese a suponer la apertura de la diagonal a1-h8.} 26.
+exd6 f6 {Evitando el mate. Las negras querrían jugar Qd7...} 27. d7 {Este peón,
+a buen seguro, acabará cayendo, pero será a costa de descoordinar más todavía la
+posición negra. Para vislumbrar las amenazas, si movieran otra vez las blancas
+existiría la siguiente bella combinación: 28. Qxf8+ Kxf8 29. Bxf6. Esto se
+podría evitar con 27. ... Rf7, pero entonces: 28. Qh3 f5 29. Qh6 Rxd7? 30. Qg7+!
+Rxg7 31. Rxd8+. Con su próxima jugada, Averbaj evita Qxf8+ de forma original.}
+27... Bc6 {Notar que: 28. Qxf8+ Kxf8 29. Bxf6 Qxd7 30. Rxd7 Bxd7 y negras ganan.
+Ahora las negras ganarán un peón, pero su posición sigue siendo muy delicada.
+Decir que Bronstein comenta que mejor era 27. ... e5. Veamos tres variantes
+contra esta jugada: 28. h4 Rf7 29. h5 Rxd7 30. Rxd7 Qxd7 31. hxg6 hxg6 32. Qxg6+
+Qg7 y tablas; 28. f4 Rf7 29. fxe5 Rxd7 30. Rf1 Rd1 y de hecho las negras están
+mucho mejor aquí (decir que el módulo recomiendo 29. Bxe5 o Qh3, con igualdad);
+28. Qh3 Qe7 y las blancas no pueden impedir Rd8-Bc6-Rxd7. Decir que el módulo de
+análisis, contra 27. ... e5, recomienda 28. Qh4, 28. h3 y 28. Rd6...} 28. h4
+Bxd7 29. h5 {Muchas combinaciones sobrevuelan la partida. Si 29. ... g5,
+entonces 30. Bxf6 Qxf6? 31. Qxf6 Rxf6 32. Rxd7 y el final de torres está ganado
+para las blancas; ahora bien, 30. ... Rxf6 31. Qxg5+ Kf7 32. h6 e5? 33. Rd6 o
+32. ... Qe7? 33. Rxd7. Mejor era retirarse con el rey: 32. ... Kd7, Ke7 o Ke8,
+en principio llegando a tablas.} 29... gxh5 30. e4 {Planeando Rd3-Rg3. Las
+negras tratan de impedirlo activando su alfil, pero fracasarán.} 30... e5 31. f4
+exf4 {Contra 31. ... Qe7 vendría 32. fxe5 fxe5 33. Bxe5, aprovechando que el
+alfil de d7 quedaría indefenso si Qxe5. Posición desesperada. Igualmente, ahora
+están perdidas.} 32. Rd6 Qe8 33. Bxf6 Rf7 34. Rd5 {Y Averbaj se rindió.} 1-0

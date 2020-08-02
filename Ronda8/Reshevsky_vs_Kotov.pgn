@@ -1,0 +1,44 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Reshevsky"]
+[Black "Kotov"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 g6 5. e4 e5 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 Ne8 10. Rb1 {Preparando b4 para evitar el avance c5 para las negras.
+Además, buscan desarrollar el alfil de dama por a3.} 10... Nc7 11. b4 {Aquí, la
+sugerente 11. ... Ne6 podría ser contestada con 12. d5 Nd4 13. Nxd4 exd4 14. Ne2
+c5 15. bxc5 bxc5 16. f4, con la subsiguiente avalancha de peones. Es por esto
+que Kotov busca ejecutar este plan, pero con otro orden de jugadas.} 11... c5
+12. dxc5 dxc5 13. Ba3 Ne6 14. bxc5 Re8 {Si se retomaba en c5 inmediatamente con
+cualquiera de los dos caballos, vendría Qd5, con ciertas complicaciones por la
+clavada del alfil sobre la torre de f8; sin embargo, parece que las negras
+podían salir indemnes (o eso dice el módulo... Bronstein dice que pierden
+calidad seguro, pero parece que no es así).} 15. Nb5 Ndxc5 16. Qd5 {Forzando a
+retirar el caballo de c5, que irá a b6. Esto hace que el peón de c4 tornará en
+un peón móvil.} 16... Na4 17. Rb3 Nb6 18. Qd1 Bd7 19. c5 Nc8 20. Rd3 {Las
+blancas han salido mucho mejor de toda esta secuencia. Era necesario haber
+cambiado damas para aliviar la presión y las negras hubieran llegado a una
+posición decente. Ahora tendrán que entregar un peón, y ni aun así coordinarán
+sus piezas. Las blancas van a poder penetrar en séptima fila.} 20... Nd4 21.
+Nbxd4 exd4 22. Nxd4 Qa5 23. Nb3 {Tras el cambio de alfiles, vemos que las piezas
+negras siguen bastante descoordinadas. El caballo de c8 no encontrará buenas
+casillas, ya que en c8 está muy restringido por el peón de c5 y en e7 se las
+verá con el peón de e4. Una subsiguiente coordinación de las piezas blancas vía
+Qf3-Bc4 (además del Rd7 tras la captura del alfil) amenaza con sentenciar la
+partida en pocas jugadas.} 23... Qxa3 24. Rxd7 Ne7 25. Rxb7 Qxa2 26. Bb5 {Mejor
+era 26. Qf3 Rab8 27. Bc4, dejando la partida vista para sentencia, y si 27. ...
+Rxb7 vendría mate en pocas con 28. Qxf7+. O bien 26. ... Reb8 27. Rxe7 Qxb3 28. 
+Re8+ y las negras pierden muchísimo material. Aun así, las blancas siguen con
+ventaja clara.} 26... Red8 27. Qf3 Bf8 28. Bc4 Qb2 29. Qxf7+ Kh8 30. e5 Qc3 31.
+Kf1 Rab8 32. c6 Rbc8 33. Be6 Qd3+ 34. Kg1 Qe2 {Especulando con la debilidad de
+la primera fila. Ilustremos lo peligrosa que es esta jugada con la siguiente
+variante: 35. Rf1 Rd1 36. Nd2 Qxd2 37. Bc4 Rxf1+ 38. Bxf1 Qg5 y las negras se
+libran. Reshevsky no cayó en la trampa y tomó en f8 con jaque, quedando con
+pieza de más. Kotov patalea, tratando de aprovechar su peón pasado en a7 y la
+debilidad de la primera fila, pero son manotazos de ahogado...} 35. Qxf8+ Rxf8
+36. Rxe2 Rxc6 37. Rxe7 a5 38. h4 a4 39. Nd4 Rc1+ 40. Kh2 Rd1 41. Nb5 Rb1 42. Nd6
+{Y Kotov se rindió, pues Reshevsky ha acabado con todo el contrajuego  de su
+oponente y la ventaja de material es abismal.} 1-0

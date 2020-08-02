@@ -1,0 +1,37 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Euwe"]
+[Black "Reshesvsky"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 b6
+{Reshevsky permite aquí 8. e4, que amenaza 9. Bg5 - 10. e5. Si 8. ... Ne8, 9.
+Qh5 es bastante fuerte. Los módulos de análisis dan igualdad, pero es cierto
+que, desde el punto de vista humano, parece más fácil de jugar con blancas. Sin
+embargo, Euwe no consideró esta opción o no le gustó por alguna razón.} 8. Ne2
+Bb7 9. O-O d6 10. Qc2 d5 {De forma totalmente contraintuitiva, Reshevsky
+aparentemente pierde un tiempo al avanzar el peón de d a d5 en dos tiempos. Se
+lo puede permitir por la pasividad de 10. Qc2.} 11. cxd5 Qxd5 {Amenazando mate
+en g2. La única jugada que no pierde material es 12. Nf4} 12. Nf4 Qc6 13. c4
+cxd4 {13. ... g5, que parece que gana pieza, es un error grave por 14. d5,
+parando el mate con ganancia de tiempos. En tal caso, las negras hubieran
+debilitado en exceso su enroque a cambio de nada.} 14. exd4 Nbd7 15. Bb2 Rfe8
+16. Rfe1 Rac8 17. Rac1 Nf8 18. Bf1 {Defendiendo el mate por si desvían al
+caballo con 18. ... Ng6.} 18... Ng6 19. Nxg6 {La idea de Euwe es atacar por el
+futuro por la columna h. Mejor era según Bronstein, 19. Qc3, con idea de llevar
+el caballo a e5 o b4 molestando a la dama negra y liberando la diaognal b1-h7
+para el alfil de casillas blancas.} 19... hxg6 20. Re3 Red8 21. Qe2 Qd6 22. Rh3
+{Euwe es consecuente con su plan.} 22... Qf4 23. Rd1 Ba6 24. Rf3 Qe4 25. Re3 Qg4
+26. f3 {Reshevsky busca el cambio de damas, que Euwe rechaza por sus peones
+colgantes. Reshevsky ve que Euwe se verá forzado a crear debilidades, como este
+f3, para evitar el cambio.} 26... Qf4 27. g3 Qh6 28. Rc3 Qg5 29. Qf2 Rd7 30.
+Rdc1 {El alfil de casillas negras de las blancas debe situarse en e5. Es por eso
+que ahora era mejor 30. Bc1 para llevarlo a e5 vía f4. Una posible continuación
+era: 30. ... Qa5 31. Qb2 seguido de 32. Be5. Notar que las negras no podrían,
+por ejemplo, doblarse fácilmente en la columna c.} 30... Rdc7 31. R1c2 Qa5 32.
+Bc1 {Error grave. Euwe omite Nd5. Es verdad que las negras estaban mejor y que
+las blancas estaban condenadas a defenderse de forma pasiva, pero podían
+aguantar.} 32... Nd5 33. cxd5 Rxc3 34. Rxc3 Qxc3 35. Bb2 Qb3 36. Bxa6 Rc2 37. d6
+Rxf2 38. d7 Qd5 39. Kxf2 {Y Euwe dejó de sufrir.} 0-1

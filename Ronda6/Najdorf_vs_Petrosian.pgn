@@ -1,0 +1,38 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Najdorf"]
+[Black "Petrosian"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nc6 {Idea típica de la
+India de Rey: disputar d4 desde el principio. Esto invita a 7. d5, pero esto no
+sería bueno: el alfil de g7 se activaría de forma peligrosa, el de g2 se vería
+bloqueado pos sus peones y el caballo encontraría una casilla interesante en a5.
+Por ejemplo 7. d5 Na5 8. Qa4 c5 con buena posición para las negras.} 7. Nc3 Bg4
+{Insiste Petrosian en disputar d4.} 8. h3 Bxf3 9. Bxf3 Nd7 {Presionando en d4 y
+buscando forzar d5 una vez más. Veremos que Najdorf se olvida de su peón. Veamos
+qué habría pasado si hubiera tratado de defenderlo: 10. e3 e5 11. d5 Ne7,
+seguido de un posterior f5 y las negras quedan bien, con posibilidades de ataque
+en el flanco de rey; o 11. ... Ne2 12. exd4 exd4 13. Qf6 tocando en f3 y las
+negras tienen una posición sin fisuras.} 10. Bg2 Nxd4 11. Bxb7 Rb8 12. Bg2
+{Victoria moral de las negras: claramente, el peón de d4 era mucho más
+importante que el de b7.} 12... c5 {Error posicional. Las negras tienen la
+columna b semiabierta para sus torres. Un plan consecuente con ello era jugar
+a4-a5, pero defender en a5 solo es posible si un caballo va a c5, cosa que ahora
+será imposible. En la partida entre Najdorf y Geller, más adelante en este
+torneo, Geller jugó en esta posición 12. ... Rb4!, seguido de Ne5, provocando f4
+y b3, y acabando instalando un caballo en c5, con una posición excelente. Pese a
+que Najdorf encontró contrajuego en el flanco de rey, las negras pudieron
+presionar muy fácilmente sobre b3.} 13. e3 Ne6 14. Qc2 a5 15. Bd2 Ne5 16. b3 Qd7
+17. Kh2 Nc6 18. Rad1 Ned8 19. Be1 Kh8 {Las negras están sin plan. Sus dos
+últimas jugadas ponen ello de manifiesto. Entretanto, las blancas mejorarán su
+posición vía Na4, Bc3 (cambiando alfiles), f4, Bf3, Kg2, h4-h5, Rh1, etc. Notar
+además que, de requerir mover el peón de e para la defensa, se debilitará el
+peón de d, quedando retrasado en columna semiabierta.} 20. Na4 Qc8 21. Bc3 Bxc3
+22. Nxc3 Qf5 {Petrosian busca el cambio de damas, a sabiendas de que perderá un
+peón tras Rd5!, pero espera poder cazar esa torre.} 23. Qxf5 gxf5 24. Rd5 Ne6
+25. Rxf5 Nb4 26. Rh5 Ng7 27. Rh4 Nf5 28. Rf4 e6 29. Rd1 Rb6 30. Na4 Rbb8 31. Be4
+{Y Petrosian se rindió, al estar con peón de menos, sin plan y con peores
+piezas.} 1-0

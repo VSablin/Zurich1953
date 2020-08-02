@@ -1,0 +1,50 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1953"]
+[White "Kotov"]
+[Black "Keres"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 d5 {Aquí Kotov sacrifica su peón de c4.
+Veremos que no es fácil recuperarlo.} 5. Bg2 dxc4 6. Qa4+ Nfd7 7. e3 {Mejor era
+para las blancas buscar desarrollarse rápidamente: 7. Nf3 Nc6 8. 0-0 Nb6 9. Qc2
+o 8. Qxc4 Nb6 9. Qd3 Nxd4 10. Nxd4 Qxd4 11. Qxd4 Bxd4 12. Nb5 con buena
+iniciativa; y, contr 10. ... Bxd4 11. Bh6 deja al monarca negro en el centro.
+Kotov trata de recuperar el peón en dos tiempos, pero a punto estuvo de
+suponerle quedar casi perdido.} 7... O-O 8. Qxc4 c5 9. Nf3 cxd4 10. Nxd4 {No es
+mejor retomar de peón: 10. exd4 Nc6 11. d5 Nde5 o 11. Be3 Nb6 12. Qd3 Bf5 o,
+como dice el módulo, 12. ... e5. En cualquier caso, las blancas quedan con peón
+aislado y con la dama muy expuesta.} 10... Ne5 11. Qe2 Nbc6 {Las negras
+ofrecerán ahora un sacrificio posicional de peón. También era posible sacar las
+piezas rápidamente con 11. ... Bg4 12. Qc2 Nbc6 13. Nxc6 bxc6.} 12. Nxc6 Nd3+
+{Era demasiado tentadora esta jugada, pero mejor era 12. ... bxc6 13. 0-0 Qb6
+14. Rd1 Ba6! 15. Qc2 Rad8, con clara ventaja posicional.} 13. Kd2 {Única
+defensa.} 13... Nxc1+ 14. Nxd8 Nxe2 15. Nxb7 Nxc3 16. bxc3 Be6 {Más precisa era
+16. ...Bf5, que evita llevar una torre a b1 y amenaza con dar jaque con una
+torre en d8 y capturar en c3. Esto forzaría a jugar 17. e4, cerrando su alfil.
+Sin embargo, tras la textual, Kotov consigue igualar.} 17. Rhc1 Rac8 18. Rc2 Rc7
+19. Rac1 Bf5 20. Rb2 Rd7+ 21. Ke2 Rc8 {El peón de c3 está condenado. Las blancas
+tratarán de encontrar compensación, sea cambiando un caballo por un alfil o
+incluso todas las piezas menores.} 22. Rb3 Bg4+ 23. Bf3 Bxf3+ 24. Kxf3 Rdc7 25.
+c4 {La idea es cambiar una torre tras la caída del peón de c4 y después tocar en
+a7 con la otra torre.} 25... Rxc4 26. Rxc4 Rxc4 27. Ra3 h5 28. Rxa7 {Contra la
+sugerente 28. h4, para evitar g5, vendría 28. ... Rc7 29. Rxa7 Kh7 30. a4 Bc3 y
+las blancas no pueden quitarse la clavada a menos que entreguen un peón, lo que
+llevaría a unas tablas inmediatas.} 28... g5 29. Na5 Rc2 30. Nb3 g4+ 31. Kg2 e6
+32. a4 Bh6 33. Kf1 Rb2 34. Rb7 Rb1+ 35. Kg2 Rb2 36. Kf1 Rb1+ 37. Kg2 Rb2 38. Nc5
+{Era posible buscar tablas por repetición, pero Kotov juega a ganar. Sin
+embargo, esto puede considerarse una ligera imprecisión, ya que ahora las negras
+podrán tomar en e3 y tener posibilidades prácticas de victoria.} 38... Rc2 39.
+Ne4 {Y esto es ya un error. Mejor era, por alguna razón, Nd3.} 39... Bxe3 40.
+Kf1 Bd4 41. Rd7 e5 42. Rd8+ Kg7 43. Rd6 {A esto Bronstein le da signo de
+admiración. Esto se aprecia en la variante principal: 43. ... f5 44. Rd7+ Kf8
+45. Nf6 Rxf2+ 46. Ke1. Decir que también fue clave el 42. Rd8+. De haber jugado
+directamente 42. Rd6, las blancas estarían en serios problemas: 42. ... f5 43.
+Rd8+ Kf7. Pero si en la partida hubieran tratado de llevar su rey a f7 para
+evitar el perpetuo, caería el peón de f5: 43. ... f5 44. Rd7+ Kg6 45. Rd6+ Rf7
+46. Rf6+, con Rxf5 a la siguiente. Ahora las blancas dejarán caer su peón de a a
+cambio del de h y se llegará a las tablas.} 43... Ra2 44. a5 Rxa5 45. Nf6 Kf8
+46. Nxh5 Ke7 47. Rc6 f5 48. Ng7 e4 49. Rc7+ Kf6 50. Nh5+ Ke5 51. Rc2 Ra1+ 52.
+Kg2 Ra3 53. Nf4 Rf3 54. h3 gxh3+ 55. Nxh3 Ra3 56. Nf4 Kf6 57. Rc6+ Ke7 58. Rc4
+Ba7 {Y se firmaron las tablas.} 1/2-1/2

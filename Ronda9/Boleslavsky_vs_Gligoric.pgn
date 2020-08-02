@@ -1,0 +1,63 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Boleslavsky"]
+[Black "Gligoric"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f4 h6 11. Bh4 Qa5 12. e5 dxe5 13. Qxe5 b6 {En esta
+posición se entendía que el cambio de damas derivaba en un final mejor para las
+blancas y la retirada a b6 era mala por 14. Na4 Qb6 15. Bb5 Qxg2 16. Rhg1, con
+ataque para las blancas. Sin embargo, la afirmación sobre el cambio de damas es
+cierta si el peón de h está en h7. En tal caso: 13. ... Qxe5 14. fxe5 Nd5 15.
+Bxe7 Nxe7 16. Bd3 y no se puede jugar 16. ... Bd7 por 17. Bxh7+, seguido de
+Rxd7; las negras deberían seguir con 16. ... Nc6 16. Rhe1, con fuerte presión
+blanca. Al estar el peón en h6, 16. ... Bd7 se puede jugar. Tras 17. Bh7+ Kxh7
+18. Rxd7 Nc6, se acaban cambiando los peones de b7 y e5, lo cual no es mal
+negocio para las negras.} 14. Qxa5 bxa5 {Gligoric evalúa que su inferior
+estructura de peones se ve compensada por la actividad que cobran ahora sus
+alfiles y sus torres. Bronstein opina que las blancas están mejor, en parte
+porque ya tienen un peón pasado.} 15. Bd3 Bb7 16. Rhg1 Rfe8 {No sirve 16. ...
+Bc5 por 17. Rge1 Bxg2? 18. Bxf6 gxf6 19. Rg1 y las blancas ganan dos alfiles por
+una torre. También era posible 17. ... Nd5 18. Nxd5 Bxd5 19. Be4 Bxe4 20. Rxe4,
+pero el cambio masivo de piezas solo favorece a las blancas por su peón pasado.}
+17. h3 {Preparando g4} 17... Bc5 18. Rge1 Bb4 {Por lo mismo que antes, capturar
+en g2 era malo para las negras. Es por esto que quizás convendría haber jugado
+16. ... Kh8.} 19. f5 {Sin temor a 19. ... Bxc3 20. bxc3, doblando peones. Lo
+cierto es que así las blancas podrían empezar a empujar su peón de c3 con la
+pareja de alfiles. Esto no lo pueden hacer de momento con su peón de c2 porque,
+aunque no hay damas en el tablero, la alta cantidad de piezas hace que no
+convenga desproteger así al rey.} 19... e5 {Mejor era cambiar en f5 o 19. ...
+Nd5. La creación de un peón pasado no compensa para nada el hecho de que este
+peón ahora será bastante débil, además de que han perdido el control de d5.} 20.
+Bb5 Re7 21. Re3 a6 22. Ba4 Bc5 {Para tratar de buscar ganar el peón de g2, las
+negras podrían pensar en 22. ... Kf8. Sin embargo, seguiría esto con 23. a3 Bxc3
+24. Rxc3 Bxg2 25. Rg3 Rdg1, con fuerte presión sobre g7 y pareja de alfiles para
+las blancas. Tras la textual, Boleslavsky forzará cambios de piezas y el avance
+del peón de e, debilitándolo aún más.} 23. Re2 e4 24. Bb3 Rae8 25. Bxf6 gxf6 26.
+Bd5 e3 27. Bxb7 Rxb7 28. Rd5 Bb4 29. Rd3 Bxc3 30. Rxc3 Rbe7 31. Rd3 {Las blancas
+tienen ventaja en este final, ya que: cuentan con su peón pasado en c, su
+estructura de peones es mejor y el peón de e3 caerá tarde o temprano llevando al
+rey a f3, por ejemplo. En particular, amenazan con jugar c4-Rc3, buscando seguir
+avanzando con su peón de c, a la par que mantienen la presión sobre e3. Gligoric
+trata de evitar esto con su siguiente jugada:} 31... Re4 32. c3 Kg7 33. Kc2 R4e5
+34. g4 h5 35. Rd6 {Atando al rey a la defensa de f6. Sin embargo, esto debe
+considerarse un error.} 35... hxg4 36. hxg4 Kh6 {Gligoric entrega dos peones a
+cambio de penetrar con el rey y acabar por capturar los peones del flanco de rey
+y llegar hasta f3, obteniendo la igualdad. Según Bronstein, mejor hubiera sido
+34. g3 Rxf5 35. Rdxe3 Rxe3 36. Rxe3 a4 37. c4 Rf2+ 38. Kc3 a3 39. bxa3 Rxa2 y
+las blancas conservan ventaja. Según el propio Bronstein, el error fue 34. g4
+(el módulo sigue dando ventaja ahí). Según argumenta, las blancas no consiguen
+ventaja con 35. Rd4 ni con 35. c4. Por ejemplo: 35. Rd4 Kh6 36. Kd3 Kg5 37. c4
+hxg4 38. hxg4 Kh4. La idea, según Bronstein, es que g4 queda débil siempre y
+ahora ha quedado más cerca del rey negro, cuyo avance no  se puede evitar.} 37.
+Rxf6+ Kg5 38. Rxf7 Kxg4 39. Rd7 Kf3 40. Kd3 {39. Rd7 habilitaba este movimiento,
+que era clave; de no tener esta opción, ganarían las negras.} 40... Rxf5 41. c4
+a4 42. Rd6 {Y se firmaron las tablas. Las blancas no pueden mover sus torres y
+avanzar su peón de c no trae nada bueno, ya que este peón acabará siendo
+demasiado débil. Por ejemplo, si hubieran tratado de avanzar con el peón de c en
+vez de la textual: 42. c5? R8e5 43. c6 Rd5+ 44. Kc4 Rc5+ 45. Kd3 Rfd5+ 46. Rxd5
+Rxd5+ 47. Kc4 Rd2 y las negras ganan. Decir que las blancas entablan fácilmente
+dejando su columna de d6 en la columna d.} 1/2-1/2

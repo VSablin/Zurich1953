@@ -1,0 +1,60 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Reshevsky"]
+[Black "Petrosian"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 {Se entiende que esta jugada restringe la posición blanca. Aun
+así, no se trata, ni mucho menos, de ventaja negra.} 10. cxd5 exd5 11. Bb2
+{Desarrollando su alfil de casillas negras. Se trata de una jugada
+contraintuitiva, ya que choca con sus propios peones y permite c4, restringiendo
+mucho la acción del alfil de b2. Podría parecer mejor jugar a4-Ba3 o dxc5-c4 y
+después llevar el alfil a b2. Sin embargo, si 11. dxc5 bxc5 12. c4 entonces 12.
+... Rb2, quitando la casilla b2 al alfil. Si 11. a4 cxd4 las blancas pueden
+retomar con c o con e. Si 12. cxd4 Bg4, metiendo mucha presión en d4, y si 12.
+exd4 entonces 12. ... Ne4. A partir de ahora, las blancas tratarán de avanzar
+sus peones de e y f para crear un peón pasado en d y lanzar un ataque contra el
+rey negro. De momento las negras deben frenar este plan antes de intentar
+aprovechar su mayoría de peones en el flanco de dama.} 11... c4 12. Bc2 Bg4 13.
+Qe1 Ne4 {Sugerente era aquí 13. ... Bxf3 14. gxh3 Nh5, con idea de atacar el
+enroque blanco. Seguramente Petrosian rechazó esta idea por el hecho de que las
+blancas podrían usar la columna g para atacar, por el hecho de que no quería dar
+su alfil blanco por un caballo, sino por el alfil blanco de las blancas y porque
+ahora las blancas podrían quizás empujar con mucho ímpetu con sus peones
+centrales. Las blancas consolidarían su posición jugando f4, f3, Qf2, Rad1, Bc1,
+Kh1, e4, eligiendo el orden según los acontecimientos (probablemente otras
+jugadas como Rg1 fueran necesarias). Las negras, por su parte, tendrían como
+plan atacar en el flanco de rey, pero las posibilidades de éxito serían bajas
+por la dificultad para maniobrar sus caballos por la restricción que los
+provocan los peones. Petrosian entiende que en esas líneas puede quedar peor y
+opta por estas jugadas sólidas, entendiendo que no puede quedar peor.} 14. Nd2
+Nxd2 15. Qxd2 Bh5 16. f3 Bg6 17. e4 Qd7 18. Rae1 dxe4 19. fxe4 Rfe8 {20. a4
+parece buena, pero vendría 20. ... Ne4! 21 Ba3 Nd3 22. Bxd3 cxd3 23. Qxd3 Qxa4.}
+20. Qf4 b5 {Reforzando c4 y evitando a4, que ahora sí que era posible.} 21. Bd1
+Re7 22. Bg4 Qe8 23. e5 a5 24. Re3 Rd8 25. Rfe1 Re6 {Sacrificio defensivo de
+calidad. La idea es liberar la casilla e7 para su caballo, que iría a d5, y
+bloquear el avance de los peones blancos. Petrosian entiende que el caballo de
+d5 y el alfil de g6, que no tendría alfil opositor y goza de una muy buena
+diagonal, serían compensación suficiente por la calidad. Decir que, en las
+jugadas previas, Reshevsky podría haber jugado Rg3 y h4 con idea de lanzar un
+ataque directo contra el rey negro, pero prefiere esta vía para lograr ventaja.}
+26. a4 {Con idea de forzar 26. ... b4 27. d5 Rxd5 28. Bxe6 fxe6 29. Qxc4. Sin
+embargo, Petrosian sigue otro plan:} 26... Ne7 27. Bxe6 fxe6 28. Qf1 {Reforzando
+c3 y evitando b4. Además, tiene como idea reforzar el punto d3, para devolver la
+calidad y ganar un peón si las blancas juegan Bd3.} 28... Nd5 29. Rf3 Bd3 30.
+Rxd3 cxd3 31. Qxd3 b4 {Dos opciones: cambiar en b4, que lleva casi seguro a
+tablas, y c4, creando un peón pasado a la parque ganando un tiempo sobre el
+caballo. La segunda es claramente de doble filo. Reshesvsky opta por la primera
+vía. Veamos dos variantes que parecen dar la razón a Reshevsky: 32. c4 Nb6 33.
+Rc1 Nxa4 34. Ba1 Qc6 o 33. d5 exd5 34. c5 Nxa4 35. Bd4 Rc8 36. Qf3 Qe6; en las
+dos líneas las negras bloquean bien el avance de los peones blancos y cuentan
+con ciertas opciones de victoria.} 32. cxb4 axb4 {Era posible 32. ... Nxb4 33.
+Qb3 Nd5 o 33. Qb5 Qxb5 34. axb5 Nd3 35. Re2 Rb8 36. Rd2 Rxb5 37. Rxd3 Rxb2 38.
+d5 con tablas.} 33. a5 Ra8 34. Ra1 Qc6 35. Bc1 {Buscando complicar la partida
+con 35. ... Rxa5? 36. Rxa5 Qxc1+ 37. Qf1 Qe3+ 38. Kh1 h6 39. Ra8+ Kh7 40. Qb1+
+g6 41. Ra7+ Kh8 42. h3. Se trata de una línea en la que las negras pueden quedar
+perdidas, así que prefieren evitarla.} 35... Qc7 36. a6 Qb6 37. Bd2 b3 38. Qc4
+h6 39. h3 b2 40. Rb1 Kh8 41. Be1 {Tablas.} 1/2-1/2

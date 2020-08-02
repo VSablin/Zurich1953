@@ -1,0 +1,39 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Szabo"]
+[Black "Geller"]
+[Result "0-1"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. d4 dxc4 5. Qa4+ Nbd7 6. Nf3 a6 7. Qxc4 b5 8. Qc6
+{Szabo pretende debilitar las casillas negras de su oponente (ya es el caso en
+el flanco de dama, además de que el avance e6 ya debilita parcialmente f6 y d6).
+Es por esto que empieza una maniobra para intercambiar los alfiles de casillas
+negras y así explotar esta debilidad.} 8... Rb8 9. Bf4 Nd5 10. Bg5 Be7 11. Bxe7
+Qxe7 12. O-O Bb7 13. Qc2 c5 14. dxc5 Nxc5 15. Rc1 Rc8 16. Nc3 Nf6 {Imprecisión.
+Era mejor Nb6, controlando c4 y dificultando b4. Esta jugada permite Nxb5. Si
+axb5, vendría b4. De retirarse el caballo de c5, vendría: Qxc8+, Bxc8, Rxc8+,
+Kd7, Txh8, llegando a una posición de dos torres contra dama con peón de más
+para las blancas. En esa posición, el par de torres parece superior a la dama al
+disponer estas de columnas abiertas y al estar el rey blanco muy seguro. Sin
+embargo, Szabo no vio o no evaluó correctamente esta opción y siguió con su
+plan, tratando de fijar los peones de a6 y b5 en estas casillas.} 17. b4 Na4 18.
+Qb3 Nxc3 19. Rxc3 Rxc3 20. Qxc3 O-O 21. Rc1 Rd8 {Interesante remarcar que Rc8 se
+hubiera encontrado con la siguiente combinación: 21. ... Td8, 22. Dxc8+, Axc8,
+23. Txc8+, Ce8, 24. Ce5, siendo 25. Ac6 inevitable, llegando a un final de dama
+contra torres y dos piezas menores.} 22. a3 Nd5 {Szabo amenazaba con llegar con
+sus piezas mayores a la séptima fila vía c7 y con instalar su caballo en c5. Con
+esta jugada, trata de complicar el juego.} 23. Qd4 f6 24. Ne1 e5 25. Qc5
+{Buscando el cambio de damas. Interesante era Da7, tratando de explotar la
+debilidad de las casillas negras en el ala de dama.} 25... Qxc5 26. bxc5 {Rxc5
+era superior.} 26... Bc6 27. Rd1 Rd7 28. Bh3 Re7 29. Nc2 a5 30. Bg2 Rd7 31. Bh3
+Re7 32. Kf1 {Aquí se podrían haber acordado las tablas, pero Szabo decidió
+evitar la triple repetición. Se trata de un error, ya que su posición es ya
+inferior, ya que tienen una peor estructura de peones y las piezas negras ya no
+están sometidas a clavadas.} 32... Kf7 33. Ke1 Rc7 34. Rd3 Bb7 35. Ne3 Rxc5 36.
+Nf5 Bc6 37. Nd6+ Kf8 38. Bg2 g6 39. Kd2 Ke7 40. Ne4 Rc4 41. f3 f5 42. Nf2 Ra4
+43. Nd1 e4 44. fxe4 fxe4 45. Rb3 Rd4+ 46. Kc1 b4 {El plan de las negras es
+claro: crear un peón pasado en el ala de dama. Y es inevitable.} 47. Ne3 Nc3 48.
+axb4 Nxe2+ 49. Kb1 Ba4 50. Rb2 Nc3+ 51. Kc1 axb4 52. Rd2 Rxd2 53. Kxd2 Kd6 54.
+Ng4 Kc5 55. h4 Kd4 56. h5 gxh5 57. Ne3 Nb1+ 58. Ke2 Bb5+ 59. Kf2 b3 {0-1.} 0-1

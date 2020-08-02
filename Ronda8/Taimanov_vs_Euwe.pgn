@@ -1,0 +1,57 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Taimanov"]
+[Black "Euwe"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 {Jugable pero, según Bronstein, no la
+mejor. Una de las ideas es montar la batería alfil-dama con Bb1-Qc2. Otra es
+apoyar c4-d5 y jugar Bb2, pero entonces el alfil de a2 queda bloqueado. Mejor
+era, según Bronstein, buscar un avance e4-e5.} 11... e5 12. Qc2 Bg4 13. d5 Ne7
+14. c4 Bxf3 15. gxf3 Qd7 {Las blancas no están mal. Si consiguen jugar Kh1, Rg2,
+Bb2, Bb1, etc. estarán muy bien. Sin embargo, las negras han completado su
+desarrollo y amenazan Qh3, Ng6 y Ng4, de tal forma que las blancas no tienen
+tiempos para preparar su ataque en condiciones.} 16. Bb1 {No había tiempo a
+empezar con Kh1-Rg1. Por ejemplo: 16. Kh1 Qh3 17. Qe2? e4 18. Rg1? exf3 19. Qf1
+Ng4 20. Qxh3 Nxf2#. Deberían buscar un sacrificio de calidad de querer entrar en
+esta línea: 18 fxe4! Ng4 19. f4 Nxh2 20. Qg2 Qxg2 21. Kxg2 Nxf1, con unos
+fuertes peones centrales como compensación. Otra opción hubiera sido 17. Bb2
+Qcc4 18. Bxe5, pero las negras están mejor, debido a que sus piezas están bien
+coordinadas y su rey más seguro.} 16... Ng6 17. Qf5 Qxf5 18. Bxf5 Nh4 19. Be4
+{Situación en la que la pareja de caballos es mejor que la de alfiles: el de e4
+está atado a la defensa de f3 y se ve impedido por sus peones centrales. El de
+c1 choca contra a3 y e3. Era posible buscar Bc2, sacrificando en f3, tratando de
+abrir el juego para explotar la pareja de alfiles.} 19... Nxe4 {Mejor era llevar
+una torre al centro, ya que, como comentábamos, de momento el par de caballos es
+mejor que la pareja de alfiles en esta posición.} 20. fxe4 f5 21. exf5 e4
+{Ligera imprecisión. Siendo una buena jugada, mejor era Nf3+, seguida de e4,
+Rxf5, Rg5+, etc. La posición blanca sería desesperada. Ahora Euwe encontrará
+defensa.} 22. f4 {Sorprendente jugada. Esto desencadena un cambio masivo de
+material, llegando a un final en el que las negras tedrán dos peones de más,
+pero Taimanov encuentra cómo defenderse.} 22... exf3 23. e4 Rae8 24. Bg5 Rxe4
+25. Bxh4 Rxh4 26. Rxf3 Rxc4 27. Re1 Rg4+ {Sutil jugada. De tratar de cazar
+peones inmediatamente, podemos ver que se llega a las tablas: 27. ... Rd4 28.
+Re7 Rxd5 29. Rxb7 Rdxf5 30. Rxf5 Rxf5 31. Rxa7 y tablas. Ahora, como el rey
+estará en la columna f (llevarlo a h1 lo dejaría muy poco activo), los cambios
+en f5 terminarían con jaque, de tal forma que obtendrían ventaja las negras.}
+28. Kf2 Rd4 29. Re7 Rxd5 30. f6 {Buscando complicaciones, destrozando la
+estructura de peones del flanco de rey. Bronstein comenta que quizás fuera mejor
+seguir con 30. ... g6, pero lo cierto es que el módulo dice que la mejor es la
+que hizo Euwe. Bronstein indica esta variante: 30. ... g6 31. Rg7+ Kh8 32. Rxb7
+c4 33. Rc7 Rd3, etc. y el módulo la evalúa como igualada. A saber...} 30... Rxf6
+31. Rxf6 gxf6 32. Rxb7 a5 33. Rb5 a4 {Mejor era, según Bronstein, 33. ... Rf5+
+34. Ke3 Re5+ 35. Kf4 c4.} 34. Ra5 Rd4 35. Rxc5 {Es difícil no hacer esta jugada,
+pero seguramente era mejor 35. Ra7, controlando la séptima fila y desactivando
+al rey. Aun así, la partida sería incierta.} 35... Rd3 36. Ra5 Rxa3 37. Ra7 Ra1
+38. Kg3 a3 39. Kg4 a2 {Las negras deben avanzar su peón de f hasta f3. En tal
+caso, la victoria sería inevitable. Aun con la mejor disposición posible de
+piezas blancas (Ra7-Kf2), vendría la típica Rh1, coronando a la siguiente o
+ganando la torre tras Rxa2-Rxh2+ y Rxa2 a la siguiente.} 40. Kh5 f5 41. Kh6 f4
+{[%cal da7a4,df4f3,da4a3,df3f2,da3g3,dg8h8,dg3a3,da1g1,da3a8,dg1g8][%c_arrow
+a7a4;,f4f3;,a4a3;,f3f2;,a3g3;,g8h8;,g3a3;,a1g1;,a3a8;,g1g8;] Y Taimanov se
+rindió. La victoria es automática tras, por ejemplo, 42. Ra4 f3 43. Ra3 f2 44.
+Rg3+ Kh8 45. Ra3 Rg1 46. Ra8+ Rg8 y es imparable la coronación de uno de los dos
+peones.} 0-1

@@ -1,0 +1,72 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Szabo"]
+[Black "Petrosian"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 {Con idea,
+evidentemente, de desarrollar su alfil de dama. En tiempos se consideraba que
+esto daba ventaja a las blancas tras 8. cxd5 exd5 9. Ne5. Sin embargo, las
+negras tienen 8. ... Nxd5, de tal forma que no bloquearían a su alfil de dama si
+se desarrollara por b7. Se puede seguir con 9. Bxe7 Qxe7 10. Nxd5 exd5; aunque
+de nuevo hay un peón bloqueando la diagonal, el alfil puede ir ahora por a6. A
+día de hoy esto se considera igualdad, así que Szabo no entró en esto.} 8. Bd3
+Bb7 9. O-O Nbd7 10. Rc1 {Más común es 10. Qe2 Ne4 11. Bg3 Nxg3 12. fxg3. Tras la
+textual, las negras no buscan 10. ... Ne4, ya que el alfil de h4, en vez de
+retirarse, se cambia por su homólogo de e7, sin miedo a 11. ... Nxc3 12. Bxd8
+Nxd1 13. Rfxd1 Rfxd8 14. cxd5 exd5 15. Rxc7, ganando un peón las blancas. Si 11.
+... Qxe7 12 cxd5 exd5 13. Nxe4 dxe4 14. Rxc7 Bc8 15. Bb5 exf3 16. Qxf3 Rb8 17.
+Rxa7, donde las blancas han ganado tres peones por una pieza y tienen una
+posición dominante.} 10... c5 11. Qe2 a6 {Las negras todavía no han desarrollado
+sus piezas mayores. Buscan 12. ... dxc4 13. Bxc4 b5, seguido de Qb6-Rfd8-Rac8.
+Sin embargo, se puede considerar que 13. ... b5 pierde un tiempo y quizás 13.
+... Ne4 sea mejor.} 12. cxd5 exd5 {Indica Bronstein que, más acorde con la
+defensa elegida hubiera sido 12. ... Nxd5, entiendo que porque las piezas negras
+están un tanto apelotonadas y les conviene cambiar varias piezas menores. La
+continuación podría ser 13. Bxe7 Qxe7 14. Nxd5 Bxd5, con buen juego para las
+negras. Contra 15. e4, el alfil es podría retirar a b7. Contra 15. Bxa6 sería
+posible 15. ... Bxa2, aunque Bronstein se decanta por 15. ... Bxf3 16. gxf3 cxd4
+17. exd4 Nf6, con buenas perspectivas por la debilidad del rey blanco y que el
+caballo de f3 puede encontrar buenos pastos en d5 y f4. Otra opción contra 12.
+... Nxd5 era la simple 13. Bg3.} 13. dxc5 bxc5 14. Rfd1 Re8 15. Bc2 Qb6 16. Bb3
+{Tras los cambios, vemos que Petrosian se ha quedado con peones colgantes, los
+cuales parecen bastante débiles. Llevando su alfil a b3, Szabo logra forzar el
+avance de uno de estos peones, debilitando aún más a su compañero y casillas
+centrales importantes.} 16... c4 17. Ba4 {Jugando contra el caballo de d7, que
+ahora queda clavado. Se amenaza tanto Bxf6 como Bxd7 seguido de Nxd5. Petrosian
+debe resignarse a cambiar uno de sus defensores del peón de d5.} 17... Bc6 {Aquí
+Szabo cambió alfiles, pero mejor era 18. Bc2!, para seguir explotando la
+debilidad del peón de d5 y tratar de coordinar a la par un ataque contra el rey
+negro. Por ejemplo: 18. ... Rab8 19. Nd4 Ba8 20. Rb1, las negras se empiezan a
+tambalear. Las blancas amenazan Bg3 y Nf5, buscando lanzar un ataque contra el
+rey.} 18. Bxc6 Qxc6 19. b3 {Imprecisión. La idea es dinamitar los peones
+colgantes, pero lo cierto es que esta jugada tiene demasiados puntos en contra:
+debilita el complejo de casillas negras del flanco de dama, abilitando b4 y a3
+al alfil de e7; además, quita el soporte al caballo de c3. Mejor era 19. Nd4,
+buscando Nf5, o 19. Rc2 para doblar torres en la columna c y seguir presionando
+sobre d5.} 19... Rac8 20. Na4 {Otra imprecisión. El caballo no hace nada ahí...}
+20... Qb5 21. Nc3 Qa5 22. Bxf6 Nxf6 23. bxc4 dxc4 24. Nd2 {Jugando a ganar,
+presionando en d4, pero comenta Bronstein que mejor era tratar de forzar las
+tablas. Para ese propósito, interesante era 24. Rd4 y, contra 24. ... Bb4,
+podría venir 25. Rxc4 Bx3 26. R1xc3 Qxc3 27. Rxc3 Rxc3 28. h3, cambiando dos
+torres por dama y llegando a una posición bastante seca.} 24... Rc6 25. Nxc4
+{Ahora esos caballos no tienen buena pinta.} 25... Qc7 26. Na4 {26. Nd5,
+aparentemente más activa, no convenía por 26. ... Nxd5 27. Rxd5 Bf6 y el caballo
+de c3 no tiene forma de salir de la clavada. Mejor era 26. Nb1 Rc8 27. Nbd2 Bb4
+28. Rb1 Nd5 29. Rxb4, con opciones de secar la partida.} 26... Rc8 27. Rd4
+{Error. La clavada es cada vez más peligrosa. Notar que la torre de c1 ahora
+está totalmente indefensa y pueden aparecer temas de mate en la primera fila.
+Mejor era 27. Nab6} 27... Ne8 {No solo preparando la evidente Nd6, sino
+habilitando f6 para su alfil, donde molestará a la torre de d4 y quitará la
+casilla b2 al caballo de a4. Decir que 27. ... Nd7 hubiera sido un error por 28.
+Rc2! Ne5, y ahora el alfil no puede meter presión desde f6 porque su caballo le
+bloquea, lo que deja un tiempo a las blancas para jugar 29. Nab2, llevando más
+tarde su torre de c2 a la columna d.  Contra Rc2 también era posible 28. ...
+Bf6, que se hubiera encontrado con la simple 29. Re4.} 28. e4 Bf6 29. e5 Bxe5
+30. Re4 Nf6 {Si 31. Rxe5 las blancas pierden pieza: 31. ... Rxc4 32. Rxc4 Qxc4,
+amenazando a la vez dama, caballo y mate. Si 33. Qd1, entonces 33. ... Qxa4,
+aprovechando la debilidad de la primera fila. Si 33. Qxc4, entonces 33. ... Rxc4
+amenaza caballo y mate.} 31. Nab6 Rxb6 32. Rxe5 Rc6 33. Re7 Rxc4 34. Re1 Qc5 35.
+h3 Rc1 36. Rxc1 Qxc1+ 37. Kh2 Qc4 38. Qf3 Qxa2 39. Ra7 {Y Szabo se rindió.} 0-1

@@ -1,0 +1,39 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Keres"]
+[Black "Boleslavsky"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 {Evitando el Ataque Sämisch y la variante de los
+cuatro peones. Si, por ejemplo 4. d5, las negras pueden seguir con 4. ... Bf5,
+no tienen que finachettar su alfil de rey, y a 5. f3 pueden jugar 5. ... e4. Si
+4. e4, las negras ganan tiempos con 4. ... exd4 5. Qxd4 Nc6, siguiendo con Be7 o
+g6. Si 4. dxe5 dxe5 5. Qxd8+ Kxd8 y, aunque el rey ha perdido el derecho a
+enrocar, estará bien en c7. Keres tiene otras ideas aquí: llevará su alfil a
+g5.} 4. Nf3 Nbd7 5. Bg5 {Esto dificulta el plan típico de la India de Rey de
+g6-Bg7: 5. ... g6 6. dxe5 dxe5 7. Nxe5 y las negras perderían un peón (notar que
+no vale 7. ... Nxe5 por 8. Qxd8+ Kxd8 9. Bxf6+). La natural 5. ... Be7 es muy
+pasiva y va contra el espíritu de la India de Rey. Las blancas seguirían con e3,
+Be2 y 0-0. Veremos que Boleselavsky tenía preparado algo especial contra todo
+esto.} 5... h6 6. Bh4 g5 7. dxe5 {Si el alfil se retiraba otra vez, las negras
+hubieran constreñido por completo la posición blanca con e4-e3.} 7... gxh4 8.
+exf6 Qxf6 9. Nd5 Qxb2 {Esta era la idea de Boleslavsky: sacrificar una torre a
+cambio de ataque. La compensación está en que el alfil de negras no tiene
+opositor, que el caballo en a8 quedará muy mal y que a las blancas les falta
+desarrollo. Esta era la idea de Boleslavsky: 10. Nxc7+ Kd8 11. Nxa8 d5! 12. Rc1
+Bb4+ 13. Nd2 Nc5 14. Rc2 Qe5 15. e3 Bf5. Najdorf sugirió tras la partida 9. ...
+Qd8, pero no parece muy bueno: 10. Qd4 Ne5 11. Nxe5 Bg7 12. Nxf7 Kxf7 13. Qf4+
+Kg8 14. 0-0-0 c6 15. Nc3 Qa5 y las negras tienen una posición pasable, pero
+inferior. Amenazan aparentemente Bxc3, pero ni siquiera eso es peligroso para
+las blancas: 16. Qxd6 Bxc3 17. bxc3 Qxc3+ 18. Kb1 Bf5+ 19. e4 Bxe4+ 20. Bd3.}
+10. Rb1 {Boleslavsky omitió esta jugada en sus análisis. Notar que este
+movimiento no era tan contundente tras 10. Nxc7+, ya que las negras contaría con
+Bd3+.} 10... Qxa2 11. Nxc7+ Kd8 12. Nxa8 Nc5 {Error. Mejor era Bg7, manteniendo
+opciones de ataque. Por ejemplo: 12. ... Bg7 13 Rc1 Qa3 14. Qd2 Nc5. El caballo
+de a8 puede quedar atrapado, de tal modo que las negras tendrían calidad de
+menos por un peón de más} 13. Ra1 Qb2 14. Qd4 {Es por esto que Nc5 es un error:
+el cambio de damas es ahora forzado.} 14... Qxd4 15. Nxd4 Bg7 16. e3 Re8 17. Be2
+Bxd4 18. exd4 Nb3 19. Rxa7 Nxd4 20. Ra2 h3 21. Rg1 Rg8 22. g4 {Y Boleslavsky
+dejó de sufrir.} 1-0

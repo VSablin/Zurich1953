@@ -1,0 +1,82 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Euwe"]
+[Black "Najdorf"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d5 e5 7. Bg5 h6 {Esta
+jugada, con vistas a librarse de la clavada en f6, no hubiera sido posible más
+adelante. Las blancas podrían haber jugado Qd2, imposibilitando ya h6, seguirían
+con Bh6, seguido de h4-h5, con fuerte ataque. También era posible 7. ... d6.} 8.
+Bxf6 Qxf6 9. d6 {Esta jugada tiene tres ideas: dificultar el desarrollo del
+flanco de dama negro, incomunicar ambos flancos para las negras y habilitar la
+casilla d5 para el alfil de g2 o para un caballo. Por ejemplo, el alfil de dama
+deberá desarrollarse tras un b6 por b7 o a6. Sin embargo, mover el peón de b no
+es posible porque la torre caería. Es por esto que, según comenta Bronstein, lo
+correcto aquí para las negras es la secuencia Nc6-b6-Bb7. Decir que d6 tiene un
+inconveniente: seguramente será difícil defender este peón.} 9... Nc6 10. e3 b6
+11. Bd5 Kh8 {Liberando al peón de f7 de la clavada, con idea de jugar f5.
+Najdorf, en análisis posteriores, planteó que podría ser mejor jugar Ba6-Rb8-b5,
+buscando actividad en el flanco de dama, pero parece que el ataque blanco llega
+muy rápido.} 12. Ne4 Qd8 13. h4 f5 14. Ng5 {Tomar sería desastroso, ya que las
+blancas recuperan pieza inmediatamente y el rey queda en una situación muy
+precaria al abrirse la columna h.} 14... Bb7 {Las blancas podrían ganar calidad
+ahora con 15. Nf7+ Rxf7 16. Bxf7. Sin embargo, tras 16. ... Nb4, las negras
+ganan iniciativa con fuerte compensación por la calidad (incluso ventaja).} 15.
+g4 {Euwe sigue con su ataque. Contra 15. ... Na5 vendría 16. Bxb7 Nxb7 17. Qxd5,
+amenazando Qxb7 y Nf7+, esta vez sí, ganando calidad sin compensación para las
+negras. Otra opción era 15. ... Qf6, pero entonces 16. Nf7+ fuerza a dar
+calidad, de nuevo sin compensación (16. ... Rh7 lleva al colapso tras 17. g5,
+con ataque doble sobre la dama y el peón de h6, abriendo sin remedio el enroque
+negro).} 15... e4 {Con ide a de abrir la diagonal a1-h8 para tratar de desplazar
+su alfil de g7 y poner ahí a su rey, que ayuda a controlar el salto del caballo
+blanco de g5 a f7. La parte negativa es que debilita f4, donde se instalará el
+caballo de g1 vía e2.} 16. Ne2 Bxb2 17. Nf4 {Euwe sacrifica un peón y la
+calidad. Se podía capturar, pero el ataque blanco viene muy fuerte. Por ejemplo:
+17. ... Bxa1 18. gxf5 Bc3+19. Kf1, y las blancas amenazarían Nxg6+, Qg4, etc.
+Decir que 18. Qxa1+ llevaría a cierta igualdad tras 18. ... Qf6 19. Nxg6+ Kg7;
+el ataque se diluye, pero las blancas tienen compensación por la precaria
+posición del rey negro.} 17... Qf6 18. gxf5 Bxa1 {Najdorf plantea devolver
+material más adelante sacrificando su dama por dos piezas menores o una pieza
+menor y un peón. Era posible también 18. ... gxf5, pero las blancas venían con
+un fuerte ataque tras 19. Rb1 Be5 20. Qh5. El módulo de análisis dicta que esto
+último era lo correcto para las negras, puesto que parece haber defensa, pero es
+cierto que da mucho miedo.} 19. Nxg6+ Kg7 20. Nxe4 {Era posible 20. Nf4,
+amenazando jugadas como Nh5+, Qh5 o Rg1. Sin embargo, en esa línea (que era
+perfectamente jugable para las blancas), las negras tienen libertad de elección.
+Tras la textual, las negras no tienen la casilla c3 para penetrar con su dama.
+Indica Bronstein que, aun así, las blancas están ya mucho mejor. Por ejemplo:
+20. Nf4 Qc3+ 21. Kf1 Rxf5 22. Qg4 o 21. ... hxg5 22. hxg5 Rxf5 23. Rh7+ y mate
+en pocas.} 20... Bc3+ {Malo sería para las negras 20. ... Qxf5 21. Qxa1+ Kxg6
+22. Rg1+, con ataque fulminante. Meten esta jugada intermedia para entonces
+seguir con Qxf5, presionando en f2 y quitándole su sostén al caballo de g6.} 21.
+Kf1 Qxf5 22. Nf4 {Pese al material de más, las blancas tienen ventaja. Las
+negras han de ser extremadamente precisas si no quieren quedar completamente
+perdidas. Por ejemplo, la aparentemente buena 22. ... Be5 pierde por 23. Ng3 Qh7
+24. Qg4+ Kh8 25. Ng6+, 22. ... Qe5 se encontraría con 23. Qg4+, si 22. ... Bf3,
+tanto 23. Ng3 como 23. Rg1+ ganan. En cualquier caso, según Bronstein, ni la
+mejor de las defensas podía evitar la derrota negra. Decir que las blancas
+podrían haber jugado a tablas con 22. Rg1 Qh3+ 23. Rg2 24. Qh1+ Rg1 25. Qh3+ y
+tablas por repetición.} 22... Kh8 {Buena jugada, única según el módulo para
+seguir con vida. Ahora las blancas deben aceptar el alfil, recuperando material,
+puesto que seguir con el ataque con 23. Rg1 es incierto.} 23. Nxc3 Rae8
+{Imprecisión. Era necesario 23. ... Nd8 para buscar el cambio de alfiles. Por
+ejemplo: 23. ... Nd8 24. Bxb7 Nxb7 25. Nce2 Qe4, que podría seguir con 26. Rg1
+Rg8 o 26. Ng3 Qxc4+ 27. Rg2 Rxf4 y, en ambas variantes, está nada claro cómo
+podría proliferar el ataque blanco. Decir que mejor era, probablemente, 25.
+Ncd5!, dejando caer su peón de d6 y siguiendo con el ataque. En cualquier caso,
+Najdorf dejó escapar esta oportunidad para defenderse.} 24. Nce2 Rg8 25. h5 Rg5
+26. Ng3 Rxg3 {Devolviendo material. Era necesario. Por ejemplo, 26. ... Qg4 se
+encontraría con 27. Bf3 y el ataque sigue siendo muy fuerte.} 27. fxg3 Rxe3
+{Error. Mejor era, de nuevo, tratar de cambiar alfiles con 27. ... Nd8 o 27. ...
+Na5.} 28. Kf2 {Como comenta Bronstein aquí, pese a que hay equilibrio de
+material y, nota mía, ambos reyes están en posiciones precarias, la diferencia
+viene dada principalmente por las piezas menores: mientras que el alfil de b7 y
+el caballo de c6 no hacen nada, sus homólogos de d5 y f4 están en posiciones
+inmejorables. Esto se traducirá en breves en una decisiva oleada de ataque al
+rey de h8.} 28... Re8 29. Re1 Rxe1 30. Qxe1 Kg7 31. Qe8 Qc2+ 32. Kg1 Qd1+ 33.
+Kh2 Qc2+ 34. Ng2 Qf5 35. Qg8+ Kf6 36. Qh8+ Kg5 37. Qg7+ {Y Najdorf se rindió,
+puesto que el mate es inevitable: 37. ... Qg6 38. Qxg6# o 37. ... Kxh5 38. Bf7+
+Qxf7 39. g4# o 38. ... Qg6 39. Qxg6#.} *

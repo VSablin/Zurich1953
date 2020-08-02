@@ -1,0 +1,81 @@
+﻿[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Stahlberg"]
+[Black "Boleslavsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Qc2 {Aquí las blancas pretenden sacar
+su alfil de dama por e3, pero antes tienen que apuntalar el peón de e4. Las
+negras, por su parte, parece que pueden capturar en e4 ya por los rayos x del
+alfil de g7 sobre el caballo de d4. Sin embargo, esto no sería bueno para las
+negras: 12. ... Nfxe4 13. Nxe4 Bxd4 14. Bg5 Qd7 15. Nf6+ Bxf6 16. Bxf6 con
+ventaja clara para las blancas pese al peón de menos por la debilidad de las
+casillas negras del enroque rival, unido al hecho de que las blancas cuentan con
+su alfil negro y las negras no.} 12... a4 13. Be3 c6 14. Rad1 Nfd7 {Como suele
+ser habitual en la defensa india de rey, las blancas tienen ventaja de espacio
+en el centro. Además, en este caso, también tienen más espacio en el flanco de
+rey. Sin embargo, no es evidente cómo transformar esta ventaja. Las negras
+tienen compensación por varias razones: la columna e está semiabierta y la torre
+de e8 presiona constantemente en e4, los alfiles negros son muy fuertes (el de
+casillas blancas ahora mismo está bloqueado por el caballo de d7, pero pronto
+ganará actividad), el caballo de c5 está muy bien situado, el peón de a4
+incordia mucho en el ala de dama y el peón de d6, aparentemente débil, puede
+avanzar a d5 en cualquier momento. De hecho el plan de las negras gira en torno
+a buscar ese avance y el de las blancas en impedirlo.} 15. f4 Qa5 16. Bf2 Nb6
+17. Bf1 Bd7 18. a3 {Evitando a3, que debilitaría mucho el flanco de dama blanco.
+La desventaja es que la casilla b3 queda debilitada. De aquí en adelante, las
+blancas buscan e5 y las negras d5 y e5. Ambos bandos tratan de preparar sus
+avances y evitar los del bando rival.} 18... Rad8 19. Kh2 Bc8 20. Na2 Nbd7 21.
+Bg2 Nf6 22. Nc3 Rd7 23. Nf3 Rde7 {Notar que el peón de d6, un peón retrasado en
+columna semiabierta, aparentemente débil, no ha podido ser atacado con
+solvencia. El caballo de d4 ha tenido que retirarse para poder presionar sobre
+él. Pero es que tal caballo era muy importante en ese punto, ya que controla
+casillas centrales cruciales y se opone a la acción del alfil de g7. Es ahora,
+una vez que las negras no pueden romper con f5, que a3 se ha evitado y que Ae6
+no viene con mucha fuerza, cuando retirar este caballo tiene sentido y se
+empieza a presionar sobre d6.} 24. Ng1 {Jugada de apariencia extraña. La idea es
+dejar de estorbar al alfil de g2 en su defensa de e4. e5 también era posible,
+pero esto debilita f5. Podría venir Af5, tras lo cual exf6! mantiene la
+contienda. Se puede estudiar la variante, viendo que se termina en una posición
+de tres piezas menores por dama. Ahora bien, también las negras pueden responder
+con dxe5, librándose de su peón retrasado.} 24... Nfd7 {Sacrificando en d6. Sin
+embargo, tras Txd6, vendría Cb6, presionando sobre c4 y con buena posición
+negra. Las blancas, en vez de entrar en eso directamente, intercambian antes los
+alfiles de casillas negras.} 25. Bd4 Nb6 26. Bxg7 Kxg7 27. Rxd6 Nxc4 28. Rdd1
+Be6 {La posición ha cambiado mucho. Las blancas pretenden atacar por el flanco
+de rey aprovechando la debilidad de las casillas negras del enroque de las
+negras. Las negras tratarán de evitar ese ataque con f6 y Bf7 (es por esto que
+hay que resaltar la anterior Be6). Si las negras logran defenderse, estarán
+mejor por las debilidades de la posición blanca (b3, d3, f3 y e3).} 29. Qf2 f6
+30. Nf3 Bf7 31. e5 {Sacrificio de peón para abrir líneas contra el rey negro.}
+31... fxe5 32. Nxe5 Nxe5 33. Rxe5 Rxe5 34. fxe5 Rxe5 35. Rf1 Rf5 {Aquí Qc7
+aseguraba unas tablas, defendiendo totalmente la posición.} 36. Qd4+ Kg8 37.
+Rxf5 gxf5 38. Qe5 {La potencia de la dama centralizada y la debilidad del rey
+negro compensan de sobra el peón de menos.} 38... Qb6 {Desclavándose. De no
+apartarse de los rayos x de la dama de e5, podría venir g4 y, si fxg4, entonces
+Ne4 sería ganadora. Jugar aquí Bg4 hubiera sido desastroso, ya que, además de la
+fuerte amenaza que supondría g4, se liberaría la diagonal g8-a2 para el alfil
+blanco, que se reciclaría vía f1-d4, par aponer en muchos apuros al rey negro.}
+39. Qxf5 Bg6 40. Qe5 Nd3 {Las negras buscan actividad. Además de la presión
+sobre b2, buscan un Qf2, seguido de Ne1 ganando.} 41. Qe6+ Kg7 42. Qe7+
+{Retirarse a g8 es la mejor opción, pero es cierto que parece peligroso por la
+posibilidad de que el alfil entre por la diagonal g8-a2. Es por esto que las
+negras podrían haber considerado cubrirse de alfil antes. Esto podría llevar a
+Qg4+, ganando el peón de a4, pero entonces las negras podrían penetrar
+finalmente en f2 y las blancas perderían la iniciativa. Lo más normal es que la
+partida acabara en tablas en ese caso.} 42... Bf7 {Error grave. Como decíamos,
+Kg8 era necesario. Sin embargo, no era evidente encontrar cómo ganar. De hecho,
+Stahlberg no lo vio.} 43. Ne4 {Con idea de Nd6.} 43... Qxb2 44. Nd6 Qf2 45. Ne8+
+{Aquí h4 era ganadora. Muy difícil de ver. La idea, entiendo, es que controla la
+casilla g5, colaborando en futuras redes de mate. Si el rey se va a la octava
+fila, huyendo de esas redes, entonces hay combinaciones con Nxf7 seguido de
+Qd8+, ganando el caballo de d3.} 45... Kg8 46. Nf6+ Kg7 47. Nh5+ Kg6 48. g4
+{Aquí h4, buscando dar mate con Qg5#, se encontraría con 48. ... h6 49. Qe4+
+Kxh5 50. Kh3, que parece que lleva al mate imparable, pero 50. ... Nf4+,
+alejando al rey blanco y liquidando el peligro. De hecho las negras estarían
+ganando.} 48... Nc5 {Y se acordaron las tablas. Las blancas podrían haber
+intentado 49. h4 h6? 50 Qxc5! Qxc5 51. Be4#. Sin embargo, con 49. ... Ne6, se 
+evitan los problemas.} 1/2-1/2

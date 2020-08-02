@@ -1,0 +1,52 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Averbaj"]
+[Black "Gligoric"]
+[Result "0-1"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 {Se trata de una posición muy común en la Defensa India de Rey.
+Comentemos las ideas de la posición para ambos bandos. Las negras cambian peones
+en d4 para abrir la diagonal para su alfil de g7 y presionar en la casilla d4.
+Además, atacarán e4 con sus caballos y con una torre. Se puede instalar un
+caballo en c5, apuntalado por a5, que evita b4. El peón de a5, más adelante,
+avanzará a a4 incluso a3 para desestabilizar el flanco de dama blanco. Las
+blancas, por su parte, tienen más espacio gracias a sus peones de e4 y c4
+(estructura estilo Maroczy), lo que les da muchas posibilidades para maniobrar
+con sus piezas. La idea es disponerlas para que defiendan e4 y presionen sobre
+la columna d, donde puede quedar un peón retrasado más adelante.} 9... Nc5 10.
+f3 {Novedad introducida por Averbaj. Seguirá con Rf2-Rd2, con idea de presionar
+en d. f3 refuerza e4, permite el pase de la torre a d2 y evita Ng4, que sería
+molesta contra la natural Be3. Tiene como inconveniente que cierra la diagonal
+para el alfil de g2, pero esto es solo momentáneamente.} 10... a5 11. Be3 a4 12.
+Rf2 c6 13. Nc2 Qe7 14. Rd2 {Hay mucha presión sobre d6. Rd8 no funciona por
+Bxc5.} 14... Nfd7 15. Rc1 {Si 15. Rxd6 entonces 15. ... a3. Si 16 Nxa3 16. ...
+Bxc3 pierde pieza.} 15... Be5 {Jugada rara, ya que el alfil ahí no está estable
+y las blancas podrían tratar de expandirse con ganancia de tiempos vía f4 en el
+futuro; comentaremos enseguida que, de momento, esto no es muy recomendable.}
+16. Bf2 {Aquí 16. f4 no era muy recomendable todavía por 16. ... Bxc3 17. bxc3
+Nxe4 18. Bxe4 Qxe4 19. Rxd6, con posición claramente de doble filo.} 16... Re8
+17. Ne3 {Buscando Ng4.} 17... Nf8 18. Ne2 Qc7 19. Rb1 a3 20. b3 {Contra 20. b4
+vendría 20. ... Na4, que podría acabar en b2.} 20... h5 21. Qc2 Be6 22. Nc3 Nh7
+{Las blancas se lanzan al ataque para aprovechar su ventaja de espacio con 23.
+b4. Bronstein comenta que mejor hubiera sido, probablemente, preparar algo mejor
+esta apertura de líneas con 23. Rbd1.} 23. b4 Na6 24. f4 Bg7 25. f5 {Jugada de
+doble filo.} 25... Bd7 26. Qb3 {Ahora Averbaj peca de conservador. Seguramente
+hubiera sido mejor seguir con el ataque con 26. fxg6 fxg5 27. e5 Rxe5 28. Qxg6,
+amenazando Rxd6, Ne4, Nf5...} 26... Nf6 27. fxg6 {Ahora se trata, sin embargo,
+de una imprecisión. Mejor era 27. Rbd1 y, si 27. ... Bf8, entonces 28. c5.}
+27... fxg6 28. c5+ Be6 29. cxd6 Bxb3 30. dxc7 Bf7 {Las blancas han desperdiciado
+su ventaja, quedando sin ataque por el cambio de damas y dejando muchas
+debilidades en sus filas (c7, a2, b4...).} 31. b5 Nxc7 32. bxc6 bxc6 33. Rb7
+Rac8 {Según comenta Bronstein, cuando Averbaj seguramente calculó esta variante
+hasta aquí una vez que lanzó su 23. b4 y creyó tener ventaja por su torre en
+séptima, pero lo cierto es que las negras tienen ventaja por su peligroso peón
+de a3.} 34. Rc2 {Controlando 34. ... Nb5.} 34... Na6 35. Bf1 {Error decisivo
+según el módulo. La posición, aunque compleja, era de igualdad según la máquina.
+Aquí era necesario jugar activo con e5.} 35... Nc5 36. Rxf7 {Planteando una
+trampita.} 36... Kxf7 37. Bc4+ Kf8 38. Nf5 {Si 38. ... gxf5 entonces 39. Bxc5+,
+recuperando material y quedándose las blancas mejor.} 38... Ncxe4 39. Nxg7 Kxg7
+40. Nxe4 Rxe4 41. Ba6 Rd8 42. h3 Rb4 43. Rxc6 Ne4 44. Rc7+ Kh8 45. Be3 Rb2 {Y
+Averbaj se rindió.} 0-1

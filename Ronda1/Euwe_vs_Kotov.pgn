@@ -1,0 +1,42 @@
+﻿[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Euwe"]
+[Black "Kotov"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 {Las negras tienen a su favor la columna semiabierta e, un tres
+contra dos en el flanco de dama y buenas diagonales para sus alfiles; sin
+embargo, posicionalmente su posición no es ideal, principalmente por el débil
+peón de d6. Las blancas, por su parte, tratarán de explotar la debilidad de d6
+llevando un caballo a c4.} 10. a4 Nbd7 11. Nd2 {Como decíamos, las blancas
+llevan un caballo a c4. Esta maniobra Ng1-Nf3-Nd2-Nc4 se conoce como \"Pirueta 
+de Nimzovich\" Además, quieren jugar a5 para evitar la avalancha de peones en el
+flanco de dama. Decir que, si las negras consiguen jugar b5, el caballo de c4 se
+reciclará por a5-c6.} 11... Re8 12. a5 b5 13. axb6 Nxb6 14. Nb3 {Como Nc4 ya no
+se puede, el caballo trata de explotar la debilidad de la casilla c6 vía
+Na5-Nc6.} 14... Qc7 15. Na5 Bd7 16. h3 Bb5 17. Be3 Nfd7 {El caballo irá a c4 vía
+e5 o a c5 tras un previo c5 seguido de Nc5.} 18. Qb3 {Esta jugada evita c4
+(seguiría Qb4 y después es inevitable Nxb5 seguido de Qxb5, gaando un peón y la
+pareja de alfiles) y también Ne5 por razones análogas. Notar que las blancas
+están sacrificando el peón de e2 si las negras previamente cambian en c3. Sin
+embargo, tendrían compensación de sobra por la debilidad de las casillas negras
+entorno al rey negro. Por ejemplo, 18. ... Bxc3 19. Qxc3 Bxe2 20. Rfe1 Bb5 21.
+Bh6 f6 22. Re6 y las blancas tendrían una fuerte iniciativa en el ala de rey.}
+18... Nf6 {Más interesante parecía aquí Rab8, apuntando con rayos X a la dama.
+Por ejemplo, 19. Nxb5 axb5 20. Nc6 Rb7 y 21. Qxb5 no es posible por Nxd5 por
+ataque a la descubierta sobre la dama, ganando como mínimo un peón tras los
+cambios en e3.} 19. Rfc1 Bd7 20. Qd1 {Preparando b4. Las negras lo impiden
+sacrificando la calidad.} 20... Rxe3 21. fxe3 Bh6 22. Qd3 Re8 23. Kh2 Rxe3 24.
+Qxa6 Re5 {Error grave. Las negras pierden toda la iniciativa obtenida tras el
+sacrificio. El peón de e5 no se puede capturar ya que, tras los cambios, vendría
+Qa8+, ganando más material. Tenían alternativas muy prometedoras, como Nh5, con
+fuerte presión sobre g3 o Bc8, tocando la dama. Por su parte, las blancas se
+activan rápidamente con sus torres por las columnas abiertas. Ventaja decisiva
+blanca.} 25. Rf1 Bc8 26. Qb5 Bd7 27. Nc6 Kg7 {No era posible capturar en d5 ya
+que, tras los cambios, vendría Ce7+, ganando más material.} 28. Ra6 Nc8 29. Qb8
+Qxb8 30. Nxb8 Bf5 31. Rc6 Re8 32. e4 Bd7 33. e5 Rxe5 34. Nxd7 Nxd7 35. Rxc8 Re3
+36. Rc6 Ne5 37. Rxd6 Rd3 38. Rd1 Re3 39. Rc6 {Y Kotov se rindió por razones
+evidentes.} 1-0

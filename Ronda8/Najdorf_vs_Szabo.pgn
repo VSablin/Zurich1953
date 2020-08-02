@@ -1,0 +1,46 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Najdorf"]
+[Black "Szabo"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 {Esta jugada no
+suele jugarse en la Grünfeld, puesto que se refuerza el punto d4 y se abre la
+columna b para las piezas mayores blancas. Sin embargo, a cambio las blancas ya
+no tienen la columna c para activarse y el peón de c3 podría ser débil. Además,
+el caballo de c3 estaba bien ubicado y el de d4 no tenía ninguna retirada
+evidente.} 7. bxc3 c5 8. e3 O-O {Lo bueno de esta tensión para las negras es que
+dxc5 nunca tendrá sentido, mientras que, preparándolo con cuidado, cxd4 será
+posible. Además, como veremos, mediante ... c4 las negras pueden activar su
+alfil de g7.} 9. Ne2 Nc6 10. O-O Qa5 {Otro plan era 10. ... Na5, para buscar
+Nc4, seguido de Bd7, cxd4, Rac8, Bc6, etc. Contra la textual, 11. a4 es bastante
+fuerte, buscando Ba3 en el futuro. Pero no inmediatamente, ya que 11. a4 Rd8 12.
+Ba3 Bg4 13. f3, ya que 13. Bxc5 sería castigada con 13. ... Qxc5 aprovechando la
+clavada sobre la dama y que el caballo de e2 estaría colgando al final de la
+variante; lo correcto sería 11. a4 Rd8 12. Qb3, seguido de 13. Ba3.} 11. Qb3
+{Metiendo presión en b7, evitando el desarrollo del alfil de c8.} 11... Bg4
+{Sacrificando un peón por el desarrollo. Najdorf no entró en esto, pero, tras
+12. f3 Be6, podrían venir 13. d5 c4 14. Qxc4 Bxd5; 13. Qxb8 Bc4; 13. Qa3 Bc4 14.
+Qxa5 Nxa5 15. Re1 Rac8 16. Ba3 b6 17. f4 Rfd8, habiendo igualdad en todas las
+líneas según Bronstein (el módulo me dice que las negras están mejor...).} 12.
+Nf4 e5 {Esta jugada es posible por estar el caballo en f4. De lo contrario, se
+encontraría con d5. Ahora el centro blanco saltará por los aire.s} 13. dxe5 Nxe5
+14. h3 {Las blancas están peor. No se puede tomar en b7: 14. Qxb7? Rab8 15. Qe7
+Qxc3 y las blancas pierden pieza; tampoco se puede tomar de alfil por lo mismo
+14. Bxb7 Rab8 15. Qd5 Bf3 o 15. ... Rxb7 con fuerte ataque. Las opciones de las
+blancas pasan por instalar un fuerte caballo en d5 y sostenerlo con e4, pero
+esto no es posible inmediatamente: 14. Nd5 Be2 15. Re1 Nf3+ 16. Bxf3 Bxf3 y las
+blancas están perdidas; o bien 14. e4 Nf3+ 15. Kh1 Bxc3 16. Rb1 Nd4 17. Qxb7
+Qxa2. Por eso Najdorf juega antes h3, para expulsar a ese alfil.} 14... Bf3 15.
+Bxf3 Nxf3+ 16. Kg2 Ne5 17. e4 b5 {Mejor era 17. ... Qa6, aprovechando la
+debilidad de las casillas blancas, defendiendo en b7, pudiendo jugar Qe2 contra
+Nd5. Se puede ver la fuerza de la jugada en varias posibles combinaciones: 18.
+Qa3 Qc4; 18. Ba3 b6 o 18. Be3 d4 19. Qc2 Nd3; y si 18. f3, la debilidad de la
+segunda fila sería decisiva.} 18. Be3 c4 19. Qc2 Nd3 {Si no, venía Bd4!, con
+buena posición para las blancas.} 20. Nxd3 cxd3 21. Qxd3 Bxc3 22. Rad1 Rac8 23.
+Qd5 Rfe8 24. Qb3 Rc4 25. Rd5 a6 26. Qxc4 bxc4 27. Rxa5 Bxa5 28. Kf3 {Y tablas.
+Las negras podrían estar mejor si el alfil estuviera en g7. Sin embargo, ahora
+se encuentran las tablas fácilmente tras: 28. ... Rb8 29. Rc1 c3 30. Bd4 Rb2 31.
+Bxc3 Bxc3 32. Rxc3 Rxa2, con posición totalmente seca.} 1/2-1/2

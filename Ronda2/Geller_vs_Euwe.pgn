@@ -1,0 +1,52 @@
+﻿[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Geller"]
+[Black "Euwe"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 Bb7 8. f3
+{Las negras han optado por jugar b6 y Bb7 frente a las usuales Nc6 y 0-0. Esto
+fuerza prácticamente este f3, que bloquea la acción del alfil de b7 sobre g2 y
+prepara e4.} 8... Nc6 9. Ne2 O-O 10. O-O Na5 11. e4 Ne8 {Evitando Bg5 y
+liberando el peón de f para jugar f5 si es preciso (por ejemplo, contra un
+avance f4). Esto último explica la jugada de las blancas, que controla f5. Hay
+que decir que el peón de c4 es muy débil, pero las blancas no piensan ir a
+defenderlo y pelearán por la iniciativa.} 12. Ng3 cxd4 13. cxd4 Rc8 14. f4 Nxc4
+15. f5 f6 16. Rf4 {Las blancas se lanzan al ataque. 15. ... f6 era necesaria ya
+que, de lo contrario, las blancas hubieran hecho lo propio; contra Nxf6 hubiera
+venido la clavada Bg5. Las piezas mayores pasarían a placer a la columna h y el
+ataque blanco sería muy fuerte.} 16... b5 {Bronstein da signo de admiración a 
+esta jugada. Tratar de agrupar las piezas para la defensa en el flanco de rey no
+tendría sentido. Jugadas como Rf7, Qe7, etc. acabarían por dejar a las negras
+prácticamente sin movimientos posibles y las blancas organizarían sus piezas
+para atacar a placer. Es por esto que las negras deben reaccionar con un plan
+activo y este b5! es el comienzo de ello. La idea es activarse con su torre de
+c8, su alfil de b7 y llevando la dama a b6, por ejemplo.} 17. Rh4 Qb6 {Metiendo
+presión sobre d4. Apartar el alfil para que la dama defienda este peón parece
+demasiado pasivo. Además, la idea de las blancas es llevar la dama a h5.} 18. e5
+Nxe5 19. fxe6 Nxd3 {exd7, de apariencia suculenta, es mala. Vendría Qc6,
+amenazando Qxg2# y Qxd7.} 20. Qxd3 Qxe6 21. Qxh7+ {A simple vista parece que las
+blancas están ganando. Sin embargo, hay defensa.} 21... Kf7 22. Bh6 Rh8
+{Sacrificio de torre. La idea es desviar a la dama de la diagonal h7-b1 para
+jugar Rc2. Aunque había otras opciones, el sacrificio es correcto. Notar que la
+captura es forzada ya que, de lo contrario, vendría Rxh6 a la siguiente.} 23.
+Qxh8 Rc2 {Amenazando mate en pocas con Rxg2+ seguida de Qc4+, etc. Son ahora las
+blancas las que parecen contra las cuerdas, pero de nueva hay defensa. 24. d5
+era única, ya que evita las entradas de la dama por c4. Si 24. ... Qb6+ 25. Kh1
+Qf2 26. Rg1 Bxd5 27. Re4! salva la partida y, de hecho, las blancas quedan con
+ventaja clara por el material de más, al haber parado el ataque. Si 24. ... Bxd5
+25. Rd1! coordinando con la torre de h4 en d4 para parar futuros jaques de la
+dama 25. ... Rxg2+ 26. Kf1 gxh6 27. Qxh6! El resto de capturas, véanse Rxh6 y
+Rxd5, serían perdedoras. El rey quedaría demasiado expuesto. Con Qxh6, se
+consigue que la dama vuelva a actuar en la defensa, siendo clave en varias
+variantes. Tras 27. Qxh6, se llega a un final con calidad de más para las
+blancas por dos peones. Igualdad, pero podría pasar cualquier cosa. En cualquier
+caso, Geller no vio ninguna de estas líneas y con razón; aquí solo hemos
+cubierto dos variantes, pero un análisis exhaustivo requeriría más de una
+semana.} 24. Rc1 {Con idea de evitar Qc4+ tras Rxg2+. Sin embargo, las blancas
+están totalmente perdidas.} 24... Rxg2+ 25. Kf1 Qb3 {Amenazando Qf3+ y mate en
+pocas.} 26. Ke1 Qf3 {Y las negras dan mate en pocas tras Qf2+ (7, según el
+módulo, con entregas masiva de material blanco mediante). Si 27. Rc2 Rg1+ 28.
+Kd2 Rd1#. 0-1.} 0-1

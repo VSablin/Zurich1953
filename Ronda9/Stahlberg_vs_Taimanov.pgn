@@ -1,0 +1,56 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Stahlberg"]
+[Black "Taimanov"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 {Variante atípica de la Defensa India de
+Dama, siendo lo normal desarrollar el alfil por b7. La virtud de esta línea es
+que presionamos inmediatamente en c4. Este péon se puede defender de varias
+maneras, pero todas ellas tienen sus inconvenientes.} 5. Qa4 {Bronstein
+recomienda aquí 5. ... c5, aprovechando que 6. d5 no es posible. Contra 6. Bg2
+vendría 6. ... Bb7. Sin embargo, como veremos, Taimanov tiene tras ideas para su
+peón de c.} 5... Be7 6. Bg2 O-O 7. Nc3 c6 8. Ne5 {8. Bf4 era posible aquí, a lo
+cual Taimanov respondería probablemente con 8. ... Qc8 o Bb7; 8. ... b5
+generaría complicaciones, pero estas acabarían favoreciendo a las blancas.} 8...
+Qe8 9. O-O d5 10. Re1 {Preparando e4. Mejor era, sin embargo, 10. cxd5  cxd5 11.
+Qxe8, seguido de 12. Rfe1, buscando ahora sí e4, quedando con ventaja de
+espacio.} 10... b5 {Las negras ganan iniciativa ahora.} 11. cxb5 cxb5 12. Qd1 b4
+13. Nb1 {Con idea de llevar el caballo a d2 para apoyar su soñado e4. Sin
+embargo, mejor era 13. Na4 para buscar un Nc5 en el futuro.} 13... Nc6 14. Nxc6
+Qxc6 15. Nd2 Qb6 16. e3 {Dando por fallido su e5. Las negras tienen ahora una
+clara ventaja. Mejor era, parece 16. Nb3.} 16... Rac8 17. Bf1 Rc6 18. Bxa6 Qxa6
+19. Nf3 Rfc8 20. Qb3 Ne4 21. Nd2 Rc2 {Posición instructiva por varias razones.
+1) Si tenemos solo un alfil, conviene situar los peones en casillas del color
+contrario, de tal forma que nuestro alfil tenga movilidad. En la presente
+posición, el alfil de c1 es un mero espectador y entorpece, y mucho, la posición
+blanca. 2) Nunca conviene cambiar nuestro alfil del fianchetto del enroque.
+Ahora las negras podrán instalar su dama en f3 y avanzar de forma imparable su
+peón de h, creando muchísimos problemas al rey blanco. 3) La importancia de la
+séptima/segunda fila. Las negras podrían haber ganado material con 21. ... Rxc1
+Raxc1 22. Nxd2, pero prefieren penetrar en la segunda fila.} 22. Nxe4 dxe4 23.
+a3 {Las negras podrían definir aquí con 23. ... Qd3 24. Qxd3 exd3, amenazando d2
+ganando el alfil. Y si 25. Rd1 entonces 25. ... Re2 y el peón es incomestible
+por el jaque en e1, ganando las negras pieza. Y si las blancas rechazan el
+cambio da damas con 24. Qa4, la simple 24. ... b3 acentuaría la presión sobre
+las piezas blancas. Por ejemplo 25. Qxa7 Bf8 26. a4 Re2 27. Rf1 R8c2 28. a5 Rxf2
+29. Rxf2 Qd1+ 30. Kg2 Qf3+, con ventaja decisiva. La jugada de Taimanov, h5,
+tampoco fue mala. De hecho el módulo indica que es bastante mejor que lo que
+propone Bronstein.} 23... h5 24. d5 R8c4 {No es bueno 25. dxe6, ya que vendría
+25. ... Qxe6 y la dama se activaría mucho vía Qf6-Qf3, a lo cual seguiría un h4,
+ganando la partida en el acto. Veamos una variante: 25. dxe6 Qxe6 26. axb4 Rxc1
+27. Raxc1 Rxc1 28. Qxe6 Rxe1+, seguido de 29. fxe6, con ventaja de material
+decisiva.} 25. Rd1 exd5 26. Bd2 Qf6 27. Rab1 h4 28. Qa4 Qf5 29. Qxa7 Bf8 {Como
+veremos, ahora Stahlberg puede forzar el cambio de damas, pero la posición está
+igualmente perdida para él por el dominio total de las torres negras y sus
+peones centrales. Para evitar el cambio (que, como decimos, no es un problema),
+Taimanov debería haber jugado 29. ... Bg5.} 30. Qb8 g5 31. gxh4 gxh4 32. Qf4
+Qxf4 33. exf4 d4 34. b3 Rc6 35. axb4 f5 {Taimanov ha cedido parte de su ventaja.
+Incluso se ha quedado con peón de menos. Sin embargo, la precaria estructura de
+peones de las blancas, el dominio total que ejercen sobre la posición las torres
+negras y el peón pasado de d4 siguen dándole a las negras ventaja decisiva.} 36.
+h3 Ra6 37. Rbc1 Rxc1 38. Rxc1 Ra2 39. Be1 Rb2 40. Kg2 Rxb3 41. Rc8 Rb1 42. Bd2
+e3 {Y Stahlberg se rindió. Notar que no vale 43. fxe3 por 43. ... Rb2, ganando
+pieza.} 0-1

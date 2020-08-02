@@ -1,0 +1,43 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Geller"]
+[Black "Boleslavsky"]
+[Result "0-1"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bxf6 Qxf6 7. e4 {Geller da
+la pareja de alfiles a cambio de instalar un potente centro de peones.} 7... Bb4
+8. Bd3 c5 {Al tener pareja de alfiles, las negras quieren abrir la posición.} 9.
+O-O cxd4 10. Nb5 Qd8 {La defensa más satisfactoria contra Nc7+.} 11. Nbxd4 O-O
+12. Qe2 Nc6 13. Rad1 Nxd4 14. Nxd4 {Las negras tienen pareja de alfiles; por su
+parte, las blancas tienen más desarrollo, más espacio, podrán cargar contra el
+peón retrasado de d7 y pueden aprovechar la debilidad de la casilla d6.} 14...
+Bc5 15. Bc2 Rc8 16. e5 Qg5 {Amenazando Qxg2#.} 17. f4 {Más prudente era 17. Be4
+para cambiar alfiles de casillas blancas.} 17... Qe7 {Ahora 18. Be4 no fuerza el
+cambio por 18. ... Ba6 19. b3 d5 20. exd6 Qxd6, tras lo cual las negras se
+quitarían su peón retrasado a cambio de nada.} 18. Kh1 f5 19. Nb5 a6 20. Nd6
+Bxd6 21. Rxd6 Rc6 22. Rfd1 {Era mejor retirar primero la torre de d6 y luego
+buscar el doblaje de torres, para entonces seguir cargando sobre el peón de d7.
+Las negras no hubieran tenido otra que defender de forma pasiva con Rc7, Bc8, y
+Rd8.} 22... Rxd6 23. Rxd6 Bc6 24. b4 {Esta movilización en el flanco de dama es
+interesante, pero era necesario antes consolidar la posición con Qd3 o Rg1 para
+evitar el contrajuego de las negras.} 24... Qh4 {Tocando en f4 y especulando con
+la debilidad de la primera fila. Por ejemplo, si 25. b5, las negras podrían
+tomar dos veces en b5 por la sobrecarga de la dama de e2, que defiende el mate
+en e1.} 25. Rd4 {Error. Las negras lo aprovecharán.} 25... g5 {Tratando de abrir
+la columna g. De este modo, las piezas mayores coordinarían muy bien con el
+alfil para atacar al rey blanco. Además, notar que fxg5 no es posible, ya que la
+torre, a rayos X de la dama, está indefensa. Aun así, las negras tenían una
+mejor: 25. ... Bc4 era muy buena, aprovechando la sobrecarga de la dama. Las
+negras acabarían ganando un peón tras 26. Bxe4 Qxf4 27. g3 Qxe5 28. Rxd7 fxe4.}
+26. Kg1 {Mejor era 26. Qe3 gxf4 27. Rxf4 Qg5 28. Qf2 Kh8} 26... gxf4 27. Qf2 Qe7
+28. a3 Qg7 {Bonita maniobra para llegar a g7 con ganancia de tiempos por el
+camino.} 29. Rxf4 Qxe5 30. Rd4 Rf7 31. Bd3 {Cambiar damas con 31. Qg3+ hubiera
+llevado a un final perdido para las blancas.} 31... f4 32. Bf1 Qf6 33. Rd2 b5
+34. c5 Qa1 {Al verse con un peón de más y tener la iniciativa, las negras pueden
+forzar el cambio de damas.} 35. Qh4 Qf6 36. Qxf6 Rxf6 37. Kf2 e5 38. g3 fxg3+
+{Error grave de Geller, probablemente por los apuros de tiempo, al no darse de
+que no puede retomar con el rey porque el alfil de f1 está colgando.} 39. Ke1
+Rf3 40. hxg3 Rxg3 41. Rd6 Kg7 42. Bd3 e4 43. Be2 Rxa3 44. Bg4 Rd3 {Y Geller se
+rindió.} 0-1

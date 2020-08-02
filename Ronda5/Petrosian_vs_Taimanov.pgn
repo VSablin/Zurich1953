@@ -1,0 +1,41 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "1953"]
+[White "Petrosian"]
+[Black "Taimanov"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 d5 6. cxd5 exd5 7. Bb5+
+{Provocando c6, que bloquea al alfil de b7. Mejor hubiera sido para las negras
+jugar 6. ... Be7, dejando el peón de d en su casilla original.} 7... c6 8. Bd3
+Be7 9. O-O O-O 10. b3 Nbd7 11. Bb2 Bd6 {Jugada un tanto rara. Las blancas
+planean jugar Nh4-Nf5, por lo que ese alfil deberá desplazarse otra vez. Mejor
+era jugar Re8, activando la torre de rey y creando una vía de escape para su
+alfil en f8.} 12. Nh4 Re8 13. Nf5 Bf8 14. Rc1 Ne4 15. Bxe4 dxe4 16. Qg4 {Parece
+buena 16. d5, pero tras 16. ... cxd5 17. Nxd5 Bxd5 18. Qxd5 Nc5 las negras están
+bien.} 16... g6 {Se amenazaba Nh6+ Nxf7 y Nxd8.} 17. Nxe4 {Aparente sacrificio
+de pieza. Taimanov rechaza las complicaciones de jugar h5 (se puede ver que las
+blancas recuperan la pieza en el acto y quedan con peón de más, en el mejor de
+los casos para las negras) y decide cambiar torre por dos caballos, quedando
+además con dos peones de menos.} 17... Rxe4 18. Qxe4 gxf5 19. Qxf5 Bg7 20. e4
+{Con idea de jugar Rc3 y pasar la torre al flanco de rey.} 20... Nf8 21. e5
+{Movilizando sus peones centrales. Este plan, aparentemente bueno, requeriría de
+algún tiempo más para prepararse bien. Notar que esto obstruye al alfil de b2, a
+la par que abre líneas en la gran diagonal blanca, permitiendo contrajuego para
+las negras mediante la formación de la batería alfil-dama. Según sugiere el
+análisis posterior de Najdorf, era mejor 21. Rc3 c5 22. Rg3 cxd4 23. Rd1 Ne6 24.
+Qg4 o 21. ... Qxd4 Ba1 22. Bc8 Qf5 con ataque.} 21... Qd5 22. f4 c5 23. Qh3 {Las
+negras tienen ahora la iniciativa.} 23... cxd4 24. Rcd1 Qe4 25. Rde1 Qd5 26. Rd1
+Rc8 27. Rxd4 Qa5 28. Rc4 {Evitando la peligrosa Rc2. Sin embargo, esto arruina
+la estructura de peones blancos en el ala de dama. Mejor parecía Rf2.} 28...
+Rxc4 29. bxc4 Qc5+ 30. Rf2 Qxc4 31. Qb3 Qe4 32. Qc2 Ne6 33. f5 {Lo mejor era
+cambiar damas, ya que, pese a llegar a un final inferior, el monarca blanco
+corre grave peligro.} 33... Nc5 34. Qd2 Qb1+ 35. Rf1 Qd3 36. Qe1 Qd5 37. Qg3 Ne4
+38. Qh4 Nc3 39. Qg4 h5 {Atacando a la dama blanca, que defiende a la vez g2 y
+e2.} 40. Qh3 Ne2+ 41. Kf2 {A 41. Kh1 venía 41. ... Nf4, entrando en g2 a la
+siguiente con consecuencias fatales. Con la textual, hay varias formas de
+rematar: Qd2 amenazando con tomar en b2 y descubiertas con el caballo, Nf4, de
+nuevo entrando en g2 a la siguiente o activar el alfil de casillas negras vía h6
+o f8. Es por esto que Petrosian se rindió sin esperar la respuesta de Taimanov.}
+0-1

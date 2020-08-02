@@ -1,0 +1,54 @@
+[Event "Torneo de candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Kotov"]
+[Black "Bronstein"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. d5 a6 {Con idea de controlar la casilla b5 y de buscar un Rb8-b5 en el
+futuro. Es más común aquí jugar Nc5-a5.} 10. Ne1 Rb8 11. Nc2 Qe7 12. b4 Rf8 13.
+Ne3 Ne8 14. Qc2 {Las blancas, con su caballo de e3 y su dama en c2, evitan f5,
+golpe temático de las negras en la Defensa India de Rey. Ese caballo va
+típicamente a d3 para apoyar c5.} 14... Ndf6 15. a4 a5 16. bxa5 Ra8 17. Ba3 Nd7
+18. Bh3 h5 19. Ncd1 Rxa5 20. Nb2 Nef6 21. Bb4 Ra6 22. a5 Nh7 23. Bg2 h4 24. Nd3
+Ndf6 {Las negras buscan un ataque en el flanco de rey. Podrían haber jugado 24.
+... Nc5, evitando el contragolpe blanco por el flanco de dama con c5, obteniendo
+una posición sólida, pero prefieren incorporar una pieza más al ataque.} 25. c5
+Ng5 26. Qc4 Bh6 27. Bd2 {Esta jugada libera b4 para el caballo de d3 y permite
+retomar de peón de f si las negras cambian peones en g3.} 27... Ra8 28. Rfc1 Nh5
+29. cxd6 cxd6 30. Qc7 Qf6 31. Ne1 hxg3 32. hxg3 Nh3+ {Las negras tienen que
+atacar sin cuartel. De lo contrario, las blancas organizarán sus piezas por el
+flanco de dama y su posición será muy superior. Por ejemplo, de llegar una torre
+a b6, la situación negra será critica.} 33. Bxh3 Bxh3 34. Ng4 {Si las blancas
+osan a tomar en b7, llega un fuerte ataque: 34. Qxb7 Nxg3 35. fxg3 Bxe3+ 36.
+Bxe3 Qf1+ 37. Kh2 y las negras pueden seguir con 37. ... Kg7, preparando Rh8, o
+37. ... Rab8 38. Qc6 Rfc8. Tampoo otras jugadas, como 34. Rab1, evitaban la
+fuerte amenaza Nxg3. Según Bronstein, la jugada de Kotov es la mejor, aunque el
+módulo ve mejores opciones con 34. Nc4.} 34... Bxg4 35. Bxh6 Rfc8 36. Qxb7 Rcb8
+{Peón de más para las blancas, pero ahora su alfil puede estar en problemas.}
+37. a6 g5 {Mejor era, según el propio Bronstein, 37. ... Rxb7 38. axb7 Rb8 39.
+Ra8 Qd8 40. Rc8! Rxc8 41. Rxc8 Qxc8 42. bxc8Q+ Bxc8, que lleva a las tablas.
+Ahora, según el módulo, las negras están mucho mejor, pero es evidente que la
+posición es de doble filo.} 38. Qxb8+ {Era posible aquí 38. Rcb1 Rxb7 39. axb7
+Rb8 40. Ra8 Qd8 41. Bxg5 f6 42. Rxb8 Qxb8 43. Be3 Bc8 44. Ba7 Qxb7 45. Rxb7 Bxb7
+46. Bb8 y las blancas ganan. Mejor era para las negras 38. ... Re8 39. a7 Kh7
+40. Qc6, con posición incierta.} 38... Rxb8 39. a7 Ra8 40. Rcb1 Kh7 {Quedándose
+las negras con dama y pieza menor por dos torres con ventaja decisiva de
+material. También era posible 40. ... Rxa7 41. Rb8+ Kh7.} 41. Rb8 Rxa7 42. Rxa7
+Kxh6 43. Rbb7 Kg6 44. f3 Bc8 45. Rc7 Qd8 {Según Bronstein, las negras tienen dos
+formas de ganar: abrir la posición del rey blanco sacrificando una pieza menor
+blanca o llevar su dama a b6. Opta por la segunda vía. La primera era posible en
+la jugada 44: 44. ... Nxg3 45. Rxf7 Qxf7 46. Rxf7 Kxf7 47. fxg4 Nxe4 48. Nc2
+Nf6, llegando a un final de caballos con peón de más para las negras, donde las
+blancas podrían tener quizás alguna opción de tablas.} 46. g4 Nf6 47. Kg2 Bd7
+48. Nc2 Bxg4 {Bronstein no ve cómo avanzar sin este sacrificio.} 49. fxg4 Nxg4
+50. Rxf7 Qb6 51. Rg7+ Kh5 52. Rh7+ Nh6 {El monarca negro está seguro tras su
+caballo y ahora la dama podrá maniobrar para sentenciar la partida.} 53. Rac7
+Qb3 54. Kf2 g4 {Mejor era 54. ... Qd3 55. Ne3 Qd2+, pero la textual es
+suficiente para ganar.} 55. Ne3 Qd3 {Error garrafal. Ganaba 55. ... Kg5 56.
+Rcg7+ Kf4 57. Ng2+ Kxe4 58. Rxh6 Qf3+. Ahora el caballo de h6 caerá y las negras
+deberán conformarse con las tablas por jaque perpetuo.} 56. Nf5 Qf3+ 57. Kg1
+Qd1+ 58. Kf2 Kg5 59. Nxh6 Qd2+ {Y tablas.} 1/2-1/2
