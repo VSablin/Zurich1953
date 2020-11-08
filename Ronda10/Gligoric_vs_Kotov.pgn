@@ -1,0 +1,59 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Gligoric"]
+[Black "Kotov"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be6 8. Bg2
+b5 {Este avance a6-b5, cuando el alfil de casillas blancas de las piezas blancas
+no se desarrolla por c4, no es para atacar nada en el ala de dama, sino para
+dejar espacio para que las piezas menores negras del flanco de dama se
+desarrollen con Bb7 y Nbd2-Nb6. Es por esto que parece rara la jugada Be6.
+Además, tras el potencial avance b4, gracias a que el peón de e negro ya está en
+e5 y no en e6, el caballo de c3 puede saltar a d5, forzando el cambio de
+caballos y aumentando la actividad del alfil de g2. Es por todo esto que las
+elecciones de Kotov parecen un tanto raras.} 9. O-O Nbd7 10. a4 b4 11. Nd5 Nxd5
+12. exd5 Bg4 13. Bd2 {Aquí era interesante 13. a5, con idea de fijar el peón de
+a6 y atacarlo. Gligoric se decidió por esta línea en otra partida del mismo
+torneo contra Najdorf.} 13... a5 14. c3 bxc3 15. Bxc3 Qb6 {Las blancas tienen un
+2 contra 1 en el flanco de dama, pero, de momento, parece difícil crear un peón
+pasado en ese sector del tablero. Su actividad en este ala tenía como objetivo
+acomodar su alfil en c3 para tratar de atacar en el flanco de rey. Es por esto
+que Kotov, con buen criterio deja a su rey en el centro durante un buen rato.}
+16. h3 Bh5 {Cambiar aquí en e2 no parece muy bueno. Tras 16. ... Bxe2 17. Qxe2
+Be7, las blancas habría materializado su ventaja al tener la pareja de alfiles.
+Ahora sí, preparar un b4 para crear un peón pasada en la columna a parecería
+factible.} 17. Kh2 Be7 {Aquí las blancas tienen buenas opciones de ataque
+movilizando sus peones del flanco de rey. Lo mejor hubiera sido 18. g4 Bg6 19.f4
+f6 20. f5 Bf7 21. Ng3, con idea de seguir con Qf3, h4, etc. Decir que la
+posición sería de doble filo por la exposición del rey blanco, pero la ventaja
+estaría en su mano. Sin embargo, Gligoric hizo directamente 18. f4, que no
+entraña la amenaza f5 ganando tiempos sobre el alfil de casillas blancas. Esto
+también lleva a una posición incierta, pero sin estar claro si se trata de
+ventaja blanca.} 18. f4 Bxe2 19. Qxe2 Bf6 20. Qc4 {Con idea de crear un peón 
+pasado en el ala de dama. Sin embargo, la amenaza exf4, abriendo líneas sobre el
+rey blanco, impide que las blancas puedan volcar todas sus fuerzas en el flanco
+de dama. Mejor hubiera sido  20. g4, con las amenazas g5, Qg4 y f5; conta 20.
+... h6, 21. h4 sería muy buena, amenazando de nuevo g5, manteniendo al rey negro
+en el centro. 20. ... Bxh4 parece arriesgada por 21. fxe5, abriendo totalmente
+el centro con el rey negro todavía en e8. Aún podrían jugar 21. ... 0-0, pero el
+rey negro estaría débil.} 20... O-O 21. Qc6 Rfd8 {El cambio de damas solo
+favorecería a las blancas, ya que ganarían un peón pasado en c6 y el alfil de g2
+cobraría mucha fuerza. Es por esto que Kotov no acepta el cambio.} 22. Rae1 {Si
+22. ... exf4 23. Bxf6 fxg3+ 24. Kh1 gxf6 25. Re7, amenazando Rxd7 y Rfxf7.}
+22... Qb8 {Las negras han consolidado. Ahora buscarán exf4, forznado el cambio
+de alfiles de casillas negras. Tras esto, las negras estarán mejor, ya que la
+estructura de peones blanca es mucho peor que la negra.} 23. Rb1 Ra7 24. Qc4 Rc8
+25. Qe4 Qb3 {Tras esta incursión, las negras quedan mejor. Amenazan 25. ... Rc4,
+ganando el peón de a4, así como 25. ... exf4, tras el cambio de alfiles en c3,
+que dejaría un peón retrasado y débil en la columna c; si, tras exf4, las
+blancas cambiasen directamente en f6, el jaque intermedio en g3 sería bueno,
+tras Nxf6.} 26. fxe5 Bxe5 27. Qf5 Rf8 28. Qf2 Raa8 29. Qf5 Qxa4 30. Rf4
+{Sacrificio desesperado de calidad, buscando sacar ventaja en una posición
+complicada.} 30... Bxf4 31. gxf4 g6 {Jugada valiente, sustentada en un preciso
+cálculo de Kotov.} 32. Qg5 Rae8 33. Rg1 Re2 34. Kh1 Qc2 35. Qg4 Nc5 36. Qh4 Ne4
+37. Bd4 Nf2+ 38. Kh2 Ne4 39. f5 Qd3 40. fxg6 fxg6 41. Bc3 {Las blancas se
+rindieron sin esperar la respuesta de su rival. La ventaja material se une a la
+debilidad del rey blanco, que es mayor que la del negro.} 0-1

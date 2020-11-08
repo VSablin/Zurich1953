@@ -1,0 +1,31 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Bronstein"]
+[Black "Geller"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. g3 {Novedad de
+Bronstein, que él mismo califica en el libro como errónea. Aquí era mejor seguir
+con Qd3, Be2, Rad1 y 0-0, incluyendo quizás un Bc1 posterior. Este g3, con idea
+de sacar su alfil de casillas blancas por g2, gasta un tiempo que permite a las
+negras desarrollarse con comodidad.} 7... Be7 8. Bg2 O-O 9. O-O Nxd4 10. Qxd4 h6
+11. Bd2 Bd7 12. Rad1 Qc7 13. Qd3 Rac8 14. g4 {Bronstein ofrece el peón de g4 en
+sacrificio para buscar actividad por el ala de rey: 14. ... Nxg4 15. Qg3 h5 16.
+Kh1 y hay un fuerte ataque por la columna g. Sin embargo, el peón de más y el
+contrajuego por el flanco de dama dejaría a las negras con ventaja. En cualquier
+caso, las negras rechazaron esta idea, por ser de doble filo.} 14... b5 {Con
+idea de b4, expulsando el caballo de c3 y entarndo en c2 con las piezas
+mayores.} 15. a3 a5 16. g5 hxg5 17. Bxg5 b4 18. axb4 axb4 19. e5 dxe5 20. Bxf6
+Bxf6 {Mejora esta que 20. ... gxf6, que permite un jaque perpetuo. Las blancas
+tratan de abrir líneas contra el rey negro.} 21. Ne4 Rfd8 22. Nxf6+ gxf6 {Ahora,
+el plan de Bronstein es forzar f5 para abrir la diagonal h4-d8 y poder dar
+jaques por ahí al rey negro.} 23. Qf3 f5 {A 23. ... Kg7, las blancas podrían
+continuar su ataque con Rd3 o Re1, además de con la simple Qg4+, seguida de
+Qxb4.} 24. Qg3+ Kf8 25. Qg5 {Y se firmaron las tablas. La posición era incierta.
+Con 25. ... Bc8 26. Qh6+ Ke7 27. Qh4+ f6 28. Qxb4+ Qc5 29. Qxc5+ Rxc5 30. Rxd8
+Kxd8 31. Rc1 se llegaba a un final con opciones para ambos bandos que ambos
+jugadores evaluaron como desfavorables para sí. Geller vio necesaria, por
+contra, 25. ... Bb5, que llevaba al jaque perpetuo. Decir que el módulo de
+análisis evalúa da ligera ventaja negra.} 1/2-1/2
