@@ -1,0 +1,45 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Taimanov"]
+[Black "Boleslavsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 e5 6. Be2 O-O 7. O-O Nc6 8. Be3
+Ng4 {El 8. Be3 de Taimanov es un tanto inocuo, pero la respuesta de Boleslavsky
+no es la mejor. Aquí, 9. Bg5 deja a las blancas en muy buena posición: si 9.
+...Bf6, entonces se intercambian los alfiles de casillas negras y las blancas
+meterán d5, dejando a las negras en una posición muy restringida. Si 9. ... f6,
+tal y como sucedió en la partida, las negras han debilitado su posición.} 9. Bg5
+f6 10. Bc1 exd4 11. Nxd4 Nxd4 12. Qxd4 f5 13. Qd5+ Kh8 14. Bxg4 fxg4 {Las
+blancas han ganado en control central, pero han cedido la pareja de alfiles,
+además de que las negras pueden atacar por la columna f. Las blancas planean
+jugar Be3-Bd4 para cambair los alfiles de casillas negras, poner sus torres en
+c1 o d1 y e1. Según Bronstein, esto forzaría a las negras a avanzar su peón de
+c, lo que debilitaría d6, peón que además quedaría retrasado. Por su parte, las
+negras planean explotar la pareja de alfiles y atacar e4, puesto que f3 no es
+fácil de jugar.} 15. Be3 Qf6 16. Rac1 {Era jugable aquí 16. Rfd1, amenazando
+Bd4. Podría haber seguido 16. ... Be6 17. Qxb7 Bxc4 18. Qxc7, quedando las
+blancas con peón de más. Si 16. ... Qf7, entonces 17. Bd4 Qxd5 18. Nxd5,
+llegando a una buena posición para las blancas, o incluso 18. cxd5, con fuerte
+presión sobre c7.} 16... Qf7 17. b3 Qxd5 18. Nxd5 Rf7 19. f3 {Encierra una
+trampa: 19. ... gxf3 20. Rxf3 Rxf3 21. gxf3 c6 22. Nc7 Rb8 23. Bxa7 y la torre
+está encerrada. La misma idea funciona en la siguiente variante: 19. ... a6 20.
+fxg4 Rxf1+ 21. Rxf1 c6 22. Nc7 Rb8 23. Ba7; si 21. ... Bxg4 22. Nxc7 Re8 y las
+negras quedan con peón de menos y una debilidad crónica en d6. Decir que
+Boleslavsky resuelve perfectamente expulsando inmediatamente el caballo de d5.
+En caso de no caer en la trampa, las blancas salen de los cambios con una fuerte
+presión en d6 que les llevará a un final con peón de más, pero con fuertes
+opciones de tablas para las negras si juegan con precisión, en gran medida
+gracias a su pareja de alfiles. Mejor podría haber sido 19. Rfd1, para cambiar
+alfiles de casillas negras en d4 y mantener la presión.} 19... c6 20. Nf4 gxf3
+21. gxf3 Bd7 22. Rcd1 Be5 23. Ng2 Re8 {Boleslavsky
+ entrega en a7 con idea de poder avanzar su peón de d6 y quitarse así su
+ debilidad. Ese final, con peón de menos por pareja de alfiles, parece 
+de tablas.} 24. f4 Bc3 25. Rxd6 Rxe4 26. Bxa7 Bg4 27. Rd3 Bf6 28. Re3 Rxe3 29.
+Nxe3 Bh3 30. Rd1 Be7 31. Ng2 Kg8 32. Be3 Rf8 33. Ne1 Bg4 {Posición de tablas.
+Las blancas pueden oscilar con su torre en la columna d, lo cual no les da nada.
+Si la quitan, las negras la ocupan y ningún bando puede progresar.} 34. Rc1 Rd8
+35. c5 Bf6 36. Kg2 Re8 37. Bf2 Bf5 38. Nf3 Re2 {Y se firmaron las tablas.}
+1/2-1/2
