@@ -1,0 +1,66 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Averbaj"]
+[Black "Szabo"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 {Desarrollo más activo que Be7. Lo mejor de la posición negra es
+el caballo de e4. Sin embargo, si se le consigue expulsar, las blancas estarán
+mejor.} 10. Nbd2 {También se podría haber desarrollado la dama con 10. Qd3, pero
+las negras quedarían bien tras 10. ... Ne7 11. Be3 Bf5! o 10. ... 0-0 11. Be3
+f5.} 10... O-O 11. Bc2 f5 {También era posible cambair en f2, llegando a una
+posición igualada, a la par que incierta.} 12. Nb3 {Se podía también tomar al
+paso: 12. exf6, que deja al caballo de e4 desestabilizado. Se podría seguir con
+12. ... Nxf6 13. Nb3 Bb6 14. Nbd4 o 14. Ng5, llegando a una posición aguda.
+Averbaj prefiere 12. Nb3, a fin de mantener su cuña en e5 y tratar de buscar un
+f3 en el futuro, expulsando el orgullo de la posición negra. Decir que, contra
+12. exf6, también era interesante el cambio en f2.} 12... Ba7 {Mejor que 12. ...
+Bb6, con idea de evitar que a4-a5 llegue con ganancia de tiempo.} 13. Nfd4 Nxd4
+14. Nxd4 Bxd4 15. Qxd4 {También era posible 15. cxd4, la cual refuerza el centro
+blanco. En tiempos, tras la partida Fleissig-Mackenzie del torneo de Viena de
+1882, se creía que esta jugada daba ventaja clara a las negras tras 15. ... f4
+16. f3 Ng3. Notar que 17. hxg3 no es posible, ya que vendría 17. ... fxg3 y la
+dama negra llega irremediablemente a h2 vía h4. No queda claro cómo defenderse
+de forma pasiva. Por ejemplo, 18. Bd3 Qh4 19. Re1 Qh2+ 20. Kf1 Bh3, y el ataque
+es demoledor. Boleslavsky, sin embargo, demostró que 15. cxd4 sí que era
+posible, introduciendo un interesantísimo sacrificio de dama por torre y alfil
+(además del caballo que ya han sacrificado las negras): 18. Qd3 Bf5 19. Qxf5
+Rxf5 20. Bxf5 Qh4 21. Bh3 Qxd4+ 22. Kh1 Qxe5 23. Bd2, y las piezas blancas están
+perfectamente dispuestas para lanzar una ofensiva contra el rey blanco, a la par
+que el rey blanco ha quedado bien protegido. La posición sería aguda e igualada.
+Las negras empezaron a evitar esta variante, hasta que el maestro Yakov Estrin
+propuso que las negras debían buscar un rápido avance d4-d3 tras 22. Kh1. Decir
+que 18. ... g6 es mala, ya que la dama blanca se puede infiltrar en h6,
+generando amenazas sobre el rey negro, a la par que defendiendo las incursiones
+de la dama por h4. Por culminar, también se ha estudiado 17. Rf2, sin aceptar el
+sacrificio de caballo, con posición igualmente aguda.} 15... c5 16. Qd1 f4 17.
+f3 Ng5 {Aquí no funciona 17. ... Ng3, por 18. hxg3 fxg3 19. Qd3 Bf5 20. Qxf5
+Rxf5 21. Bxf5 Qh4 22. Bh3: la diferencia esencial es que ahora la dama no
+dispone del jaque en d4. Tendríamos dama contra torre y dos piezas sin más
+compensación, llegando a una posición con clara ventaja para las blancas. La
+textual se considera desfavorable para las negras, aun siendo superior al
+sacrificio en g3.} 18. a4 {La idea de Szabo es llevar el caballo a e6, pero
+Averbaj juega con energía para no darle a su oponente los tiempos necesarios
+para reagruparse. Por ejemplo: 18. ... Bf5 19. Bxf5 Rxf5 20. axb5 axb5 21. Rxa8
+Qxa8 22. Qd3, con doble toque sobre f5 y b5.} 18... b4 {Las negras tratan de
+igualar buscando un Bf5. Por ejemplo: 19. a5 Bf5 20. Bxf4 Bxc2 21. Bxg5 Qxg5 22.
+Qxc2 Qxe5.} 19. h4 {Aquí pierde la ventaja Averbaj. A considerar era 19. cxb4.
+Si 19. ... cxb4, entonces 20. Qd4 gana un peón. Pero también se podría haber
+seguido con 19. ... c4 20. Qd4 Bf5, llegando a posiciones agudas. Veamos varias
+variantes: 21. Bxf5 Rxf5 22. Bxf4 Ne6, quedando las blancas con pieza de
+menores; 21. Qxf4 Nh3+ 22. gxh3 Bxc2, con posición inestable para las blancas;
+21. Bxf5 Rxf5 22. Rd1 Ne6 23. Qxd5 Qb6+ 24. Kh1 Rd8 y la dama blanca no tiene
+otra que sacrificarse por caballo y torre con 25. Qxe6+ Qxe6 26. Rxd8+, con
+posición igualada según el módulo de análisis, pero más fácil de jugar para las
+negras (de hecho, Bronstein da ventaja decisiva a las negras).La textual evita
+que el caballo negro llegue a e6 e invita a Szabo a sacrificarlo en h3, llegando
+a una posición muy peligrosa para las blancas, pero con pieza de más.} 19...
+Nh3+ 20. gxh3 Qxh4 21. Rf2 Bxh3 22. Rh2 Rae8 23. Qxd5+ Kh8 24. Bd2 {Ataque y
+defensa de alto nivel. Szabo encuentro un jaque perpetuo tras sacrificar primero
+una torre. Si intentaba seguir con 24. ... Re6,  las blancas encontrarían
+defensa con 25. Bxf4.} 24... Rxe5 25. Qxe5 Qg3+ 26. Kh1 Qxf3+ 27. Kg1 {Y se
+firmaron las tablas, ya que el rey blanco no puede escapar de los jaques y las
+negras no tienen nada mejor que dar jaque continuo.} 1/2-1/2
