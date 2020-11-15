@@ -1,0 +1,75 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Petrosian"]
+[Black "Euwe"]
+[Result "1-0"]
+[WhiteElo ""]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Bf5 4. d3 e6 5. Nbd2 h6 {Con idea de darle una
+casilla de escape al alfil de f5. Jugada innecesaria. Mejor era seguir con el
+desarrollo.} 6. O-O Bc5 7. Qe1 {Muy buena jugada, apoyando e4, para molestar al
+alfil de f5, y mirando por rayos X a b4, apoyando un futuro avance b4 para
+molestar al alfil de c5.} 7... O-O 8. e4 dxe4 9. Nxe4 Nxe4 {A juicio de
+Bronstein, las negras no están jugando de manera inconsistente. Deberían haber
+decidido si cambiar su alfil de casillas blancas, en cuyo caso tendrían que
+haber hecho 9. ... Bxe4. En caso contrario, lo cual sería coherente con su 5.
+... h6 y su 9. ... Nxe4, mejor hubiera sido retirarlo, sea a g6 o a h7,
+limitando la movilidad de los peones centrales blancos e, incluso, de su peón de
+c, para no debilitar d3. Decir que no valía 9. ... Be7, para evitar ceder la
+pareja de alfiles, por 10. Nh5, que acaba forzando a ceder de todos modos la
+pareja de alfiles, ya que 10. ... Bh7 no valdría por 11. Nxf6+, seguida de Bxb7,
+ganando peón y calidad.} 10. dxe4 Bh7 11. b4 Be7 12. Bb2 Na6 {Argumenta
+Bronstein que mejor sería aquí jugar con c6-Qc7-Nd7. No ve qué ventaja encontró
+Euwe en esta última jugada, con idea de llevar su caballo a c7.} 13. a3 c6 14.
+Rd1 Qc8 15. c4 Nc7 16. Qc3 {Ventaja blanca. Las negras tienen menos espacio y
+sus piezas están muy pasivas. Los potenciales cambios de torres en la columna d
+tampoco arreglan los problemas de las piezas negras, ya que el alfil de h7 está
+fuera dejuego al chocar con e4. Las blancas cuentan con distintas opciones. Una
+de ellas es jugar con c5, para llevar el caballo a d6 vía e5-c4.} 16... Bf6 17.
+Ne5 Rd8 18. Bf3 {Jugada innecesaria. La idea es controlar la casilla d1, pero no
+se ve nada concreto, ya que no se ve cómo una torre blanca, pese a ganar la
+columna, puede penetrar en campo negro. Mejor era seguir con el plan de llevar
+el caballo a d6.} 18... Ne8 19. Rxd8 Qxd8 20. Rd1 Qc7 21. c5 a5 {Con idea de
+abrir la columna a. Sin embargo, de forma inconsistente, llevarán en nada su
+torre a d8. Es por esto que mejor era mantener el peón en a7, tratando de buscar
+un b6, desestabilizando la estructura de peones blanca en el ala de dama.} 22.
+Bg2 axb4 23. axb4 Rd8 24. Rxd8 Qxd8 25. Qc2 Nc7 26. Bf1 Nb5 27. f4 {Las blancas
+han jugado sin demasiada energía, lo cual ha permitido a las negras mejorar la
+posición de sus piezas. Además, ha descuidado su peón de e4 con su última
+jugada, factor que podrán aprovechra las negras. Mejor era 27. f3, reforzando
+e4. Ahora las negras podrían haber continuado con 27. ... Qa8, amenazando
+penetrar en campo blanco con Qa2. Sin embargo, aún tienen que mejorar la
+situación de su alfil de h7. La idea es llevarlo a g8 y tratar de despejar la
+diagonal g8-a2. Las blancas, por su parte, deben jugar activamente si quieren
+mantener la poca ventaja que les queda. Decir que las negras también amenazaban
+Nd4, atacando a la dama y cortando la acción del alfil sobre e5, amenazando con
+destrozar el centro de peones blanco. Una variante podría ser: 27. ... Nd4 28.
+Qd1 Nb5; ahora el cambio de damas es necesario si no se quiere entrar en triple
+repetición: 29. Qxd8+ Bxd8. Esto lleva a un final con ligera ventaja blanca
+gracias a su mayor espacio y a la inactividad del alfil de h7. Una posible
+variante sería 30. Bd3 Kf8 31. Kf2 f6 32. Nc4 Ke7 33. Ke3. Es probable que Euwe
+viera todo esto y no le terminara de convencer, ya que es un final mucho más
+cómodo para las blancas (aunque difícil de ganar).} 27... Kf8 28. Kf2 Bxe5 29.
+Bxe5 f6 30. Bb2 Ke7 31. Bc4 Bg6 32. Ke3 Bf7 33. g4 Qc7 34. e5 Qd8 35. exf6+
+{Petrosian presiona en f6 y f7. 35. f5 era sugerente, pero dudosa, por 35. ...
+fxe5 (pero no 35. ... exf5? 36. exf6+ gxf6 37. Qxf5) 36. fxe6 Nd4 37. Qh7 Nxe6
+38. Bxe6, que parece ganador para las blancas... pero las negras cuentan con 38.
+... Qd1, con la imparable amenaza de un perpetuo.} 35... gxf6 36. h4 Nc7 37. Qc3
+Nd5+ {Defender con 37. ... Qh8 no sirve, ya que descuida la casilla d6, permite
+que las piezas blancas penetren por el flanco de dama y la desagradable g5, que
+gana un peón.} 38. Bxd5 Qxd5 39. Qxf6+ Ke8 40. Qh8+ Kd7 41. Qg7 {La idea de las
+blancas es defenderse de los jaques con el alfil de b2.} 41... Ke8 42. Bf6 Qb3+
+43. Bc3 Qd1 44. Qh8+ Kd7 45. Qb8 Qc1+ 46. Bd2 Qg1+ 47. Kd3 Qf1+ 48. Kc2 Qa6 {Si
+las negras hubieran insistido con jaques, el rey se podría haber escapado: 48.
+... Qc4+ 49. Kb2 Qd4+ 50. Bc3 Qf2+ 51. Ka3. Ahora las blancas cuentan con un
+tiempo precioso para jugar h5, fijando la debilidad negra de h6 en una casilla
+negra. La dama negra se dispone a dar jaques desde el flanco de dama, pero el
+rey, escoltado por su alfil de casillas negras, se puede esconder.} 49. h5 Qa2+
+50. Kd3 Qb1+ 51. Ke2 Qe4+ 52. Kf2 Qd4+ 53. Be3 Qxb4 54. Qf8 {Con doble amenaza
+sobre f7 y h6. Esto obliga a las negras a llevar su dama a f6 vía jaque en b2,
+lo cual culmina en el cambio de damas, tras lo cual las blancas llegan a un
+final ganado pese a los alfiles de distinto color, gracias a que el peón de h6
+va a caer.} 54... Qb2+ 55. Kg3 Qf6 56. Qd6+ Kc8 57. Bd4 Qd8 58. Qxd8+ Kxd8 59.
+Bg7 Kc7 60. Bxh6 b6 61. cxb6+ Kxb6 62. Kh4 {Y Euwe se rindió.} 1-0
