@@ -1,0 +1,49 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Najdorf"]
+[Black "Stahlberg"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 e5 12. O-O {Las blancas podrían haber
+tratado de ganar un peón con 12. dxe5 Nxe5 13. Bxd5 Nxf3+ 14. gxf3 cxd5 15.
+Qxd5, pero las negras ganarían iniciativa atacando a la expuesta dama de d5.
+Tampoco funciona 12. Bxd5 cxd5 13. Nc3 por 13. ... e4, quedando las blancas en
+una posición muy constreñida. No vale 14. Nxd5 por 4. ... Qd6, quedando ambos
+caballos atacados.} 12... exd4 13. Qxd4 N7b6 14. Bb3 Bg4 15. Ng3 Bxf3 {Argumenta
+Bronstein que este alfil es mejor que el caballo de f3 en un final en esta
+posición. Es por esto que las negras deberían evitar cambiar damas, al contrario
+de lo que pasó en la partida. Era mejor, por ejemplo, 16. gxf3 Rad8 17. Rfd1
+Rfe8, etc.} 16. gxf3 Qf6 17. Qxf6 Nxf6 18. Nf5 Rad8 19. Rfd1 Nc8 {Bronstein
+argumenta aquí que mejor sería Nfd5 y, ante un futuro e5, instalar ese caballo
+en f4.} 20. Kf1 Rfe8 21. Ke2 Kf8 22. Rxd8 Rxd8 23. Rg1 Ne8 {Las negras deberían
+jugar aquí o más adelante g6, para desalojar el caballo de f5 y evitar la
+presión en g7.} 24. Rg4 {Bronstein argumenta que esto es ventaja blanca, ya que:
+la torre está muy activa, y aen cuarta fila, el rey está cerca del centro y el
+caballo y el alfil están en buenas casillas; por contra, el rey negro sigue en
+la octava y los caballos están muy pasivos.} 24... Ne7 {Este cambio no le viene
+mal a las blancas, aunque parezca raro. El par de caballos negros podría tratar
+de coordinarse para molestar al alfil de b3. Ahora ya será imposible.} 25. Nxe7
+Kxe7 26. Re4+ Kf8 27. Ra4 a6 28. Rf4 f6 {Las negras están muy pasivas y no hacen
+más que crearse debilidades. Ahora las blancas irán ganando espacio movilizando
+su masa de peones centrales y sus peones del ala de dama, fijando las
+debilidades negras.} 29. Rh4 h6 30. Rh5 {Ahora que la torre ya ha conseguido
+crear debilidades en la posición negra, se dedica a cortar el avance de los
+peones negros.} 30... Nc7 31. f4 Ke7 32. Rc5 Rd6 33. Rc1 {Ligera imprecisión.
+Era mejor 33. f5, fijando la debilidad de g7.} 33... b6 {Era necesario jugar 33.
+... f5! 34. h4 h5 35. Rg1 Kf6 y las negras estarían bien.} 34. f5 c5 35. f4 Rc6
+{Con idea de avanzar el peón de c, expulsando el alfil de b3. Sin embargo, el
+plan llega demasiado tarde.} 36. a4 b5 37. Bc2 {Buscando Be4. Por ejemplo: 37.
+... c4 38. Be4 Rb6 39. b3! o 38. ... Rc5 39. b4 dan ventaja blanca.} 37... Ne8
+38. Be4 Rc7 39. Bd5 c4 40. e4 Nd6 41. axb5 axb5 42. Ke3 Ra7 43. Rg1 Kf8 44. Kd4
+Rc7 45. Rc1 {Con idea de parar el contrajuego negro. Si Najdorf hubiera buscado
+algo más activo, como 45. Ra1, entonces 45. ... b4 46. Ra8+ Ke7 47. Rg8 c3 48.
+Rxg7+ Kd8 49. Rxc7 cxb2 50. Ba2 Kxc7, con ventaja decisiva negra; decir que en
+la variante las blancas podrían ser más precisas, pero se trata de ilustrar que
+Najdorf hizo bien en jugar la prudente Rc1.} 45... Nb7 46. Ra1 Nc5 47. Ra8+ Ke7
+48. e5 Nb3+ 49. Kc3 Nc1 {49. ... Rc5 no vale, llevando a un final de torres
+ganado para las blanca según Bronstein. El libro da una variante, pero tiene
+errores...} 50. Rg8 Ne2+ 51. Kd2 Nxf4 52. Rxg7+ Kd8 53. exf6 Rd7 54. Rxd7+ Kxd7
+55. Bc6+ {Y Stahlberg se rindió.} 1-0
