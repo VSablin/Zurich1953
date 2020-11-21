@@ -1,0 +1,99 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Keres"]
+[Black "Reshevsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 b6 {Más
+común es 7. ... Nc6, seguida de 8. Ne2 b6 9. e4 Ne8. Sin embargo, Reshevsky
+eligió esta línea, que ya jugara en este mismo torneo contra Euwe. Sin embargo,
+Keres optó por 8. e4, al contrario que Euwe.} 8. e4 Bb7 9. Bg5 {Ashurov
+puntualizó que aquí era posible 9. e5, ganando espacio. Si 9. ... Bxg2, entonces
+10. Bg5 Bxh1 11. exf6 g6 12. Bxg6! hxg6 13. Qg4, con un ataque demoloder. De
+hecho, Ashurov demostró que había mate en varias variantes. Decir que la snegras
+tendrían mejores defensas, pero está claro que, de aceptar el sacrificio de peón
+y torre, las negras se verían en serios problemas. Lo mejor sería retirar el
+caballo, tras lo cual vendría 10. Qh5, con iniciativa blanca en el flanco de
+rey.} 9... h6 {También era posible 9. ... d6. Si 10.  e5 dxe5 11. dxe5 y, en vez
+de 11. ... Bxg2?, que llega a las negras al colapso, 11. ... Be4!. Si 10. f4,
+entonces 10. ... Nbd7 11. Nf3 cxd4 12. cxd4, con buena iniciativa para el bando
+blanco.} 10. h4 {Aprovechando que capturar el alfil es peligroso: 10. ... hxg5
+11. hxg5 Nxe4? 12. Qh5 f5 13. g6, con ventaja decisiva blanca. De hecho, las
+negras tienen defensa, pero devolviendo la pieza.} 10... d6 11. e5 dxe5 12. dxe5
+Be4 {A juicio de Bronstein, única jugada. Si 12. ... hxg5, entonces 13. exf6
+Qxf6 14. Bh7+ Kh8 15. hxg5 Qxc3+ 16. Kf1 y las blancas ganan. El módulo
+encuentra 13. ... g4, pero es cierto que la jugada es poco humana. Si 12. ...
+Bxg2, entonces 13. Bxf6 gxf6 14. Qg4+ Kh8 15. Qxg2 Qxd3 16. Rh3 y las negras
+pierden su torre de dama. Finalmente, si 12. ... Qc7, entonces 13. exf6 Bxg2 14.
+fxg7 Qe5+ 15. Kd2 Re8 16. Nf3! y las blancas tienen pieza de más.} 13. Rh3
+{Bronstein concede signo de admiración a esta jugada. Aceptar el caballo en f6
+llevaba a un final mejor para las negras tras tomar en d3, gracias a su mejor
+estructura de peones.} 13... Bxd3 14. Rxd3 Qc7 {Posición perdida para las
+negras, pero Reshevsky busca recursos. Aquí Keres vio la siguiente continuación:
+15.Bxf6 gxf6 16. Qg4+ Kh8 17. Qf3 Nd7 18. 0-0-0 Nxe5 19. Qxf6+ Kh7 20. Rd6 Nxc4
+21. Nh3 Nxd6 22. Ng5+! Kg8 23. Qxh6 f5 24. Nxe6 Qh7 25. Qxh7+ Kxh7 26. Nxf8+
+Rxf8 27. Rxd6, con un final de torres ganado para las blancas.} 15. Bxf6 {Mejor
+era 15. exf6 hxg5 16. hxg5. Najdorf sugiere 16. ... Qe5+ 17. Kf1 Qxg5 18. fxg7
+Rc8 19. Rg3 Qf4 20. Rh3 Qxc4+ 21. Ne2, seguido de 22. Qd2, con posición
+probablemente ganada para las blancas. Nedelovic y Vukovic encontraron las
+siguientes variantes: 19. Qf3 Bc6 29, Qh3 o 16. ... gxf6 17. gxf6 Qe5+ 18.Kf1
+Qxf6 19. Rg3+ Kh7 20. Qh5+ Qh6 21. Qf3 o 16. ... Qh2 17. Kf1 Qh4 18. Rh3! Qxc4+
+19. Ne2 e5 20. Qd6 Qe6 21. Qd3 e4 22. Qg3 gxf6 23. Qh4. Turchuk encontró
+mejoras: 21. Rh8+ 22. Qxf8+ y 23 Qxg7#, incluso 21. Qxf8+! Kxf8 22. Rh8#. Euwe
+propuso 15. exf6 hxg5 16. fxg7 en vez de hxg5. Podría seguir con 16. ... Kxg7
+17. Qh5 gxh4 18 Qxh4, amenazando 19. Rg3+, o 16. ... Qe5+ 17. Re3 Qxg7 18. Rg3
+f6 19. Nf3, amenazando Nxg5. Como vemos, todos los análisis posteriores a la
+partida dejaron claro que 15. exf6 era superior, pero lo cierto es que la línea
+de Keres ya era ganadora.} 15... gxf6 16. Qg4+ {Otra opción era 16. f4!, con
+idea de evitar el acceso de la dama negra a e5. Podría haber seguido con 16. ...
+Kh7 17. Nh3 Rg8 18. Qh5 Nc6 19. exf6 Rg6 20. 0-0-0 Rd8 21. Rxd8 Nxd8 22. Ng5+
+Kg8 23. Rxd8+ Qxd8 24. Qxg6+!! fxg6 25. f7+ Kh8 26. Nxe6 y la dama no puede
+parar al peón y al caballo. Decir que la variante era demasiado compleja como
+para calcularla con precisión en el tablero, más a la vista de las siguientes
+opciones: 16. f4 Kh7 17. Nh3 Qb7 y las blancas tendrían que encontrar 18. Ra2,
+nada fácil de ver; otra opción era 16. ... fxe5 17. Rg3+ Kh7 18. Qg4 f5 19. Qg6+
+Kh8 20. Qxh6+ Qh7 Qxf8+, o 16. ... Nc6 17. Rd7 Qb8 18. Qg4+ Kh8 19. Qh5.
+Botvinnik recomienda sin embargo 16. exf6.} 16... Kh8 17. Qf3 {Tocando en a8.
+Mejor era 17. Rg3 Qxe5+ 18. Re3 Qc7 19. R3 Qe5+ o 18. Kf1 o 18. Ne2, en cuyo
+caso 18. ... f5 era suficiente para defendeser. Nada se gana con 17. Nf3 Nd7!
+18. Rxd7 Qxd7 19. exf6 Rg8 20. Qh5 Qd3! 21. Qxh6+ Qh7 22. Qf4 Rxg2; pero 17.
+0-0-0 Qxe5 18. Nf3 Qc7 19. Qd6 Nc6 20. Qf4 Ne7 21. g4 y 22. g5 parece fuerte. Y
+si 17. ... Nc6, entonces 18. f4 fxe5 19. Rd7 Qc8 20. Qh5 Kg7 21. f5!} 17... Nd7
+18. O-O-O {Tanto Trifunovic como Reshevsky tras la partida, consideran que 18.
+Rd6 era la jugada ganadora. Si 18. ... fxe5, entonces 19. 0-0-0; si 18. ... f5,
+entonces 19. Qf4 Kh7 20. 0-0-0. Sin embargo, la defensa sugerida por Rellstab
+con 18. ... Rg7, que amenaza Nxe5, parece suficiente para encontrar las tablas.
+Por ejemplo, 19. exf6+ Nxf6 20. 0-0-0 Qe7 21. Qg3+ Kh8 22. Qf4 Rg7, etc.} 18...
+Nxe5 19. Qxf6+ Kh7 20. Rd6 Nxc4 {Keres no ha jugado con precisión, lo cual da a
+Reshevsky un respiro. Ahora, la mejor opción sería 21. Rd7 Qe5 22. Rxf7+ Rxf7
+23. Qxf7+ Qg7, pero las negras sobreviven gracias a sus amenazas de mate. Y,
+contra 24. Qf3, vendría 24. ... b5!} 21. Nf3 {Ahora Reshevsky podría haber
+entregado  dama por dos torres para defenderse. Más fino hubiera sido 21. Nh3.
+Si Reshevsky hubiera entregado la dama en tal caso, entonces 23. f3, seguido de
+g4 y Nf4 y el ataque sería muy fuerte.} 21... Nxd6 {Error.} 22. Ng5+ {Comerlo es
+perder. La torre entraría por h1.} 22... Kg8 23. Qxh6 f6 24. Nxe6 Qe7 25. Rxd6
+{Error. La jugada ganadora era 25. Qg6+ Kh8 26. Qh5+ Kg8 27. Rd3! Ne4 (27. ...
+Qh7 28. Qxh7+ Kxh7 29. Nxf8+ seguido de 30. Rxd6) 28. Nxf8 Rxf8 29. Qg4+ Ng5 30.
+Re3 Qg7 31. Rg3 Kh8 32. hxg5. Decir que era muy difícil de encontrar... Tras 27.
+... Ne4, se sugurió también 28. Qg6+ Kh8 29. Nxf8 Rxf8 30. Re3, pero no gana
+porque, en vez de 30. ... f5 31. f3!, las negras tienen 30. ... Rg8 31. Qh6+
+Qh7, o si 31. Rxe4 Rxg6 32. Rxe7 Rxg2, con final de tablas.} 25... Rf7 26. Qd2
+{También era posible 26. Qg6+ Kh8 27. Rd5 Rh7, con igualdad. 26. Rc6 c4 27. Kb2
+Re8 28. f4 Qd7 29. f5 Qxc6 30. Qg6+ Kh8 31. Qxf7 Qxg2+ también lleva
+probablemente a las tablas. 26. f4 parece compleja por 26. ... Rh7 27. Qg6+ Kh8,
+siendo 28. f5 imposible por 28. ... Rg8. Finalmente, decir que Vukovic y
+Nedelkovic recomendaron 26. g4.} 26... Re8 27. f4 {Imprecisión. Mejor era 27. g4
+f5 28. g5 o 27. ... Qb7 28. Qd3, teniendo las blancas opciones de victoria.}
+27... f5 28. Qd5 Kh8 {Era posible tomar en h4: 28. ... Qxh4 29. Rd8 Rxd8 30.
+Nxd8 Qxf4+ 31. Kb2 Qc7 32. Nxf7 Qxf7, llegando a un final de damas con mejor
+posición para las negras.} 29. Qe5+ Qf6 30. Kc2 c4 31. Kd2 Kg8 32. Qd5 Qxh4 33.
+Qxc4 Qf2+ 34. Kc1 Qg1+ 35. Kc2 Qxg2+ 36. Kb3 b5 {No se puede capturar por 7. ...
+Rb8. Además, busca forzar el cambio de damas en c4.} 37. Qd4 {Era importante
+evitar que la dama negra llegase a f1, lo cual se conseguía con Qd3.} 37... Qf1
+38. Kb4 Qc4+ {Aquí era más fuerte 38. ... Rf6. La torre no sería comestible por
+39. ... Qc4+ 40. Ka5 41. Qa4#. Si 39. Qd5, entonces las negras cambiarían damas.
+Si 39. Rd8 Rxe6 40. Rxd8+ Rxd8 41. Qd5, las blancas se salvan.} 39. Qxc4 bxc4
+40. Kxc4 Rc8+ 41. Kb5 {Y se firmaron las tablas, puesto que ninguno de los dos
+vio cómo seguir...} 1/2-1/2
