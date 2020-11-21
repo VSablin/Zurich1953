@@ -71,6 +71,9 @@ for (string in str_dirs) {
     str_round <- strsplit(x = string, split = "/")[[1]][2]
     # Loop over files
     str_files <- list.files(string)
+    if (length(str_files) > 7) {
+        stop("There are more than 7 files in ", string, ". Stop.")
+    }
     # debugging
     string_file <- str_files[1]
     for (string_file in str_files) {
