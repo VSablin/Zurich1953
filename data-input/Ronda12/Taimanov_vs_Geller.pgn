@@ -1,0 +1,69 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Taimanov"]
+[Black "Geller"]
+[Result "1-0"]
+
+{En esta partida veremos varias ideas interesantes. En primer lugar, nos
+encontraremos con una posición en que las blancas, merced a la estructura de
+peones, tendrán más espacio que las negras: los peones blancos se dispondrán en
+c4-d5-e4, frente a los negros de c5-d6-e5. Esto dará a las piezas blancas tres
+filas para disponerse por solo dos para las negras. Esto dará a las piezas
+blancas una mayor maniobrabilidad, que Taimanov explotará para desplazar sus
+piezas de un flanco a otro y así crear amenazas en las dos alas del tablero.
+Además, veremos cómo las blancas se adueñarán de la columna b con sus torres,
+pero no podrán explotarlo porque las piezas menores negras controlarán todos los
+puntos de acceso. Taimanov, sin embargo, creando amenazas en el ala de rey,
+forzará a las piezas de Geller a desplazarse, de tal modo que conseguirá
+infiltrarse con sus torres en la posición negra.} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7
+4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nbd7 8. Re1 c6 9. Bf1 Re8 {Geller acomoda
+sus piezas para cambiar en d4 y llegar a una buena posición. Taimanov, sin
+embargo, se lo impide con la típica d5 contra la Defensa India de Rey.} 10. d5
+{Geller puede cambiar, mantener la tensión o cerrar. El cambio sería bueno si el
+alfil de rey blanco estuviera en g2, quedando desactivado contra sus propios
+peones, y la torre de rey negra en f8, preparando un f5 posterior. Mantener la
+tensión conllevaría un Qe7 y a5, con idea de jugar Nc5 y buscar un f5 más tarde,
+lo cual daría a las negras buenas opciones. Cerrar el juego, como hizo Geller,
+si bien no puede ser catalogado de malo, quita a las negras opciones de
+contrajuego en esta posición.} 10... c5 11. g3 {Jugada un tanto misteriosa...}
+11... Nf8 12. a3 Ng4 13. Nh4 a6 {Las negras se olvidan de 13. ... f5, debido a
+14. exf5 gxf5 15 Bh3, amenazando 16. Nxf5 Bxf5 17. Bxg4, de donde deducimos que
+11. g3 tenía como idea controlar el avance f5: dan salida al alfil vía h3 (no
+g2) y dan soporte al caballo en h4. Tras la partida, Najdorf sugirió aquí 13.
+... Bf6 14. Ng2 Bg7, pero Bronstein es de la opinión de que el caballo no
+tendría que retirarse a g2: 14. f3 Bxh4 15. ghx4 Nf6 16. Bg5 Kg7 17. Qd2 y las
+blancas tienen ventaja por la debilidad del rey negro, unida a la actividad de
+las piezas blancas en el ala de rey.} 14. Bd2 h5 15. h3 Nf6 16. b4 b6 17. bxc5
+bxc5 18. Rb1 N6d7 19. Qa4 Bf6 20. Nf3 {Empezar a penetrar en el ala de dama
+parece bueno, pero es peligroso: 20. Qc6 Ra7 21. Qxd6? Rc7! y la dama está
+atrapada.} 20... h4 {Con idea de abrir líneas contra el monarca blanco. Sin
+embargo, las negras apenas tienen fuerzas en el ala de rey... por lo que se ve
+difícil que prospere un ataque. Mejor hubiera sido preparar f5.} 21. Nd1 hxg3
+22. fxg3 Nb8 {Aquí vemos lo que se comentaba al principio de la partida: las
+blancas tienen mucho más espacio. Esto se plasma, por ejemplo, en la torre de
+b1, que cuenta con buenas casillas en la columna b o, llegado el momento, podría
+desplazarse incluso hasta a h1; también se ve en el caballo de d1, que cuenta
+con buenas casillas para moverse, como f2, e3 o c3, etc. Por su parte, las
+torres negras solo tienen una casilla para moverse, que además no sirve de nada,
+los caballos apenas tienen casillas y además se entorpecen entre sí en d7, etc.
+Sin embargo, la posición negra es sólida. Es tarea de Taimanov transformar su
+ventaja de espacio en ventaja real.} 23. Re3 Nh7 24. Reb3 Bd7 25. Qa5 Qc8 26.
+Nf2 Bd8 27. Qc3 Ba4 {Geller se revuelve. Ha evitado la incursión de la dama
+blanca y las torres blancas no pueden aprovechar la columna b. Rb7 es posible,
+pero la simple Re7 neutralizaría la presión, obligando a la torre de b7 a
+retirarse o a cambiarse en e7. Es por esto que Taimanov, como decíamos en la
+introducción, maniobra con dama, caballo y alfil hacia el flanco de rey para
+crear amenazas en este sector del tablero, forzar a las negras a mover parte de
+sus efectivos allí y entonces poder penetrar con una torre por la columna b.}
+28. R3b2 Nd7 29. h4 Ra7 30. Bh3 Qc7 31. Ng5 Nxg5 32. Bxg5 Bxg5 33. hxg5 Kg7 34.
+Qf3 {Bronstein da signo de admiración a esta jugada. La idea es jugar
+Kg2!-Bxd7-Qf6+-Rh1 y darmate en h8; Kg2 cuenta con signo de admiración porque
+evita Qh3, además de que da paso a la torre de b1 hasta h1.} 34... Qd8 35. Rb7
+Rxb7 36. Rxb7 {Finalmente, las torres negras han penetrado por la columna b,
+generando además amenazas concretas: 37. Bxd7 Bxd7 38. Qf6+, seguida de Qxd6,
+tras lo cual caería toda la posición negra.} 36... Kg8 37. Bxd7 Bxd7 38. Ng4
+Qxg5 {A la desesperada... Contra 38. ... Re7 vendría 39. Nf6+ y, contra
+cualquier jguada, 40. Qh1, con ataque demoledor por la columna h.} 39. Rxd7 f5
+40. exf5 Rb8 {Y Geller se rindió por motivos evidentes.} 1-0
