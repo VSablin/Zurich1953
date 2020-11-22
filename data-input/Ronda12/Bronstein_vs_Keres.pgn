@@ -1,0 +1,57 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Bronstein"]
+[Black "Keres"]
+[Result "1-0"]
+
+1. e4 c5 2. Nc3 g6 3. g3 Bg7 4. d3 Nc6 5. Bg2 Rb8 {Con
+ idea de movilizar su flanco de dama. Bronstein califica esto de 
+precipitado. Argumenta que esto tendría sentido si el rey blanco 
+estuviera enrocado largo o tuviera ese plan. Sin embargo, tal y como 
+argumenta el traductor, lo cierto es que es muy común en el ajedrez 
+realizar este tipo de expansiones para ganar espacio, crear debilidades,
+ etc. De hecho, es bastante común en eta posición concreta de la 
+siciliana cerrada.} 6. f4 d6 7. Nf3 e6 8. O-O Nge7 {Las
+ blancas se disponen a jugar e5, sacrificando un peón. A cambio, se abre
+ la columna e para sus piezas mayores, se abre la diagonal h1-a8, se abrirá la
+c1-h6 y se 
+libera la casilla e4 para situar un caballo.} 9. e5 dxe5 {Las negras podrían
+haber tratado de cerrar la posición con d5. Sus piezas habrían quedado algo
+restringidas, pero su posición sería sólida.} 10. fxe5 Nxe5 11. Bf4 Nxf3+ {Buena
+jugada. Tratar de conservar el caballo en e5, aparentemente una muy buena
+casilla, habría traído problemas al rey negro. Por ejemplo: 11. ... f6 12. Bxe5
+fxe5 13. Ng5 o 11. ... N7c6 12. Nxe5 Nxe5 13. Qe2 o 11. ... 0-0 12. Nxe5 Qd4+
+13. Kh1 Bxe5 14. Nb5 Qxb2 15. Rb1, con buena iniciativa blanca en las dos
+primeras variantes y la dama atrapada en la tercera.} 12. Qxf3 Ra8 {Era
+suculenta 12. ... e5, pero lo cierto es que no sería buena por 13. Bxe5 Bxe5 14.
+Qxf2+ y el ataque es devastador.} 13. Be3 {Tocando en c5. Parece buena 13. Bc7,
+amenazando dama y f7, pero es precipitada por 13. ... Qd4+ o Bd4+ y entoque
+corto a la siguiente.} 13... O-O 14. Bxc5 Bd4+ {Jugada poco intuitiva, ya que es
+raro querer cambiar el alfil del fianchetto. Sin embargo, la idea de Keres es
+cambiar muchas piezas para frenar el ataque blanco.} 15. Bxd4 Qxd4+ 16. Kh1 Rb8
+{Con idea de desarrollar su alfil de c8, sea por fianchetto (b6-Bb7) o por d7.
+Sin embargo, las negras han perdido demasiados tiempos. Bronstein argumenta que
+mejor era jugar algo más activo, como e5 o Nc6.} 17. Ne4 {Esta jugada tiene dos
+ideas: una, cargar sobre f6, donde puede haber jaques molestos en el futuro.
+Otra, más sibilina, es bloquear la acción de la dama negra sobre f4, para que
+así la dama blanca pueda jugar Qf4-Qh6. Esta dama, en combinación con el caballo
+de e4, sería devastadora para el rey negro. Es por esto que Keres expulsa
+inmediatamente a este caballo. El precio a pagar es que el peón de e quedará
+retrasado.} 17... f5 18. Qf4 Bd7 {Por fin, las negras sacan su alfil de dama.
+Sin embargo, esto no aporta nada ahora mismo. Por increíble que parezca, mejor
+era volver con la torre a a8 o 18. ... Nc6.} 19. c3 {La captura es mala por 20.
+Nf6+. Si 20. ... Rxf6, entonces 21. Qxb8+ y las blancas ganan calidad, además de
+que siguen con la iniciativa.} 19... Qb6 {Aquí también existe la combinación con
+20. Nf6+, pero al menos la dama puede defender.} 20. Nf6+ Rxf6 {Es obligado
+tomar. De lo contraio, vendría 21. Nxd7, ganando pieza y tocando a las tres
+piezas mayores negras.} 21. Qxb8+ Bc8 22. d4 Rf8 23. Rf2 Nc6 24. Qf4 Bd7 25. Re1
+{No hay ninguna compensación por la calidad. El resto de la partida no merece
+más comentarios, aparte de que las blancas no jugaron con toda la precisión
+posible.} 25... Nd8 26. d5 Nf7 27. dxe6 Bxe6 28. b3 Bd7 29. Qd4 Bc6 30. Qxb6
+axb6 31. Bxc6 bxc6 32. Re6 Rc8 33. Rfe2 Kf8 34. h4 b5 35. a4 bxa4 36. bxa4 Ra8
+37. Rxc6 Rxa4 38. Rc7 Ra6 39. Rb2 h6 40. c4 f4 41. c5 f3 42. Kg1 Ra8 43. Rcb7
+Ra1+ 44. Rb1 Ra6 45. Rd7 Ra8 46. Re1 Ra2 47. Re3 Ra1+ 48. Kf2 Ra2+ 49. Kxf3 Rc2
+50. Rc7 h5 51. Ke4 Nh6 52. Ra3 Re2+ 53. Kf4 Re8 54. Rh7 Kg8 55. Rxh6 Kg7 56. c6
+Kxh6 57. c7 g5+ 58. hxg5+ {Y Keres se rindió.} 1-0
