@@ -1,0 +1,56 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Stahlberg"]
+[Black "Szabo"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 {En la Grüngeld, las negras
+típicamente tratan de romper el centro con c5. Esta jugada mete presión en d5
+para que las negras se vean forzadas a jugar c6 o para que cambien en c4 y
+pierdan presencia central.} 5... dxc4 6. Qxc4 O-O 7. e4 Bg4 {Variante Smyslov de
+la defensa Grünfeld.} 8. Be3 Nfd7 {Aquí lo típico era 8. ... Nc6, siendo la
+continuación más común 9. d5 Bxf3 10. dxc6 b5! o 10. gxf3 Ne5 11. Qe2 c6!
+Diversos estudios demostraron que, si bien la posición está lejos de ser clara,
+las blancas obtienen ventaja. De ahí que se buscaran alternativas, entre las que
+destaca la textual. Parece una jugada ilógica, pero tiene su idea: preparar c5 y
+mantener la presión sobre d4. La amenaza ahora es 9. ... Nb6 y, si la dama deja
+de defender en d4, entonces 10. ... Bxf3 y 11. ... Bxd4. Aquí se han probado
+varias cosas: 9. Nd2 o 9. Be2 Nb6 10. Qd3, seguida de 11. 0-0-0, con igualdad.
+También se han probado 9. e5  y 9. Rd1 Nc6 10. Nb3. También se exploró la idea
+de retirar la dama profilácticamente a b3 antes de que fuera atacada. Es lo que
+eligió Stahlberg, contra lo cual Szabo tenía preparado un c5 inmediato:} 9. Qb3
+c5 10. d5 {Si 10. Qxb7, entonces 10. ... Bxf3 11. gxf3 cxd4. Si 12. Qxa8
+entonces 12. ... dxc3 13. Qxa7 cxb2 14. Rb1 Nc6 y las negras tienen mucho ataque
+por la calidad. La textual plantea problemas al alfil de g4, ya que puede
+cambiarse en f3, lo cual reforzaría el centro blanco y cedería la pareja de
+alfiles, o quedarse en su sitio, tras lo cual un Nd2 comprometería mucho la
+posición de tal alfil.} 10... Na6 11. Nd2 e6 {Parece que el alfil queda atrapado
+y, por tanto, que las blancas pierden pieza, pero no es así: 12. h3 exd5 13.exd5
+Bf5 14. g4 c4, dejando c4 libre para que salte el caballo de d7, lo que
+permitiría la retirada del alfil de g4. Y si 15. Qxc4, entonces 15. ... Ne5
+también da paso al alfil.} 12. d6 {Peón pasado, pero quedará alejado de sus
+piezas. Ahora la partida orbitará en torno a la presión negra sobre este peón.
+Si bien el módulo da ligera ventaja a las blancas, está claro que es más fácil
+de jugar con negras.} 12... Bd4 {La idea es 13. h3 Bxe3! 14. fxe3? Qh4+ 15. g3
+Qxg3#. Y si cambian en d4, entonecs: 13. Bxd4 cxd4 14. Nb5 Ndc5, seguido de ...
+e5 y las negras quedarían mejor, al tener un peón pasado y apoyado.} 13. Bxa6
+{Asegurando c4 para un caballo y buscando el enroque corto. Las negras, por su
+parte, obtienen la columna b.} 13... bxa6 14. Nc4 Rb8 15. Qc2 e5 16. Nd5 Qh4 17.
+O-O Be6 18. g3 {Esto debilita el enroque blanco, más aun cuando f3 acabará
+siendo necesaria... Mejor era 18. Ne7+ y 19. Rae1, con igualdad.} 18... Qh5 19.
+f3 Bxd5 20. exd5 Nb6 21. Bxd4 exd4 {Las blancas no han soportado la presión y
+han cambiado en d4, lo cual concede a las negras un peón pasado. Tampoco era
+posible 21. Rae1 por 21. ... Nxc4 22. Qxc4 Rb2, amenazando Qxh2#. La debilidad
+del enroque blanco es evidente.} 22. Nxb6 Rxb6 {Con idea de no cerrar la
+columna, que Szabo evalúa como clave para el ataque. Notar que 23. Qxc5 no es
+posible por 23. ... Rxb2, con ataque demoledor sobre el rey blanco.} 23. Rac1
+Rxd6 24. Qxc5 Rxd5 25. Qxa7 d3 26. Qe3 {La debilidad de la segunda fila ata a
+las piezas blancas. No era posible tomar en a6 por Re8, con rápido desenlace.}
+26... d2 27. Rcd1 Rfd8 28. g4 Qh4 29. Rf2 Rd3 30. Qf4 Qe7 31. Qa4 Qf6 32. Qb4
+Qg5 33. Kg2 R3d4 34. Qb3 h5 {La idea de Szabo es controlar g3, lo cual se
+consigue tras la obligada respuesta blanca.} 35. h3 h4 36. f4 Qe7 {Las blancas
+no podían permitir Qf4, pero la textual es decisiva, ya que amenaza Rd3, seguido
+de Qe3 o Qe1, según la respuesta blanca.} 37. Rf3 Rd3 38. Rxd3 Qe2+ 39. Kg1 Rxd3
+40. Qb8+ Kh7 {Y Stahlberg se rindió.} 0-1
