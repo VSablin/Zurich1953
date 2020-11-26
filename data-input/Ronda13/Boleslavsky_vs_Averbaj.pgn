@@ -1,0 +1,67 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Boleslavsky"]
+[Black "Averbaj"]
+[Result "1/2-1/2"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Qa4+ Nc6 9. e3 O-O 10. Be2 a6 {Profilaxis contra Nb5, que le quitaría a las
+negras su alfil negro. La mejor respuesta blanca era 11. a3 12. b4, con fuerte
+presión en las columnas b y c.} 11. O-O Be6 12. Rac1 Bd6 13. Qc2 Rfd8 14. Na4
+Ne7 15. Nc5 Bc8 {La posición negra parece sólida, pero la ruptura e4 provoca una
+serie de cambios que favorecen a las blancas.} 16. e4 {La jugada es
+contraintuitiva, ya que: 1) la posición negra es sólida, así que abrir líneas no
+parece dar nada y 2) las blancas van a quedarse con un peón aislado. Sin
+embargo, las blancas obtendrán a cambio iniciativa por ciertas debilidades poco
+aparentes de la posición negra, como es la expeusta posición de la dama negra.}
+16... Qg6 {Si 16. ... Bf4, entonces 17. e5 Qc6 18. Nd2! y las negras no pueden
+jugar su ansiado b6 en buenas condiciones, ya que: 18. ... b6 19. Nd3 Qxc2 20.
+Rxc2 Bxd2 21. Rxd2, llegando a un final superior para las blancas, en parte por
+la debilidad de c7. Si 16. ... dxe4, la debilidad de la dama negra se hace
+patente: 17. Nxe4 Qg6 18. Bd3 Bf5 19. Nh4 Qh5 20. Nxf5 Nxf5 21. Nxd6 Nxd6 22.
+Qxc7, con peón de más y mejor posición blanca.} 17. e5 {Bronstein comenta que
+mejor hubiera sido seguir movilizando piezas para explotar la precaria posición
+de la dama negra: 17. Bd3 Nxc5 18. Qxc5 o 17. ... dxe4 18. Bxe4 Bf5 19. Bxf5 y,
+tras los cambios, cae el peón de b7. Sin embargo, puede que Boleslavsky
+prefiriera esta vía por 17. ... Bf4.} 17... Qxc2 18. Rxc2 Bxc5 19. Rxc5 c6 {Las
+blancas planean un ataque de minorías en el flanco de dama, mientras que las
+negras tratan de cargar contra el peón de d4. En este sentido, conviene jugar un
+f6, para desestabilizar ese centro blanco. Además, amenazan 20. ... Bg4,
+cambiando en f3 y cargando después sobre d4. Las blancas juegan
+profilácticamente contra esto.} 20. Nd2 a5 {Era a considerar 20. ... Nf5 21. Nb3
+a5 22. a4 Bd7, y las negras están apuntando a las debilidades de d4 y a4. Si 22.
+Rd1, entonces 22. ... a4 23. Nf1 g5!, con idea de seguir con f6 y Ng6-Ne6. La
+textual impide b4-Nb3-Nc5, pero la propuesta de Bronstein obtiene lo mismo de
+forma más activa.} 21. Rc3 {Dejando la casilla al caballo.} 21... Rf8 22. Re1 g6
+{La idea negra de jugar f6 ya parece imposible, ya que vendría un e6! que ataría
+a las piezas negras. Ahora las negras quedan condenadas a la pasividad.} 23. Bd3
+Bf5 24. Bf1 a4 25. h3 Bd7 26. f4 h5 {Boleslavsky ha logrado que Averbaj ponga
+todos sus peones en casillas del mismo color que su alfil.} 27. Nf3 Kg7 28. Kf2
+Rh8 29. g3 Kf8 30. Kg2 Nf5 31. Bd3 Ng7 32. Ng5 Be6 {Impidiendo 33. e6, tras lo
+cual la idea blanca era 33. ... Bxe6 34. Bxg6.} 33. Bc2 Ke7 34. Ra3 Nf5 {Con
+idea de ofrecer llegar a un final de alfil malo contra caballo, pero con
+opciones de tablas. Boleslavsky, sin embargo, defiende en d4 tranquilamente y
+tratará de cargar contra el peón de b.} 35. Nf3 b5 36. Rc3 Rac8 37. Bxf5 Bxf5
+38. Rec1 Bd7 {Era posible aquí 39. e6, con idea de 40. Ne5 a la siguiente, con
+fuerte presión sobre ambos flancos. Boleslavsky elige otra vía. Parece que 39.
+... Kxe6 40. Ne5 Be8 41. Nxc6 Kd6 42. Ne5 Rxc3 43. Rxc3 f6 44. Nd3 Bd7 no le
+pareció suficientemente bueno a Boleslavsky.} 39. Ne1 Rb8 40. Nd3 {Las blancas
+planean meter su caballo en c5, lo cual parece inevitable y dejaría a las negras
+perdidas. Sin embargo, Averbaj encuentra un recurso salvador en el último
+momento.} 40... b4 41. Rc5 Bf5 42. Nf2 {Con idea de 43. g3, pero...} 42... b3
+{Esto fuerza las tablas. Si 43. axb3 Rxb3 44. Rxc6 Rxb2 45. Rc7+ Kf8, con tablas
+muertas. Si 43. Rxc6 bxa2 o 43. ... a3 y las negras ganan.} 43. a3 Bc2 {La
+película ha cambiado por completo. El alfil blanco ahora muy bueno y las negras
+ya no cuentan con debilidades, a excepción del peón de c. Sin embargo, no es
+bueno tomarlo: 44. Rxc6 Rhc8 45. Rxc8 Rxc8, amenazando ... Rc4 y, si las blancas
+defienden en d4 con su rey vía 46. Kf3, entonces 46. ... Be4+ gana la calidad y
+la partida. Curioso que, de estar el rey en f1, entonces las blancas podrían
+ganar esta posición, ya que contarían con 46. Ke2 y consolidarían su peón de
+ventaja. Seguramente las blancas perdieron su ventaja con 40. Nd3. Mejor era 40.
+Rc5!, que no pertmitía a las negras ganar tiempos con b4 y Bf5. Podría haber
+seguido con 40. ... b4 41. Ra5 o 40. ... Rhc8 41. Nd3 Bf5 42. Nb4 o 41. ... b4
+42. Ra5, amenazando 43. Nc5. Bronstein considera que, tras esas variantes, las
+negras están perdidas.} 44. Kf3 Kd7 45. Ke3 Ra8 46. h4 Ra6 47. Nh3 Rb8 48. Ng5
+Ke7 {Y tablas.} 1/2-1/2
