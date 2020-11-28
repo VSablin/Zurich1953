@@ -1,0 +1,63 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Kotov"]
+[Black "Petrosian"]
+[Result "1/2-1/2"]
+
+{En esta partida, veremos una posición en la que las negras tiene peones de dama
+doblados y aislados, pero fuertes. Esto contradice del todo al ajedrez clásico.
+La fortaleza de estos peones se cimentará en la presencia del alfil de g7. Estas
+posiciones se dan en el ajedrez moderno, por ejemplo, en la Defensa Siciliana: 
+1. e5 2. c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c5 Bg7 6. Be3 Nf6 7. Nc3 Ng4 8.
+Dxg4 Nxd4 9. Qd1 e5! 10. Bd3 0-0 11. 0-0 d6 12. Ne2 Be6 13. Nxd4 exd4.} 1. d4
+Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 Be7 6. g3 {Posición análoga a la
+Philidor, excepto por el hecho de que las blancas tienen un peón en c4, así que
+el alfil no puede salir por tal casilla. Es de prever que las columnas centrales
+se abran, así que en e2 o d3 estorbaría a las torres. De ahí que tenga sentido
+sacarlo por fianchetto. Además, caundo las negras se vean oblidadas a tomar en
+d4, el peón de e se hará móvil y se abrirá la gran diagonal para el alfil de
+g2.} 6... O-O 7. Bg2 c6 8. O-O a6 9. b3 {Bronstein critia esta jugada. Parece
+que refuerza c4 frente a un futuro b5, para así retomar de peón, pero lo cierto
+es que las blancas jugarán Nd2 para retomar de caballo. Además, no parece que el
+alfil de dama pueda desarrollarse cómodamente por b2, al estar el caballo en c3.
+De ahí que hubiera sido mejor otra jugada, como h3, y desarrollar el alfil de
+dama por e3.} 9... Re8 10. Bb2 Bf8 11. Qd3 {Mejor era Qc2 y Rad1. Ahora la dama
+estará a tiro de los caballos negros.} 11... b5 12. Nd2 {Kotov evalúa que 12.
+... exd4 no es buena por 13. Qxd4 c5, ya que d5 quedaría débil y un caballo
+podría explotarlo. Además, prepara f4. Las negras, por su parte, encuentran una
+secuencia para instalar el peón que mencionábamos en la apertura de d4, que será
+extraordinariamente fuerte.} 12... Bb7 {Era posible 12. ... Qb6, tocando en d4,
+ante lo cual vendría 13. Ne2. Bronstein se plantea si no hubiera sido mejor para
+las blancas instalar sus caballos en e2 y d2 de primeras.} 13. Kh1 {Preparando
+f4, que no era posible directamente: 13. f4? exd4 14. Qxd4 d5!, amenazando Bc5.
+La retirada del rey, no obstante, tampoco evita el plan de las negras. De ahí
+que mejor hubiera sido una jugada natural como Rae1 o Rfe1.} 13... exd4 14. Qxd4
+c5 {d5 ha quedado débil, pero no es un problema. De instalar un caballo blanco
+ahí, las negras pueden cambiar piezas y nada bueno sale de los cambios para las
+blancas.} 15. Qd3 {Contra 15. Qe3 vendría 15. ... e5, aprovechando la clavada.}
+15... Ne5 16. Qc2 Nc6 17. Nd5 Nd4 {Llegamos al momento en el que las negras
+ofrecen quedarse con la estructura de peones que mencionábamos al comienzo.
+Clave es ahora llevar el alfil de casillas negras a g7. Seguramente Petrosian
+vio todo esto con antelación, ya que, sin una precisa evaluación, la posición
+negra parece muy mala.} 18. Qd3 g6 19. Bxd4 {Kotov no evalúa correctamente la
+posición, pensando que va a poder ganar un peón en d4. Directamente no es
+posible, por 19. cxd4 20. Qxd4 Nxd5 21. exd5 Bg7, ganando la calidad. Mejor era
+19. Nf3 bxc4 20. bxc4 Bxd5! 21. cxd5 Nxf3 22. Bxf3 Bg7 o 21. exd5 Nxf3 22. Qxf3
+Bg7 23. Bxd4 Bxd4, con ligera ventaja negra.} 19... cxd4 20. Nxf6+ Qxf6 21. Kg1
+Qe5 22. Rfe1 Bg7 23. Rac1 {Las negras presionan con fuerza en e4 y c4, lo que
+ata a las torres blancas, evitando llevarlas a la columna d para cargar sobre
+d4. En lo que sigue, Kotov se defiende con precisión.} 23... Re7 24. Nf3 Qc5 25.
+Bf1 h6 26. cxb5 Qxb5 27. Qd1 Qb6 28. Nd2 Rae8 29. Bd3 {Sin duda, las negras
+están mejor. El peón de d4 no es débil, ya que no puede ser atacado, y restringe
+la posición blanca. Ahora Kotov encuentra un sacrififio defensivo de peón para
+tratar de igualar.} 29... d5 {Imprecisión que aprovecha Kotov para alcanzar la
+igualdad. Sacrificará un peón, pero los peones centrales de d bloquean al par de
+alfiles, dejándolos fuera de juego. Mejor era 29. ... f5!.} 30. e5 Rxe5 31. Rxe5
+Rxe5 32. Nf3 {Las claves del sacrifio de peón son dos: el alfil de b7 está fuera
+de juego y los peones de d, aunque pasados, no pueden avanzar con facilidad.}
+32... Re4 {Sacrificio de calidad. Aceptarlo sería un desastre. Kotov lo
+rechaza.} 33. Qd2 {Y tablas. Pese al peón de más, las negras no pueden activar
+sus alfiles con facilidad, las blancas controlan la columna c y pueden generar
+un peón pasado en el flanco de dama.} 1/2-1/2
