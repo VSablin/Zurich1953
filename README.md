@@ -13,3 +13,9 @@ The output is in data-output/. There is a file, ranking.csv, a data frame whose 
 ## Code
 
 There is an R script, main.R, to find data-output/ranking.csv. The script is in the root directory. In functions/ there are functions the script uses.
+
+## Best games
+
+The best games are:
+
+*Round 14, Averbaj-Kotov.

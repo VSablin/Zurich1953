@@ -1,0 +1,54 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Averbaj"]
+[Black "Kotov"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e4 Be7 6. Be2 {Hasta la anterior
+jugada, posición idéntica al Kotov-Petrosian, La diferencia vino aquí, y aque
+Kotov jugó 6. g3, buscando Bg2, 0-0, etc. La opción de Averbaj es consecuente
+con su plan de movilizar su flanco de dama.} 6... O-O 7. O-O c6 8. Qc2 Re8 9.
+Rd1 Bf8 10. Rb1 a5 11. d5 {Bronstein asigna signo de admiración a esta jugada.
+11. a3, consecuente con Rb1, no sería buena porque, tras los cambios en d4, las
+negras podrían presionar sobre e4 y tendrían tiempo para avanzar su peón de a,
+impidiendo b4.} 11... Nc5 12. Be3 Qc7 13. h3 Bd7 14. Rbc1 g6 15. Nd2 Rab8 {Las
+negras pueden buscar actividad en el flanco de dama (Rec8, cxd5, b5...) o en el
+de rey (Kh8, Ng8, f5...). De decantarse por uno u otro plan, las blancas pueden
+lanzarse al otro flanco.} 16. Nb3 Nxb3 17. Qxb3 c5 {Cerrando el flanco de dama,
+dejando claro que pretenden atacar por el flanco de rey. Las blancas deberían
+buscar rápidamente a3 y b4. Por ejemplo: 18. Qc2 Kh8 19. a3 Ng8 20. Bg4 y,
+contra 20. ... Nf6, se captura en d7, abriendo a continuación la columna b.} 18.
+Kh2 Kh8 19. Qc2 Ng8 20. Bg4 Nh6 21. Bxd7 {Averbaj podría haber buscado repetir
+jugadas, pero entiende que su posición es superior. Esto es cierto, pero el plan
+correcto es a3, b4, etc., mientras que la idea del jugador soviético era otra.}
+21... Qxd7 22. Qd2 Ng8 23. g4 {Averbaj se lanza al ataque, entrando en
+posiciones de doble filo.} 23... f5 24. f3 Be7 25. Rg1 Rf8 26. Rcf1 Rf7 27. gxf5
+{Esta jugada, además de consecuente con las acciones de Averbaj, es buena, si
+bien arriesgada, ya que permite atacar por la columna g, a la par que debilita
+el enroque blanco.} 27... gxf5 28. Rg2 {Averbaj sigue jugando de forma
+consecuente, pero esto permite f4, que concede a las negras mucho ataque. En
+cualquier caso, la posición está igualada.} 28... f4 29. Bf2 Rf6 30. Ne2
+{Llegamos al momento más bello del torneo. En este punto, Kotov seguramente no
+calculó con precisión todas las continuaciones, sino que se basó en la
+intuición. ¡Atención!} 30... Qxh3+ {Empieza una de las maniobras de extracción
+más famosas de la historia. El rey negro acabará en f5, entre el fuego cruzado
+de las piezas negras. Es por esto que la idea de Averbaj hubiera sido mejor de
+haberse situado su peón de h en h2 y su rey detrás de la barrera. Decir que el
+sacrificio no se puede rechazar, ya que vendría 31. ... Rh6 con ataque
+demoledor.} 31. Kxh3 Rh6+ 32. Kg4 {Única, puesto que 32. Bh4 Rxh4#.} 32... Nf6+
+33. Kf5 {Única: si 33. Kg5, entonces 33. ... Rh5#.} 33... Nd7 {Mejor era 33. ...
+Ng4, abriendo la columna f para la torre de b8 y bloqueando Rg5, tras lo cual
+las blanca se verían obligadas a devolver el material con creces para no recibir
+mate. Igualmente, las negras están ganando.} 34. Rg5 {Única que evita el mate
+tras Rf8+.} 34... Rf8+ 35. Kg4 Nf6+ 36. Kf5 Ng8+ 37. Kg4 Nf6+ 38. Kf5 Nxd5+ 39.
+Kg4 Nf6+ 40. Kf5 Ng8+ 41. Kg4 Nf6+ 42. Kf5 Ng8+ 43. Kg4 Bxg5 {Se amenaza 44. ...
+Be7 y 45. ... Nf6+ 46. Kf5 Nd7+ 47. Kg4 Rg8+ y mate a la siguiente. Pese a que
+las blancas cuentan con dos tiempos para defenderse con esto, no les es posible
+hacerlo con éxito por lo trabadas que están sus piezas.} 44. Kxg5 Rf7
+{Amenazando mate en dos: Rg7+ y Rf6#. No vale 45. Nxf4 Rg7+ 46. Ng6+ R7xg6+ 47.
+Kf5 Ne7#. Las blancas se ven forzadas a seguir devolviendo material...} 45. Bh4
+Rg6+ 46. Kh5 Rfg7 47. Bg5 Rxg5+ 48. Kh4 Nf6 49. Ng3 Rxg3 50. Qxd6 R3g6 51. Qb8+
+Rg8 {Y Averbaj abandonó, ya que la única forma de parar el mate es dar más
+material, llegando a un final totalmente perdido.} 0-1
