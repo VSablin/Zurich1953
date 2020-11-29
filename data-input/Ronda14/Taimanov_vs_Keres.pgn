@@ -1,0 +1,71 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Taimanov"]
+[Black "Keres"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c5 5. e3 {La teoría de aperturas dicta que
+aquí 5. cxd5 da ventaja a las blancas. Veamos cuatro posibles continuaciones: 1)
+5. ... cxd4 6. Qxd4 Be7 7. e4 Nc6 8. Qe3 Nxd5 9. exd5 Bxg5 10. f4 Nb4 11. 0-0-0
+Be7 12. dxe6 Qc7 13. exf7+ Kxf7 14. Nf3 Nxa2+; 2) 8. Qd2 exd5 9. Bxf6 Bxf6 10.
+dxc5 Ne5 11. Bb5+; 3) 8. ... Nxe4 9. Nxe4 exd5 10. Bxe7 Qxe7 11. Qd5 0-0 12. f3
+Nb4 13. Qg5; 4) 5. ... Qb6 6. Bxf6 Qxb2, etc. En todas ellas, se entiende que
+las blancas están mejor. Sin embargo, Taimanov decide desviarse de esto, pese a
+conecer bien todas estas líneas, para tratar de sorprender.} 5... cxd4 6. exd4
+Be7 7. Nf3 O-O 8. Rc1 {Bronstein critica esta jugada. Mejor era 8. Bd3, para
+enrocar corto a la siguiente.} 8... b6 9. Bd3 Nc6 10. O-O Nb4 11. cxd5 {Celada
+posicional: 11. ... Nxd3 12. Qxd3 exd5 13. Ne5 y el caballo de e5 es superior a
+cualquier de los alfiles negros. También era posible 11. Ne5 Nxd3 12.Nc6 Qd7 13.
+Nxe7+ Qxe7 14. Qxd3 Ba6 15. b3, con posibilidades para ambos bandos. En esta
+segunda línea había una celada: 12. ... Nxb2 13. Qe2 Qd7 14. Nxe7+ Qxe7 15.
+Nxd5, aprovechando la clavada, y las blancas ganan material. Decir que 14. ...
+Kh8 mantiene la igualadad.} 11... Nfxd5 12. Bxe7 Qxe7 13. Be4 Bb7 14. Re1 Rac8
+15. Qd2 h6 16. a3 Nxc3 17. Bxb7 Qxb7 18. bxc3 Nc6 19. Qd3 Rfd8 {Las negras
+planean cargar sobre los peones de c y d. Si las blancas no juegan con vigor,
+sufrirán. Algunos planes son: 1) Na5-Nc4, bloqueando el peón de c y presionando
+en a3, 2) maniobrar con las torres por las columnas c y d (doblarse en una o en
+la otra, etc.) o 3) minar el peón de d4 vía b5, a5, b4. El plan negro dependerá
+de su las blancas movilizan su peón de c, el de d, o si buscan atacar el enroque
+negro.} 20. h3 Rc7 21. Re4 {Objetivamente c4 es mejor, seguramente, pero
+Taimanov opta por lanzarse al ataque contra el monarca negro.} 21... Na5 22. Nd2
+{22. Ne5 es tentadora, pero vendría 22. ... Nb3, seguido de 23. ... Nc5, ganando
+calidad.} 22... Qd5 {Tratando de penegrar por a2. 23. c4 parece forzada, pero
+Taimanov no se desvía de su plan.} 23. Rg4 {Amenazando 24. Qg3 y 24. Rxg7+ Kxg7
+25. Qg3+ seguido de 26. Qxc7 o 24. Ne4. Veamos otra variante: 23. ... Nc4 24.
+Ne4 Ne5 25. Qg3 Nxg4 26. Qxc7; en esta línea, el sacrificio de torre no sería
+posible: 25. Rxg7+ Kxg7 26. Qg3+ Ng6! 27. Qxc7 Qxe4! 28. Qxd8 Nf4, con mate
+imparable.} 23... f5 24. Rg3 Rdc8 {El peón de c3 está bien defendido, así que
+esta jugada es inútil. Para atacar estos peones, las negras requieren de sus
+propios peones. Mejor era 24. ... e5, para romper ese centro. Bronstein comenta
+que todas las variantes llevan a ventaja negra. Tras la textual, la torre de g3
+va a e3, fijando la debilidad negra de e6.} 25. Re3 Nc4 {Keres trata de
+simplificar, pensando que quedará mejor por la presión sobre c3. Sin embargo,
+las blancas pueden seguir defendiendo sin problemas. Bronstein apunta que 25.
+... Qa2 o Qd6 eran mejores.} 26. Nxc4 Rxc4 27. Qd2 Qc6 {La idea es cambiar el
+peón de c3 por el de e6, ya que las blancas, además de amenazar con ganar tal
+peón, también pueden buscar un desagradable Re5-d5. Bronstein señala que mejor
+era hacer antes R8c6, pero entonces situar su dama en d7 o d6. Comenta además
+que las negras estarían mucho mejor si su peón de f estuviera en f7: en tal
+caso, las blancas no tendrían plan y las negras podrían movilizar plácidamente
+su flanco de dama, con idea de crear debilidades en la posición blanca.} 28.
+Rce1 Rxc3 29. Rxe6 Qc4 30. Qf4 Rc1 {La posición se ha abierto totalmente y el
+rey negro está algo más inseguro que su homólogo, así que Keres busca cambiar
+piezas.} 31. Qxf5 Qxd4 32. Rxc1 Rxc1+ 33. Kh2 {En este tipo de finales, es clave
+guarecer bien al rey, ya que la ventaja estará en manos de quien pueda movilizar
+peones y crear amenazas serias sobre el rey rival. Es por esto que hemos llegado
+a un final con ventaja blanca.} 33... Qd7 34. Qe4 Rc8 {Keres defenderá con
+maestría esta posición.} 35. f4 Rf8 36. Qe5 {Invitando a un final de torres con
+peón de más para las blancas: 36. ... Rxf4 37. Re7 38. Qd4 39. Rxg7+ Kh8 40.
+Qxd4 Rxd4 41. Rxa7. Seguramente se trata de un final de tablas, pero Keres
+encuentra otra línea.} 36... Qd2 {Keres entiende que las blancas no pueden
+defender ya en f4: 37. Kg3 Qd3+, pero no se da cuenta de que tienen 37. f5,
+controlando g6, aumentando las amenazas sobre el rey negro. Más fino era 36. ...
+Qf7 37. g3 Qf5.} 37. f5 Qa5 {Mejor era 37. ... Rf7 38 Re8+ Kh7 39. Qb8 Rxf5, con
+igualdad total. Ahora, las blancas cobrarán ventaja, gracias a la debilidad de
+los peones negros de la columna a.} 38. Qxa5 bxa5 39. g4 {Taimanov le devuelve
+el favor a Keres. La jugada es lógica, ya que defiende en f5 y gana espacio en
+el flanco de rey, pero ahora Keres podrá obtener iniciativa contra a3, en parte
+gracias a que el rey blanco ahora está más expuesto. 39. Re5 mantenía la ventaja
+blanca.} 39... Rb8 {Y tablas...} 1/2-1/2
