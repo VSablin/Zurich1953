@@ -1,0 +1,95 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Euwe"]
+[Black "Stahlberg"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 {Luchando contra el futuro alfil de g2, Stahlberg
+planea formar una fuerte estructura de peones en c6-d5. Euwe rompe
+inmediatamente.} 4. d5 cxd5 5. cxd5 d6 {Era posible 5. ... Qa5+, pero tampoco
+daba nada: 6. Nc3 Ne4 7. Qd4 Nxc3 8. Bd2 Qxd5 9. Qxc3!} 6. Bg2 Bg7 7. Nc3 O-O 8.
+Nf3 Nbd7 {Este caballo no tiene ruta clara. Mejor era 8. ... Bg4 9. Nd4 Qc8!} 9.
+O-O Nb6 10. a4 {Tratando de molestar al caballo de b6. Sin embargo, el caballo
+de por sí ya está en una mala casilla, no hay necesidad de expulsarlo. Mejor era
+jugar con 10. Nd4 y 11. b3, dejando al caballo en una situación incluso peor y
+sacando el alfil por b2. Euwe, sin embargo, planea sacar el alfil por e3.} 10...
+Bg4 11. Nd4 a6 {Otra idea era 11. ... Qc8, pero se encontraría con 12. a5 Nc4
+13. a6 y las blancas controlarían la importante casilla c6.} 12. h3 Bc8 13. b3
+Bd7 {Es antiintuitivo mover la misma pieza dos veces, pero lo cierto es que
+tiene sentido. La idea de no jugar Bd7 de primeras era por temor a 13. Qb3: 12.
+... Bd7 13. Qb3 Nfxd5 14. Nxd5 Bxd4 15. Bh6 y las negras tendrían que dar la
+calidad, ya que, de lo contrario, las amenazas de mate en g7 y sobre el caballo
+de b6 resultarían decisivas para las blancas. Otra opción era 13. ... Qc7 14.
+Be3 Nc4 15. Rfc1 y hay una molesta clavada en la columna c. Una continuación
+evidente tras la textual sería 14. a5, expulsando al caballo a c8 y dejando a
+las negras en una posición muy restringida.} 14. Be3 Rc8 15. Qd2 Rc5 {Era
+posible aquí dar la calidad y luego tomar en d5. Stahlberg prefiere mantener la
+tensión de la posición.} 16. Nc6 {Euwe cambia dos piezas menores por torre,
+obteniendo un poderoso peón pasado. Era posible también 16. ... Bxc6 17. dxc6
+Rxc3 18. Qxc3 Nbxd5 19. c7 o 16. ... Nfxd5 17. Nxd8 Bxc3 y, en cualquier caso,
+las blancas tienen ventaja.} 16... bxc6 17. Bxc5 dxc5 18. dxc6 Be6 19. Qxd8 Rxd8
+20. Rad1 Rc8 {Cambiar torres es un suicidio, pero mejor era 20. ... Re8, dejando
+c8 para el cabllo.} 21. a5 Na8 22. Na4 {Ofreciendo el peón de b3. De ser
+aceptado, 23. Nb6 sería muy fuerte, ya que implicaría la coronación del peón o
+ganar pieza.} 22... Nc7 23. Nxc5 Nfd5 {Las negras entregan otro peón, a cambio
+de activar sus piezas del ala de rey. Bronstein comenta que no era necesario.
+Mejor era Ne8, con idea de seguir con Nd6 y Bf6.} 24. Nxa6 Nxa6 25. Bxd5 Bxh3
+{Parece
+ tentador cambiar alfile sy tomar en c6, pero lleva a la derrota, ya que
+ la torre de d1 invadiría la octava y la de f1 iría a b1 para apoyar el 
+avance triunfal del peón de b.} 26. Bg2 Be6 {Tampoco era bueno cambiar alfiles
+aquí por razones idénticas a las del anterior comentario.} 27. Rb1 Bc3
+{Bronstein comenta que mejor hubiera sido 27. ... Bf5, cuestionando a la torre
+de b1.} 28. Rfd1 Bb4 29. Rd4 Bf5 30. Rbd1 Bd6 31. Rc4 Be6 32. Bd5 Bxd5 33. Rxd5
+{Una de las opciones de las negras para conseguir tablas era devolver dos piezas
+por una torre para llegar a un final de alfiles de distinto color, lo que pasaba
+por mantener el alfil blanco. Mejor era pues situar el alfil en e6 precedidio de
+un Nc7.} 33... Rb8 34. b4 {Tomar de torre es imposible, ya que, tras los
+cambios, vendría Rb5-Rb6 y el peón de a es imparable. Capturar con el alfil
+tampoco es posible por c7. Stahlberg encuentra una combinación para devolver dos
+piezas por torre y un peón y llegar a un final algo inferior.} 34... Nxb4 35.
+Rxd6 exd6 36. c7 Rc8 37. Rxb4 Rxc7 38. Ra4 {Típico final de torres con peón
+pasado y alejado. Las negras tienen sus opciones por el poco material que queda
+y por sus opciones de hacer un peón pasado en la columna e.} 38... Kf8 {Activar
+el rey por g7-f6-e5 mp era `posible: 38. ... Kg7 39. Kg2 Kf6 40. Kf3 Ke5 41. a6
+Ra7 42. Ra5+ d5 43. e4 y las blancas ganan un peón. Destacar aquí el papel de la
+torre blanca, apoyando el avance de su peón y gozando de gran actividad, frente
+al de la torre negra, atada totalmente a bloquear el peón de a.} 39. Kg2 Ke7 40.
+Kf3 Kd7 41. Ke4 Ra7 42. Kd5 {Las negras pueden tratar de crear un peón pasado en
+la columna h.} 42... h5 43. f4 {Anticipándose al plan negro. Laidea es liquidar
+los potenciales peones pasados del ala de rey y tratar de explotar su peón
+pasado.} 43... Ra6 {Según Euwe, aquí era mejor 43. ... f6 44. a6 g5 45. f5 h4
+46. gxh4 gxh4 47. Rxh4 Rxa6 48. Rh7+ Ke8 49. Ke6 d5+ 50. Kxd5 Ra5+ y tablas, o
+47. Ke4 Kc6 48. Kg4 Kb5 49. Kxh4 Kc5 y tablas,  o 44. Ra3 g5 45. f5 h4 46. gxh4
+gxh4 47. Ke4 g3 48. Kf3 d5 49. Kg3 Kd6 50. Kxh3 Ke5 y tablas, o 44. e4 Ra6, con
+la misma idea que se vio en la partida, pero con un tiempo de más para las
+negras.} 44. e4 {Según Bronstein, esto es una imprecisión, ya que el rey blanco
+carece ahora de la casilla e4. Por ejemplo: 44. Ra2 f6 45. Ra3 g5 46. f5 h4 47.
+gxh4 gxh4 48. Ke4 h3 49. Kf3 h2 50. Kg2 Kc6 51. Kxh3 Kb5 52. Kg3 Rxa5 53. Rxa5+
+Kxa5 54. Kh4 y las blancas ganan con el peón de f. Lo mismo sucede si 48. ...
+Kc6 49. Kf4 Kb5 50. Kg4 Rxa5 51. Rxa5+, etc. Pero ahora, el rey no cuenta con
+esta casilla para frenar al peón de h, así que las negras entran en esta
+variante.} 44... f6 45. Ra2 g5 46. f5 h4 47. gxh4 gxh4 48. Kc4 Ra8 {Imprecisión.
+Stahlberg se deja llevar por la idea intuitiva de apoyar a su peón de h. Euwe
+demostró que la jugada salvadora era 48. ... Ra7, por 49. a6 Kc6 50. Ra3 h3 51.
+Rxh3 Rxa6 52. Rh6 Kd7 53. Rh7+ Ke8 54. Kd5 Ra5+ 55. Kxd6 Re5 y tablas, o 50. Kd4
+h3 51. Ra3 h2 52. Ra1 Kd7 53. Kd5 h1Q 54. Rxh1 Rxa6 55. Rh7+ Ke8 56. Ke6 d5+ 57.
+Kxd5 Ra5+ 58. Kd4 Re5 y tablas. Ahora, con la torre en a8, el peón puede llegar
+a a7 y, en una variante análoga a la segunda que acabamos de ver, la torre
+blanca da jaque en h7 tras el cambio de peones y la torre negra cae a la
+siguiente.} 49. a6 Kc6 50. a7 h3 {Ir a por el peón de a7 directamente pierde:
+50. ... Kb7 51. Rh2 Rxa7 52. Rxh3 Kc6 53. Rh6 Rf7 54. Rh8 Re7 55. Kd4 Rf7 56.
+Rg8 y las negras están en Zugzwang.} 51. Kd4 Kc7 {Parece tentador avanzar el
+peón de h para forzar el cambio de peones, pero, en tal caso, las blancas darían
+un jaque intermedio en c2, forzando al rey negro a volver a la columna b,
+ganando fácilmente la partida.} 52. Kd5 Kd7 53. Ra3 h2 54. Ra1 {Las negras están
+perdidas. Por ejemplo, 54. ... h1Q 55. Rxh1 Rxa7 56. Rh7+ y cae la torre. Si las
+negras mueven antes su rey a la octava, entonces el rey blanco entra y aparecen
+amenazas de mate. Si 54. ... Ke7, entonces 55. Kc6-Kb7 y la posición es
+desesperada.} 54... Re8 55. Rh1 Re5+ 56. Kd4 Ra5 57. Rxh2 Kc6 58. Rh7 Ra4+ {Aquí
+podría haberse visto un final espectacular: 58. ... d5 59. e5 Ra4+ 60. Kc3 fxe5
+61. f6 Kd6 62.f7 Ke7 63. f8Q+ Kxf8 64. a8Q+ Rxa8 65. Rh8+.} 59. Ke3 Ra3+ 60. Kf4
+Ra1 61. Rf7 Kc5 62. Rxf6 Rxa7 63. Re6 Ra1 64. f6 Kc6 65. Kf5 Kd7 66. Re7+ Kd8
+67. Ke6 {Y Stahlberg se rindió.} 1-0
