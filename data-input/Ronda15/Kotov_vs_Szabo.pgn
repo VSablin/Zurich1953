@@ -1,0 +1,68 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Kotov"]
+[Black "Szabo"]
+[Result "1-0"]
+
+{Típiamente, cuando se tienen enroques en flancos opuestos, ambos bandos
+movilizan sus peones del flanco en el que está enrocado el rey rival. Sin
+embargo, el ataque Sämisch contra la defensa india de rey es una excepción a
+esta regla, ya que se movilizan los peones del flanco en el que los reyes están
+enrocados. En la presente partida, con el centro cerrado, Szabo buscará la
+ruptura g4 jugando f4, g4, h5 y g4. Kotov, por su parte, abrirá la columna b,
+exponiendo a su propio rey.} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6.
+Be3 e5 7. d5 Nh5 8. Qd2 f5 9. O-O-O Nd7 {Aquí se había probado a cerrar con f4,
+pero Bronstein considera mejor mantener la tensión, con idea de situar un
+caballo en f4, entre otras.} 10. Bd3 Nc5 {Bronstein considera superior 10 ...
+Nf4 y, si 11. Bc2, entonces 11. ... Nb6, forzando b3 y debilitando el enroque
+blanco.} 11. Bc2 f4 {Finalmente, Szabo cierra el flanco de rey. Ahora Kotov
+tiene toda la iniciativa. en el flanco de dama. La idea es: Kb1 para asegurar al
+rey, Ne2-Nc1-Nd3 para forzar la debilitadora b6, torres a c1 y d1 y acabar
+rompiendo en c5. Bronstein considera que la textual no fue buena, ya que las
+negras quedan sin plan. Mejor hubiera sido: 11. ... Nf6, presionando en e4 e
+impidiendo 12. Nge2 por 12. ... fxe4 13. fxe4 Ng4 o 13. Bxc5 exf3.} 12. Bf2 a6
+13. Nge2 a5 {Szabo llevaba idea de jugar b5, pero se encontraría con b4,
+expulsando el caballo.} 14. Kb1 Bd7 15. Nc1 Rf7 16. Nd3 b6 17. Rc1 Bf6 18. Rhf1
+Bh4 {Con idea de cambiar alfiles de casillas negras. Sin embargo, Kotov puede
+cambiar en c5. Mejor hubiera sido a4, quitando b3 a las piezas blancas y
+evitando el cambio de alfiles de casillas blancas.} 19. Bxc5 {Hay que retomar de
+b, ya que, de lo contrario, vendría 20. Nxe5. La apertura de la columna b parece
+favorecer a las negras, al abrirse opciones de ataque. Sin embargo,
+paradójicamente, debido a las particularidades de la posición, serán las blancas
+las que aprovecharán esta columna.} 19... bxc5 20. Ba4 {Tratando de cambiar
+alfil malo por alfil bueno, del mismo modo que lo intentaron las negras con su
+18. ... Bh4. Sin embargo, las blancas sí que tendrán éxito. La única alternativa
+parece ser 20. ... Bc8, pero el alfil queda fuera de juego y las piezas negras
+quedarían muy trabadas. Además, vendría 21. Bc6 Ra6 22. Nb5, con fuerte presión.
+De hecho, las negras deberían buscar el cambio de alfiles ahora.} 20... Bxa4 21.
+Nxa4 Qd7 22. Nc3 g5 {Las blancas planean seguir con Nb5 y Rc3-Ra3 y acabaría
+cayendo, teneindo en cuenta además que el otro caballo puede ir a b3. En la
+posición actual, los caballos son mucho más fuertes que los alfiles, por el
+hecho de que los peones están inmóviles. Es por eso que Szabo decide tratar de
+abrir la posición, aunque sea en el flanco en el que está enrocado. La partida
+pasa a agudizarse en extremo.} 23. h3 Nf6 {Con idea de apoyar g4. La suculenta
+23. ... Ng3 se encontraría con: 24. Rfd1 h5 25. Nf2 y ... g4 sería imposible,
+anulando el contrajuego negro por completo.} 24. Nb5 h5 25. Rh1 Rh7 26. Rc3 g4
+27. hxg4 hxg4 28. Ra3 Bg3 29. Rxh7 Qxh7 {a5 es incomestible, ya que se
+encontraría con el jaque en h1, seguido de Qxg2, debilitando por completo la
+estructura de peones blancos.} 30. Nc1 Qh1 {Penetrando en campo blanco. La
+jugada es arriesgada, pero tampoco había muchas más opciones. De lo contrario,
+el peón de a5 caería sin contrajuego alguno, mientras que ahora podrán crear
+amenazas. En cualquier caso, la superioridad blanca es evidente: su rey está
+mucho más seguro, los caballos son mucho mejores que el alfil y ahora van a
+tomar un peón con ganancia de tiempo sobre la torre.} 31. Nxc7 gxf3 32. gxf3 Ra7
+33. Ne6 {El caballo es un monstruo. El rey negro corre mucho peligro.} 33... Be1
+34. Qd1 Rh7 35. Rd3 {Profilaxis contra el plan Rh2-Bd2.} 35... Rh2 36. a3 {Tras
+36. Qb3 la posición no estría del todo clara por 36. ... Qg2 y 37. Qb8+ no
+conduce a nada, ya que g7 está controlado por la dama negra.} 36... Nd7 37. Qa4
+Qg2 38. Rb3 {Evitando el mate y amenazando con capturar el caballo.} 38... Bc3
+{Celada: 39. Qxd7? Qxb2+! 40. Rxb2 Rxb2+ 41. Ka1 y las negras pueden dar
+devastadoras descubiertas: 41. ... Rb7+ 42. Ka2 Rxd7 y, de hecho, las negras
+ganarían.} 39. Ne2 {Hermosa jugada. El caballo bloquea la acción de la dama
+sobre b2. De tomar en e2, la dama negra dejaría de controlar g7 y las blancas
+ganarían: 39. ... Qxe2 40. Rb8+! Nxb8 41. Qe8+ Kh7 42. Qf7+ Kh6 43. Qg7+ Kh5 44.
+Qg5#. Además, de no tomar el caballo, las blancas ganarían pieza en c3 o d7,
+además de que el rey negro estaría sufriendo muchísimo. Boleslavsky se rindió:
+1-0.} 1-0
