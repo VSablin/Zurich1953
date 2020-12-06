@@ -1,0 +1,62 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Geller"]
+[Black "Averbaj"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Bd7 7. Bg5 Qa5
+{Comentamos algunos sutilezas de las últimas jugadas. 6. Bc4 evita entrar en
+posiciones típicas del dragón (g6, Bg7, etc.). Si 6. ... g6, entonces 7. Nxc6
+bxc6 8. e5! y no vale 8. ... dxe5?? por 9. Bxf7+! Kxf7 10. Qxd8. Las negras se
+verían forzadas a jugar 8. ... Ng5, dejando su caballo en una posición muy
+inestable, y el peón seguiría avanzando. Por ejemplo: 9. e6 f5 10. 0-0-0, con
+clara ventaja blanca por tener más espacio, mejor disposición de piezas y un
+peón muy molesto en e6. La réplica de Averbaj busca entrar en el dragón, ya que
+ahora no hay ya temas en f7 por estar la dama defendida por la torre de a8. Tras
+6. ... Bd7, las blancas podrían haberse enrocado con buen juego: 7. 0-0 g6 8. h3
+Bg7 9. Be3 0-0 10. Bb3. Geller, sin embargo, siguió con su 7. Bg5, tras lo cual,
+7. ... Qa5 fuerza a cambiar en f6, cediendo la pareja de alfiles, para poder
+defender en e4 (notar que el caballo de c3 está clavado). Averbaj tomará de peón
+de g, abriendo esta columna para sus piezas mayores, con idea de atacar al rey
+blanco, que está bastante claro que se va a enrocar corto. Esto implica que
+Geller tenga que cuidar la defensa. Por ejemplo, 9. Bd5 sería una jugada a
+consderar para que la dama no pueda trasladarse al flanco de rey, seguida de un
+futuro Nb3 para molestar a la dama negra. Sin embargo, Geller jugó, como
+veremos, 9. Nb3 directamente.} 8. Bxf6 gxf6 9. Nb3 Qg5 10. O-O Rg8 {Buena
+jugada. La amenaza de mate en una solo puede ser repelida con 11. g3, lo cual
+debilita al enroque blanco.} 11. g3 h5 12. Nd5 Rc8 {Averbaj renuncia a enrocar.
+Bronstein critica esta decisión, ya que, si bien es cierto que el rey negro se
+encuentra seguro tras su barrera de peones, su situación evita que estos peones
+puedan desplegar su potencial. De poder movilizarlos, sería más fácil seguir con
+el ataque. 12. ... 0-0-0, con idea de jugar en el futuro ... e6 y ... d5 para
+abrir la posición, sería bueno para las negras, aprovechando la debilidad del
+rey blanco y que abrir líneas potencia la pareja de alfiles.} 13. f4 Qg7 14. Qd2
+h4 15. Rf3 Qh6 16. Bf1 hxg3 17. Rxg3 Rg6 18. Re1 f5 {Tratando de abrir líneas
+para sus alfiles.} 19. exf5 Bxf5 20. c3 Be6 21. Bg2 {Bronstein critica está
+decisión, ya que argumenta que el caballo de d5 es más fuerte que el alfil de
+casillas blancas de las piezas negras. Por ende, dice que mejor será retirarlo a
+e3, por ejemplo. Con tal masa de piezas en torno al rey blanco, difícilmente las
+negras podrían llevar a buen puerto su ataque. Sin embargo, el módulo de
+análisis evalúa esta posición como de igualdad. De hecho, 21. Ne3 Qxf4 y otorga
+a las negras mucha ventaja...} 21... Bxd5 22. Bxd5 e6 23. Nd4 {Con idea de 24.
+Bxc6 25. Nf5 26. Nxd6. Sin embarg, se para fácil con la jugada que sigue. Mejor
+era 23. Qg2.} 23... Be7 {También era posible 23. ... Kd7, sacando al rey de la
+clavada. En cualquier caso, las negras completan su desarrollo y su posición es
+más cómoda que la de las blancas, en gran medida por la debilidad del rey
+blanco.} 24. Bg2 Rxg3 {La sugerente 24. ... Bh4 para ganar una calidad lleva al
+colapso por 25. Nf5!. Si las negras tratan de mantener material, pierden por 25.
+... Qh8 26. Nxh4 Qxh4 27. Rxg6 fxg6 28. Rxe6+ y las blancas han ganado un peón,
+el peón de d6 también va a caer tarde o temprano y, sobre todo, el rey negro es
+el que está ahora en serias dificulatades.} 25. hxg3 Nxd4 26. Qxd4 {Mejor que
+tomar de peón. De lo contrario, sería difícil defender las debilidades de d4 y
+g3 al carecer las blancas del alfil de casillas negras, unido al hecho de que
+las negras sí que lo tienen.} 26... d5 27. b4 {Error grave. El peón de c3 ahora
+caerá y las blancas están esencialmente perdidas. Mejor era 27. Kf1 Bc5 28. Qd3
+Qh2 29. Qf3, con buenas opciones de tablas.} 27... Rc4 28. Qe5 Qf6 {Averbaj le
+devuelve el error a su rival. Para explotar la debilidad del rey blanco, es
+mejor no cambiar damas. Bronstein da la siguiente variante como ganadora: 28.
+... Bd8 29. Bxd5 Bc7 30. Qg5 Qxg5 31. fxg5 Rxc3 o 30. Qe2 Rxc3 31. Qg2 Qg6 32.
+Kh2 Rc2 33. Re2 Qh5+.} 29. Qxf6 Bxf6 30. Bxd5 Rxc3 31. Bxb7 Rxg3+ 32. Kh2 Rg4
+33. Re4 Ke7 34. f5 {Y se firmaron las tablas.} 1/2-1/2

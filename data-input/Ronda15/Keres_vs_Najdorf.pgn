@@ -1,0 +1,71 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Keres"]
+[Black "Najdorf"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 d6 4. g3 Nc6 5. Bg2 g6 6. d3 Bg7 {Esquema tranquilo
+contra la siciliana. La posición es bastante simétrica, siendo la diferencia más
+llamativa el hecho de que los peones blancos estén avanzados en la zona central
+y los negros en el ala de dama, lo cual determinará los planes de ambos bandos.
+En cualquier caso, la pasividad de Keres permitirá a Najdorf equilibrar e
+incluso obtener ventaja.} 7. Be3 O-O 8. h3 {Otra opción aquí era 8. Qc1, con
+idea de cambiar alfiles de casillas negras. Si lo evitan con 8. ... Re8,
+entonces 9. Bh6 Bh8 10. h3, impidiendo 10. ... Ng4. Decir que la dama va por c1
+y no por d2, para retirar el alfil de e3 a d2 en caso de un Ng4 inmediato.} 8...
+Ne8 {Buscando maniobrar con un caballo hasta d4 y apoyarlo con otro. Sin
+embargo, Bronstein comenta que era necesario aquí 8. ... d5, ganando espacio en
+el centro y evitando que las blancas hagan lo propio. Esto ahora será imposible,
+al no estar el caballo en f6 apoyando este avance, lo que concederá a las
+blancas una ligera ventaja.} 9. Qd2 Nd4 10. Nd1 Rb8 {Buscando expandirse en el
+ala de dama. La reacción de Keres tiene como objetivo expulsar el caballo de d4
+y preparar un d4 propio, pero no lo conseguirá. Mejor era, según Bronstein,
+cambiar en d4 y jugar Bh6, para así cambiar alfiles de casillas negras y dejar
+el peón de d4 sin el apoyo de su alfil.} 11. Nf4 Nc7 12. c3 e5 {Golpe táctico
+para evitar el plan negro. Ahora las blancas se ven obligadas a retirar su
+caballo y las negras ganarán muchísimo espacio con d5-f5.} 13. Ne2 {Era posible
+13. cxd4, pero las negras controlarían muchas casillas importantes con sus
+peones centrales.} 13... Nxe2 14. Qxe2 b6 {La posición es ventajosa para las
+negras. Las piezas blancas se encuentran trabajadas y no se aprecian rupturas
+evidentes, además de que todavía no se han enrocado. Mención especial al caballo
+de d1, que no tiene ni una casilla.} 15. O-O d5 16. c4 dxc4 17. dxc4 f5 {Hay que
+tomar en f5. De lo contrario, vendría 18. ... f4. Si las blancas tratan de
+bloquear con 18. f4, entonces 18. ... Ne3 vendría con fuerza. Ahora las blancas
+amenazarán la incómoda Bd3.} 18. exf5 Bxf5 19. Re1 Bd3 20. Bg5 Qd4 21. Qe3 Bxc4
+22. Rc1 {Ventaja clara negra. Tienen peón de más y las blancas no cuentan con
+ninguna compensación. La alternativa 22. Nc3 Ne6 23. Rad1 Qxe3 24. Bxe3 ,
+seguido de 24. ... Nd4, no parece dar nada a las blancas. Keres ofrece dos
+variantes a Najdorf con la esperanza de ganar algo de actividad. Sin embargo, en
+ambas opciones las negras quedan con clara ventaja: 22. ... Bxa2 23. b3 Ne6 24.
+Qxd4 Nxd4 25. Bd5+ Kh8 26. Re3 e4!, con clara ventaja, o 22. ... Bf7 23. Qxd4
+exd4! 24. Bf4 Rbc8 25. Bb7 Nd5! 26. Bxc8 Nxf4 27. gxf4 Rxc8 con posición ganada,
+o, si 26. Bd6, entonces 26. ... Nb4. Si 27. Ba6 en lugar de 27. gxf4, entonces
+27. ... d3. Sin embargo, Najdorf opta por cambiar damas, pensando que su peón de
+más le concede ventaja suficiente como para ganar. Sin embargo, Keres ganará
+mucha actividad al poder activar su caballo e infiltrarse con una torre en la
+séptima fila.} 22... Qxe3 23. Nxe3 Bxa2 24. Ra1 Bb3 25. Ra3 Be6 26. Rxa7 Nb5 27.
+Re7 Nd4 28. Ng4 Bxg4 29. hxg4 Nf3+ 30. Bxf3 Rxf3 31. Rd1 {Las negras han lograd
+simplificar mucho la posición manteniendo el peón de ventaja, pero la actividad
+de las piezas blancas cuestiona la ventaja negra.} 31... Rf7 {31. ... Bf8
+también era posible. Por ejemplo, 32. Ra7 Rf7 33. Rxf7 Kxf7 34. Rd7+ y el rey
+negro se activa rápidamente.} 32. Rxf7 Kxf7 33. Rd7+ Kg8 34. b3 b5 {34. b3
+buscaba adelantarse a e4-c4, lo cual haría casi imposible defender el peón de
+b2. Ahora, las blancas tratan de crear un peón pasado con ... c4, seguido de
+bxc4 b4, pero no bxc4, ya que la torre blanca pararía el peón rápidamente con
+Rc7 y habría que defender el peón laterlamente, lo que impide su progreso. Tras
+el plan que comentamos de c4-b4, se crea una peligrosa situación para las
+blancas. El peón de b avanzaría irremediablemente, así que hay que bloquearlo.
+El plan correcto es: 35. Kf1 c4 36. bxc4 b4 37. Bc1 b3 38. Rd2 (o 38. c5 b2 39.
+Bxb2, seguido de 40. c6) y 39. Bb2 y el peón es detenido, o 37. ... Rc8 38. Rb7
+Rxc4 39. Bd2 Bf8 40. g5 y las negras no pueden progresar, al menos
+aparentemente. La textual, 35. Rc7, impide a la torre pasar por d2 a bloquear
+los peones negros. Las blancas tendrán que entregar pieza.} 35. Rc7 c4 36. bxc4
+b4 37. Bc1 e4 38. c5 b3 39. c6 b2 40. Bxb2 Rxb2 {Mejor era 40. ... Bxb2 41. Rd7
+Rc8 42. c7 Bf6 43. Kf1 Kf8, seguido de ... Be7 y ... Ke8. Y si 44. Rxh7,
+entonces 44. ... Bg7.} 41. Rd7 {¡Y se firmaron las tablas. La única continuación
+razonable es 41. ... Rc2 42. c7 y las negras se ven obligadas a jugar 42. ...
+Bf8. Las piezas negras quedan completamente atadas a la defensa del peón de c7 y
+no hay forma de progesar. Es por esto que mejor hubiera sido tomar de alfil en
+b2 y bloquear el peón de c con la torre inmediatamente.} 1/2-1/2
