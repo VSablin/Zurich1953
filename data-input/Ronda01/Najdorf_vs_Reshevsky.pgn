@@ -22,26 +22,25 @@ Na5 15. dxc5 bxc5 16. c4 Be4 17. Qc3 Rab8 {b4 ha quedado débil para las blancas
 Esto se une a que no se puede llevar una torre a b1 por culpa del alfil de e4.}
 18. Rfd1 Rxd1+ 19. Rxd1 Bc6 {Las negras tratan de presionar en a4. La captura en
 c5 es posible, pero las negras se activarían bastante con jugadas como Ne5, a la
-vez que amenazarían descubiertas sobre el alfil de c5.} 20. Qc2 h6 21. h3 (21.
-Bxc5) 21... Nb3 {Una de las ideas de este caballo es evitar la defensa del peón
-de a4 por la diagonal blanca. Por otro lado, en esta posición podría parecer
-razonable haber tratado de llevar antes el caballo de f6 hasta b6 por d7, pero
-entonces las blancas tendrían tiempos para montar la batería alfil-dama: 21. ...
-Nd7, 22. Bb2 Nb6 23. Qc3, amenzando Qxg7# y Qxa5.} 22. Bb2 Nd7 23. Qc3 f6
-{Bronstein comenta aquí que la ventaja negra es clara. El peón de a está perdido
-y parece fácil sacar jugo a la pareja de alfiles. Es esto, comenta, lo que
-explica que Najdorf optara por tratar de complicar la partida con las siguientes
-jugadas.} 24. Nh2 Nb6 {Notar que Qxb3 se encontraría con Nxa4 y, a la siguiente,
-caería el alfil de b2. Aquí Reshevsky ofreció tablas, que Najdorf aceptó.
-Reshesvsky estaba en apuros de tiempo (4 minutos para 16 jugadas antes del
-control). Parece ventaja negra, ya que a4 es insalvable y no es evidente cómo
-activar la pareja de alfiles. Sin embargo, las blancas podían forzar las tablas.
-Veamos cómo podría haber seguido:} (24... Bxa4 {Esta opción era más fuerte, ya
-que se gana el peón igualmente y el caballo de d7 defiende en f6, evitando temas
-con Nxf6+. Además, ante Ng5, las negras contarían con un tiempo extra para jugar
-e5 y bloquear la acción de la batería alfil-dama.}) 25. Ng4 Nxa4 (25... Nd4 26.
-exd4 Nxa4 {Recuperando la pieza inmediatamente. La idea era cerrar la diagonal
-a1-h8, evitando los temas con Nxf6+.}) 26. Nxf6+ gxf6 27. Qxf6 Nxb2 28. Bg4 {Y
-hay jaque perpetuo tras Bxe6+, Bf5+, etc. Las negras no podrían tratar de
-escapar de este jaque perpetuo. Veamos que pueden quedar perdidas:} 28... Qg7
-29. Bxe6+ Kh7 30. Bf5+ Kh8 31. Rd8+ Rxd8 32. Qxd8+ Qg8 33. Qf6+ 1/2-1/2
+vez que amenazarían descubiertas sobre el alfil de c5.} 20. Qc2 h6 21. h3 Nb3
+{Una de las ideas de este caballo es evitar la defensa del peón de a4 por la
+diagonal blanca. Por otro lado, en esta posición podría parecer razonable haber
+tratado de llevar antes el caballo de f6 hasta b6 por d7, pero entonces las
+blancas tendrían tiempos para montar la batería alfil-dama: 21. ... Nd7, 22. Bb2
+Nb6 23. Qc3, amenzando Qxg7# y Qxa5.} 22. Bb2 Nd7 23. Qc3 f6 {Bronstein comenta
+aquí que la ventaja negra es clara. El peón de a está perdido y parece fácil
+sacar jugo a la pareja de alfiles. Es esto, comenta, lo que explica que Najdorf
+optara por tratar de complicar la partida con las siguientes jugadas.} 24. Nh2
+Nb6 {Y se firmaron las tablas. Lo cierto es que no se puede defender en a4, pero
+Reshevsky no vio claro cómo contrarrestar la iniciativa blanca en el ala de rey.
+Por ejemplo: 25. Ng4 Nxa4 26. Nxf6+! gxf6 27. Qxf6 Nxb2 28. Bg4 y se amenaza
+jaque perpetuo con Bxe6+ y Bf5+, tal y como demostró Najdorf tras la partida.
+Una curiosa variante se habría dado si 28. ... Qg7 29. Bxe6+ Kh7 30. Bf5+ Kh8
+31. Rd8+ Rxd8 32. Qxd8+ Qg8 33. Qf6+. Si las negras no hubiesen capturado el
+peón de a en la jugada 25 y, en su lugar, hubieran hecho 25. ... e5, entonces
+26. Qc2, seguido de Qg6, también llevaría al perpetuo. Otra opción era 24. ...
+Bxa4, con idea de desplazar el caballo de b6 al ala de rey para la defensa. En
+ese caso, la ventaja negra parece considerable. Como última opción, 24. ... Nb6
+25. Ng4 Nd4 26. exd4 Nxa4, etc. La idea de Nd4 es cerrar la diagonal a1-h8, para
+evitar los temas en f6. En cualquier caso, es entendible que Reshevsky ofreciera
+tablas, ya que era casi imposible calcular esto en plena partida.} 1/2-1/2
