@@ -1,0 +1,59 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Reshevsky"]
+[Black "Taimanov"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 {Tras su jugada número
+5, Reshevsky busca ganar la pareja de alfiles sin la desventaja típica de la
+nimzoindia, es decir, sin doblar peones en la columna  c.} 6... Be7 7. cxd5 exd5
+{En esta línea, se interpreta que las negras igualan con ... c5. Taimanov opta
+por otra vía. Reshevsky, por su parte, jugará Ng3, en un esquema que dominaba a
+la perfección.} 8. Ng3 Re8 9. b4 c6 10. Bd3 b5 {Esta jugada se ve rara, por el
+hecho de que debilita c5 y c6. Sin embargo, tiene su idea. Fija el flanco de
+dama blanco y prepara ... a5 para aislar un peón a las blancas en el ala de
+dama. En cuanto a la debilidad de c6, en columna semiabierta, las negras cuentan
+con ... Nbd7-Nb6-Nc4, bloqueando la columna.} 11. Bd2 {Profilaxis contra ... a5,
+ya que: 11. ... a5 12. bxa5 Rxa5 13. a4! b4 14. Na2 Na6 15. Bxa6, quedando las
+blancas con peón de más. Es por esto que Taimanov intenta instalar primero un
+caballo en c4.} 11... Nbd7 12. a4 {La textual también habría sido la respuesta a
+11. ... a6, ante lo cual vendría 12. ... Bb7 para sostener sus peones del flanco
+de dama. Sin embargo, el plan de llevar un caballo a c4 no funcionaría por 13.
+Qb3 Nbcd7 14. a5.} 12... Bxb4 13. axb5 c5 14. O-O c4 {Bronstein comenta que 14.
+... Nb6 sería superior. Argumenta que la posición blanca es superior, ya que el
+peón de d5 requiere de defensa por parte de piezas,el peón de b5 restringe la
+posición negra en el ala de dama y siempre tienen que vigilar la invasión de la
+casilla f5; además, d4 ya no es una preocupación para las blancas, al haber
+desaparecido la tensión y el peón pasado y apoyado de c4 todavía tiene muy lejos
+la coronación. 14. ... cxd4 tampoco sería buena, ya que esto activaría el alfil
+de casillas negras de las blancas.} 15. Bc2 a5 16. bxa6 Rxa6 17. Rxa6 Bxa6 18.
+Qa1 {Reshevsky empieza una maniobra para tomar las columnas abiertas con sus
+piezas mayores.} 18... Nb8 19. Qa4 Bf8 20. Rb1 Re6 21. Rb2 {Las negras planeaban
+jugar 21. ... Rb6, pero se encontrarían con 22. Qa5; no vale defender de caballo
+por 22. ... Nbd7 23. Na4 Rb8 24. Qxa6. La posición blanca es superior. La idea
+es presionar en d5. Las negras, por su parte, no tienen contrajuego. El único
+plan de Taimanov es evitar que el caballo de g3 salte a f4, para lo cual trata
+de cambiarlo.} 21... g6 22. Nge2 Bd6 23. Nf4 Bxf4 24. exf4 {A Reshevsky no
+parece importarle la debilidad de d4. La idea es que ahora domina por completo
+las casillas negras, gracias a sus peones y al hecho de que tiene el alfil de
+negras, mientras que su oponenten no. Ahora lanzará una tormenta de peones
+contra el rey negro. Taimanov no tiene otra que defenderse y tratar de cambiar
+el máximo número de piezas.} 24... Nbd7 25. h3 Rb6 26. Qa5 Qb8 27. Rxb6 Qxb6
+{Las blancas ganan un peón con 28. Nxd5 Qxa5 29. Nxf6+ Nxf6 30. Bxa5. La
+posición blanca sería prácticamente ganadora, sin tener que preocuparse por 30.
+... Nd5.} 28. Qa3 Nf8 29. Be3 Bc8 {Evitando f5. Sin embargo, tras g4, la amenaza
+se renovará, además de que se amenazará también g5, desplazando el caballo de f6
+y capturando en d5.} 30. g4 Bb7 31. f5 g5 32. Qe7 h6 33. Na4 Qc6 34. Nc5 Bc8 35.
+Qd8 Kg7 36. Bd2 {Reshevsky, en apuros de tiempo, pierde su ventaja. Ahora la
+dama negra podrá activarse, aprovechando que los dos alfiles están indefensos y
+son susceptibles de recibir ataques dobles. Mejor era 36. Ba4 Qa8 37. Kg2 y las
+negras estarían en Zugzwang.} 36... Qb5 37. Qxc8 {Reshevsky ve que puede
+prescindir de su alfil de casillas blancas y tratar de dar mate. Sin embargo,
+Taimanov refuta el plan fácilmente. Mejor era 37. Bc3, evitando la infiltración
+con la dama. Contra 37. ... Qe8, se cambian damas y las blancas tendrían ventaja
+por tener más espacio en el ala de rey y la pareja de alfiles, además de la
+debilidad atacable de d5.} 37... Qb2 38. Kg2 Qxc2 39. Bb4 Ne4 40. Nxe4 Qxe4+ 41.
+Kg3 {Y tablas. Podría haber seguido con 41. ... Nh7 42. Bd6 Qxd4 43. Qc7 Nf6 44.
+Be5 Qd3+ 45. Kg2 Qe4+, con jaque perpetuo.} 1/2-1/2
