@@ -16,7 +16,7 @@ There is an R script, main.R, to find data-output/ranking.csv. The script is in 
 
 ## Best games
 
-The best games are (TOCOMPLETE Round 09-Round 13):
+The best games are:
 
 *Round 02, Geller-Euwe.
 *Round 02, Reshevsky-Petrosian.
