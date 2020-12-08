@@ -1,0 +1,44 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Stahlberg"]
+[Black "Kotov"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e4 c6 6. Be2 Be7 {Posición típica de
+la india de rey, pero sacando el alfil por e7. Más tarde, irá a g7, su casilla
+natural.} 7. O-O O-O 8. Qc2 Re8 9. b3 {Con idea de sacar el alfil de dama por
+b2. Más preciso era llevarlo a e3, jugando un h3 previo para evitar ... Ng4.}
+9... Bf8 10. Bb2 Nh5 11. g3 g6 12. Rad1 Nhf6 13. d5 {Ya se parece más a una
+india de rey.} 13... c5 14. Nh4 Bg7 15. a3 Nb6 16. Bf3 Rf8 17. Ne2 Bd7 18. Bc3
+Ne8 19. Ba5 Qe7 20. Rde1 Rc8 21. Bd2 Qd8 22. Qc1 Bf6 23. Ng2 Be7 24. Bh6 Ng7 {A
+juicio de Bronstein, Kotov ha aprovechado mejor el juego de maniobras. Por
+contra, el módulo de análisis da clara ventaja blanca... Tras las maniobras,
+empiezan las rupturas.} 25. h4 f5 26. exf5 gxf5 27. Nc3 Be8 28. Bd1 Nd7 29. Bxg7
+Kxg7 30. Qe3 Bf6 31. Bc2 Bg6 32. Qe2 e4 {Con esta jugada, se controla f3 y se
+habilta e5 para una pieza; en particular, el caballo de d7 ahora tiene ruta
+hasta f3 vía e5. Además, hay un ataque a la descubierta sobre el caballo de c3.
+Esto hace pensar que es imposible frenar la llegada del caballo de d7 a f3, pero
+veremos que no es así.} 33. Nf4 Re8 34. Ne6+ Rxe6 35. dxe6 Bxc3 36. exd7 Qxd7
+{Calidad de más para las blancas. Sin embargo, si consiguen cerrar las negras
+con h5, las blancas no tendrán ninguna iniciativa, así que no pueden perder un
+tiempo en apartar la torre de e1, sino que deben jugar h5 antes.} 37. h5 Bxe1
+38. hxg6 Bc3 39. gxh7 Rh8 {Stahlberg ataca en c3, pensando que las negras no
+tienen nada mejor que retirar su alfil. Sin embargo, 39. ... Rh8 encerraba una
+trampa.} 40. Qe3 Kg6 {Esta jugada controla g5, evita que la captura en c3 sea
+con jaque y habilita ... Qxh7, que daría lugar a un treemndo ataque por la
+columna h.} 41. Rd1 Bd4 42. Qf4 Qxh7 43. Kf1 Qh1+ 44. Ke2 Qh5+ {Bronstein
+concede signo de admiración a esta jugada. Prácticamente fuerza g4, que
+desemboca en un final favorable para Kotov.} 45. g4 Qxg4+ 46. Qxg4+ fxg4 47.
+Bxe4+ Kg5 {Bronstein evalúa la posición como ventaja decisiva negra pese a los
+alfiles de distinto color. Se basa en lo siguiente: 1) el alfil negro es muy
+superior al blanco, al ser totalmente inexpugnable en d4, cosa que no puede
+decirse del alfil de e4; 2) el rey negro es mucho más activo que su homólogo y
+3) el peón de g4 es muy superior al de f2, ya que el de f2 es atacable y el de
+g4 no; de hecho, el de g4 evita que el de f2 se movlice. Estas ventajas no
+serían tales si se cambiaran torres, pero Kotov no lo permitirá.} 48. Rh1 Re8
+49. f3 b5 50. Kf1 bxc4 51. bxc4 g3 52. Rh7 Rb8 53. Bb7 {Bloqueando el pase de la
+torre a campo blanco. Esto no es suficiente para salvar la partida por el
+peligroso peón de g3.} 53... Be5 54. Kg2 Kf4 55. Rf7+ Ke3 56. f4 Bxf4 57. Re7+
+Be5 58. Rf7 a5 59. a4 Kd4 60. Bd5 Rb2+ 61. Kf1 Ra2 {Y Stahlberg se rindió.} 0-1

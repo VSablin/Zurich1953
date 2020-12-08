@@ -16,15 +16,18 @@ There is an R script, main.R, to find data-output/ranking.csv. The script is in 
 
 ## Best games
 
-The best games are (TOCOMPLETE Round 01-Round 13):
+The best games are (TOCOMPLETE Round 06-Round 13):
 
 *Round 02, Geller-Euwe.
 *Round 02, Reshevsky-Petrosian.
 *Round 04, Smyslov-Stahlberg.
 *Round 04, Taimanov-Najdorf.
+*Round 05, Petrosian-Taimanov.
+*Round 05, Szabo-Bronstein.
 *Round 14, Averbaj-Kotov.
 *Round 15, Kotov-Boleslavsky.
+*Round 17, Stahlberg-Kotov.
 
 ## WARNING!
 
-The comments are in Spanish, but the notation is in English. That is, queen moves to e2 is Qe2 instead of De2. We took this approach because we generated the pgn files with www.chess.com and this platform uses the English notation.
+The comments in the pgn files are in Spanish, but the notation is in English. That is, "Queen moves to e2" is "Qe2" instead of "De2". We took this approach because we generated the pgn files with www.chess.com and this platform uses the English notation.
