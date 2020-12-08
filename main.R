@@ -174,7 +174,6 @@ for (str_col in sort(names(df_played), decreasing = T)) {
 # df_ranking[, strsplit(x = max(str_dirs), split = "/")[[1]][2]]
 # row.names(df_ranking)
 
-
 # %% ---------------------------------------------------------------
 # save output
 
