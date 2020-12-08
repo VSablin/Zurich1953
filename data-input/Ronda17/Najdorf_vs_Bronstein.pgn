@@ -1,0 +1,27 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Najdorf"]
+[Black "Bronstein"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 b6 6. Nf3 Bb7 7. O-O O-O 8. Bd2 d6
+9. Qc2 Nbd7 {Najdorf rechaza la tentadora 9. ... Bxf3, asumiendo que no podrá
+sacar tajada de la debilidad del rey blanco. Por ejemplo 10. gxf3 cxd4 11. exd4
+Nc6 12. Be3 y el rey blanco no tiene problemas. Sin embargo, las negras podrían
+tratar de sacar ventaja en esta posición con 12. ... Bxc3 13. Qxc3 d5 o 13. ...
+e5. Ahora, sin embargo, la posición blanca no tiene ningún problema.} 10. a3
+Bxc3 11. Bxc3 Rc8 12. Nd2 h6 13. Rac1 d5 14. b3 dxc4 15. bxc4 Qc7 {Las negras
+tienen más problemas de lo que parece: deben evitar d5, tampoco pueden permitir
+que el caballo blanco se instale en e5 y tienen que estar atentas si la batería
+alfil-dama se invierte (Bb1-Qc2), poniendo un caballo en f8 en tal caso. Por su
+parte, pueden aprovechar la acción del alfil de b7, buscar algún Ng4 y tratar de
+explotar la debilidad de los peones blancos de c y d.} 16. Rfd1 {Bronstein
+critica esta jugada. Mejor era poner las torres en e y d.} 16... Rfe8 17. Nf1
+cxd4 18. exd4 Qf4 19. Ng3 h5 {El esquema perfecto para las blancas aquí sería
+llevar una torre a g3 (la de d1) y el caballo a e4. La coordinación de las
+piezas contra el rey negro, sobre todo de la torre de g3 y el alfil de c3, sería
+explosiva. Las negras deben evitar esto, de ahí el avance del peón de h.} 20. h3
+h4 21. Nf1 Ne4 {Y tablas. El caballo debe ser capturado tarde o temprano, lo
+cual acaba con la ventaja blanca.} 1/2-1/2

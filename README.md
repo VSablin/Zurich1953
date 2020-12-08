@@ -26,6 +26,17 @@ The best games are (TOCOMPLETE Round 09-Round 13):
 *Round 05, Szabo-Bronstein.
 *Round 06, Bronstein-Euwe.
 *Round 08, Reshevsky-Kotov.
+*Round 09, Euwe-Najdorf.
+*Round 09, Kotov-Bronstein.
+*Round 09, Smyslov-Keres.
+*Round 10, Averbaj-Szabo.
+*Round 10, Gligoric-Kotov.
+*Round 11, Euwe-Averbaj.
+*Round 11, Geller-Gligoric.
+*Round 11, Keres-Reshevsky.
+*Round 11, Smyslov-Bronstein.
+*Round 12, Bronstein-Keres.
+*Round 12, Taimanov-Geller.
 *Round 14, Averbaj-Kotov.
 *Round 15, Kotov-Boleslavsky.
 *Round 17, Stahlberg-Kotov.
