@@ -23,27 +23,8 @@ for (string in str_functions) {
 str_players <- get_players()
 int_rows <- length(str_players)
 int_columns <- 30
-df_results <- as.data.frame(matrix(rep(0,
-                                       int_columns*int_rows),
-                                   int_rows,
-                                   int_columns))
 
-row.names(df_results) <- str_players
-str_columns <- gsub(pattern = "^V",
-                    replacement = "Ronda",
-                    x = names(df_results))
-for (index in 1:length(str_columns)) {
-    if (nchar(str_columns[index]) == 6) {
-        str_columns[index] <- paste0(substr(x = str_columns[index],
-                                            start = 1,
-                                            stop = 5),
-                                     "0",
-                                     substr(x = str_columns[index],
-                                            start = 6,
-                                            stop = 6))
-    }
-}
-names(df_results) <- str_columns
+df_results <- init_empty_df(int_rows, int_columns, str_players)
 
 # %% ---------------------------------------------------------------
 # Getting files with "Ronda[0-9]"
@@ -160,7 +141,37 @@ int_order <- order(df_ranking[,names(df_ranking)[int_max_round]],
 df_ranking <- df_ranking[int_order,]
 
 # %% ---------------------------------------------------------------
+# create data frame with number of games played by each player after
+# n rounds
+
+df_played <- init_empty_df(int_rows, int_columns, str_players)
+# debugging
+string <- str_dirs[1]
+for (string in str_dirs) {
+    str_round <- strsplit(x = string, split = "/")[[1]][2]
+    str_files <- list.files(string)
+    if (length(str_files) == 7) {
+        for (string_file in str_files) {
+            for (str_pl in str_players) {
+                if (grepl(str_pl, string_file)) {
+                    df_played[str_pl, str_round] <- 1
+                }
+            }
+        }
+    }
+}
+
+str_col <- "Ronda05"
+for (str_col in sort(names(df_played), decreasing = T)) {
+    df_col <- select(df_played, "Ronda01":str_col) %>% mutate(!!str_col := rowSums(.))
+    df_played[str_col] <- df_col[str_col]
+}
+
+# %% ---------------------------------------------------------------
 # save output
 
 write.csv(x = df_ranking,
           file = paste0("data-output/ranking.csv"))
+
+write.csv(x = df_played,
+          file = paste0("data-output/played_games.csv"))
