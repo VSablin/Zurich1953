@@ -1,0 +1,56 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Taimanov"]
+[Black "Gligoric"]
+[Result "0-1"]
+
+{En esta partida, Taimanov sacrificará un peón por la iniciativa, pero lo cierto
+es que su evaluación fue incorrecta. Gligoric fue capaz de mantener su peón de
+más, el cual le acabó concediendo ventaja decisiva.} 1. e4 c5 2. Nf3 d6 3. Bb5+
+{Interesante idea estratégica. Al tener las negras sus peones avanzados en d6 y
+c5, casillas negras, el alfil de casillas blancas de las piezas negras es su
+alfil bueno, por lo que Taimanov estima que cambiar alfiles de casillas blancas
+es bueno para sí. Cierto es que Gligoric podrá mover, al menos, su peón de d6 a
+d5 con un e6 previo, pero necesita bastantes tiempos para ello.} 3... Bd7 4.
+Bxd7+ Qxd7 5. O-O Nc6 6. Re1 {Bronsteni opina que mejor era aquí jugar con 6.
+d3, seguido de Nc3, controlando d5, con idea de evitar que el alfil de negras se
+active. Entonces, cuando Gligoric jugara e6 o g6, jugadas totalmente necesarias,
+buscar f4-f5. Con la textual, Gligoric podrá liberar su diagonal f8-a3.} 6...
+Nf6 7. d4 cxd4 8. Bg5 {Aquí está el sacrificio.Taimanov evaluó que estaba mejor
+tras 8. ... e5 9. Bxf6 gxf6 10. c3!, con el rey negro en el centro y la posición
+muy abierta, u 8. ... g6 9. Bxf6 exf6 10. Nxd4, recuperando el peón y con mejor
+estructura de peones u 8. ... Ng4 9. Nxd4 h6 10. Bc1, de nuevo retomando el peón
+y con ventaja. Sin embargo, Gligoric encuentra un plan que Taimanov no vio.}
+8... d5 9. Bxf6 {También era posible 9. e5, que se encontraría con 9. ... Ne4.}
+9... gxf6 10. exd5 Qxd5 11. Nc3 Qd7 12. Ne4 O-O-O 13. c3 {Gligoric ha conservado
+el peón de más y ha puesto el rey a buen recaudo. Además, los caballos de
+Taimanov no tienen buenos puntos de apoyo. Taimanov evalúa correctamente que su
+posición es inferior, así que busca complicar la partida. Para ello, contra 13.
+... dxc3, pensaba jugar 14. Qb3, dispuesto incluso a entregar su peón de b2 a
+fin de obtener iniciativa. Gligoric rehusa la entrega, devolviendo incluso el
+peón momentáneamente, a fin de no quedar condenado a la defensa.} 13... f5 14.
+Nc5 Qd5 {Era posible 14. ... Qc7, pero la partida entraría en complicaciones.
+Gligoric prefiere centralizar sólidamente su dama. A 14. ... Qc7 podría seguir
+15. cxd4 e5 16. Rc1 e4 17. Ne5 Rxd4 18. Qb3, con iniciativa por el material de
+menos.} 15. cxd4 e5 16. Rc1 exd4 {Imprecisión de Gligoric que dará cierta
+compensación a Taimanov. Lo correcto era 16. ... e4 y 17. Ne5 perdería pieza y
+17. Nh4 se encontraría con 17. ... Be7 18. Qh5 Bxh4 19. Qxh4 Qxd4 20. Qh5 Qf6.
+Pero ahora la estructura de peones de las negras ha quedado arruinada.} 17. Nd3
+Bd6 18. Nfe5 {Taimanov trata de sacar algo de la clavada del caballo de c6, pero
+lo cierto es que no haya nada. Mejor era cargar contra el peón de f5 con Nh4 y
+Qh5.} 18... Rhe8 19. Nxc6 Rxe1+ 20. Nxe1 bxc6 21. Qd3 {Nada bueno han obtenido
+las blancas de todo esto: el peón de d4 ya no está aislado y la pieza
+bloqueadora en d3 ha pasado de ser un caballo, la pieza ideal para bloquear, a
+una dama.} 21... Kb7 22. b4 {Aventurado. Mejor era jugar 22. b3, preparando un
+futuro Nc4.} 22... Bf4 23. Rd1 Bc7 24. a3 Bb6 25. Nf3 Qe4 26. Ng5 Qxd3 27. Rxd3
+a5 {Gligoric devuelve el peón a fin de quedar con dos peones pasados y ligadas,
+que decidirán la partida. Además, recuperará el peón infiltrándose con el rey
+por el flanco de dama.} 28. Nxf7 Rd5 29. Kf1 axb4 30. axb4 Ka6 31. f4 Kb5 32.
+Ne5 Bc7 33. Rd1 Bd6 {La atractiva 33. ... Bxe5 es un error fatal: 34. fxe5 Kxb4
+35. e6! y el final es seguramente de tablas. Notar que 35. ... Re5 no sería
+posible por 36. Re1, quedando las negras perdidas.} 34. Ke2 Bxe5 35. fxe5 Rxe5+
+36. Kd3 Kxb4 37. Rc1 Kb5 38. Kxd4 Rd5+ 39. Ke3 c5 40. Rb1+ Ka4 41. Rb7 h5 42.
+Kf4 c4 43. Kg5 c3 44. Kxh5 Rd2 45. g3 Rxh2+ 46. Kg5 Rf2 {Y Taimanov se rindió.}
+0-1
