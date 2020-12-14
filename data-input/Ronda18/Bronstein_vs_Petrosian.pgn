@@ -1,0 +1,32 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Bronstein"]
+[Black "Petrosian"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Bg5 h6 5. Bh4 g5 {Con esta jugada, la partida
+cambia drásticamente. El alfil de casillas negras de las blancas se debe retirar
+a g3 y su homólogo negro se potenciará. Por contra, el flanco de rey negro queda
+fuertemente debilitado, lo que determina los planes blancos.} 6. Bg3 Nh5 7. e3
+Nxg3 8. hxg3 Bg7 9. Bd3 Nf6 10. Qd2 c6 11. O-O-O Qa5 {Bronstein critica sus
+últimas jugadas, por no tener ningún objetivo específico, pese a ser,
+aparentemente, ofensivas. Mejor hubiera sido jugar 9. f4, dinitando la frágil
+posición negra en el ala de rey.} 12. Kb1 Bd7 13. Nge2 e6 14. Nc1 O-O-O 15. Nb3
+Qc7 16. Qe2 Rhe8 17. e4 {El avance llega tarde, según Bronstein, al haber
+solidificado su posición Petrosian.} 17... c5 18. e5 dxe5 19. dxe5 Ng8 20. f4
+{Según Bronstein, la subsiguiente apertura de líneas favorece a las negras. Sin
+embargo, el módulo de análisis lo da como mejor movimiento y concede un +1 a las
+blancas...} 20... gxf4 21. gxf4 f6 22. Nb5 {Bronstein no critica esta jugada,
+pero es aquí donde el módulo le quita ventaja. Según el programa, la mejor era
+22. Ne4, entiendo que tratando de penetrar en d6 y tocando en c5.} 22... Bxb5
+23. cxb5 Kb8 24. Rc1 b6 25. Bg6 Rf8 26. Rhe1 {Sacrificando en e5. No sirve de
+nada, puesto que en la diagonal h1-a8 no hay ningún tema táctico de momento y
+las columnas abiertas no van a ser aprovechadas por las blancas.} 26... fxe5 27.
+fxe5 Rd5 28. Be4 Rxe5 29. Qc2 Rd8 30. Red1 Rxd1 31. Rxd1 Ne7 32. Nd2 {Y tablas.
+Lo cierto es que las negras están mejor por la complicada 32. ... c4! 33. Nxc4
+Rxb5 o 33. Qxc4 Qxc4 34. Nxc4 Rxb5 y la ventaja negra es clara. Mejor sería 33.
+a4 y 34. Bf3, buscando crear amenazas en la gran diagonal. En cualquier caso,
+Petrosian, en apuros de tiempo, no vio 32. ... c4 y aceptó la oferta de
+Bronstein.} 1/2-1/2
