@@ -18,29 +18,29 @@ There is an R script, main.R, to find data-output/ranking.csv. The script is in 
 
 The best games are:
 
-*Round 02, Geller-Euwe.
-*Round 02, Reshevsky-Petrosian.
-*Round 04, Smyslov-Stahlberg.
-*Round 04, Taimanov-Najdorf.
-*Round 05, Petrosian-Taimanov.
-*Round 05, Szabo-Bronstein.
-*Round 06, Bronstein-Euwe.
-*Round 08, Reshevsky-Kotov.
-*Round 09, Euwe-Najdorf.
-*Round 09, Kotov-Bronstein.
-*Round 09, Smyslov-Keres.
-*Round 10, Averbaj-Szabo.
-*Round 10, Gligoric-Kotov.
-*Round 11, Euwe-Averbaj.
-*Round 11, Geller-Gligoric.
-*Round 11, Keres-Reshevsky.
-*Round 11, Smyslov-Bronstein.
-*Round 12, Bronstein-Keres.
-*Round 12, Taimanov-Geller.
-*Round 14, Averbaj-Kotov.
-*Round 15, Kotov-Boleslavsky.
-*Round 17, Stahlberg-Kotov.
-*Round 18, Smyslov-Euwe.
+* Round 02, Geller-Euwe.
+* Round 02, Reshevsky-Petrosian.
+* Round 04, Smyslov-Stahlberg.
+* Round 04, Taimanov-Najdorf.
+* Round 05, Petrosian-Taimanov.
+* Round 05, Szabo-Bronstein.
+* Round 06, Bronstein-Euwe.
+* Round 08, Reshevsky-Kotov.
+* Round 09, Euwe-Najdorf.
+* Round 09, Kotov-Bronstein.
+* Round 09, Smyslov-Keres.
+* Round 10, Averbaj-Szabo.
+* Round 10, Gligoric-Kotov.
+* Round 11, Euwe-Averbaj.
+* Round 11, Geller-Gligoric.
+* Round 11, Keres-Reshevsky.
+* Round 11, Smyslov-Bronstein.
+* Round 12, Bronstein-Keres.
+* Round 12, Taimanov-Geller.
+* Round 14, Averbaj-Kotov.
+* Round 15, Kotov-Boleslavsky.
+* Round 17, Stahlberg-Kotov.
+* Round 18, Smyslov-Euwe.
 
 ## WARNING!
 
