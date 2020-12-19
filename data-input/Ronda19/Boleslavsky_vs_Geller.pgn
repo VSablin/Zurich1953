@@ -1,0 +1,74 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Boleslavsky"]
+[Black "Geller"]
+[Result "0-1"]
+
+{Veremos una partida de enroques opuestos. En estos casos, es fundamental que
+nuestro ataque llegue primero. No debemos apresurarnos ni asumir una defensa
+prolongada de nuestro rey.} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6
+6. g3 Bg4 7. f3 Bd7 8. Be3 g6 9. Qd2 Bg7 10. O-O-O O-O 11. g4 {Geller forzó f3
+con su 6. ... Bg4. Adaptándose a la posición, Boleslavsky juega el ataque Rauzer
+contra la variante dragón de la defensa siciliana.} 11... Rc8 12. Kb1 Ne5 13. h4
+{Veamos las fortalezas de ambos bandos, empezando por las blancas. El caballo
+blanco de d4 está en una casilla inmejorable. Además, está dispuesto a expulsar
+a la dama negra si trata de penetrar en la posición blanca con ... Qa5 vía Nb6,
+por ejemplo. Por otro lado, la avalancha de peones blancos llega ya: además de
+que ya tienen bien avanzados sus peones de g y h, el peón de g6 da un punto de
+ruptura contra el monarca negro. Las negras, por su parte, también tienen un
+fuerte caballo centraliado, este en e5. Por ejemplo, toca en f3, que es el
+soporte de la cadena de peones blancos, además de que controla c4, donde podrá
+crear amenazas; notar que las blancas no controlan ninguna casilla importante
+cercana al rey negro, como f5. Además, pese a que sus peones de a y b todavía no
+han empezado a cargar contra el rey blanco, cuentan con la columna semiabierta c
+para disponer sus piezas mayores. Por último, el alfil de g7 siempre genera
+poderosas combinaciones contra el rey blanco. Por todas estas consideraciones,
+la partida se encuentra en un equilibrio dinámico.} 13... b5 {Amenazando tanto
+... b4 como ... Nc4 y, contra Bxc4, se abriría la columna b, donde las negras
+podrían generar amenazas más graves que por la columna c.} 14. Bh6 {Capturar en
+b5 era una locura, puesto que las negras contarían con demasiadas líneas
+abiertas contra el monarca blanco. Por otra parte,14. h5 no es efectivo según
+Bronstein por el hecho de que los puntos h7 y h8 están protegidos por piezas, si
+bien el módulo la califica como muy buena, dando amplia ventaja a las blancas.
+De forma bastante humana, Boleslavsky opta por cambiar una de las mejores piezas
+de las negras.} 14... Bxh6 {En este tipo de posiciones, no es raro rechazar el
+cambio de alfiles de casillas negras y dar la calidad retirando el alfil a h8,
+en gran medida por el hecho de que este alfil apunta peligrosamente al rey
+blanco. Por ejemplo, se podría dar la siguiente combinación: 14. ... Bh8 15.
+Bxf8 Rxc3 16. bxc3 Nxf3 17. Nxf4 Nxe4. Si bien la variante no es forzada y, en
+realidad, las blancas estarían mejor, se aprecia claramente la peligrosidad del
+alfil de h8.} 15. Qxh6 Rxc3 {Sacrificio de calidad prácticamente forzado. El
+caballo defendía muy bien a su rey, así que el ataque pasaba por este cambio. De
+lo contrario, las blancas seguirían con un desagradable h5.} 16. bxc3 Qa5 17.
+Qe3 {La dama se apresura a defender a su débil rey. Ahora parece que el ataque
+negro llega antes, teniendo las blancas la calidad como compensación.} 17... Qa3
+{Si 17. ... Nc4, entonces 18. Bxc4 bxc4 19. Ka1 Rb8 20. Rb1 y el ataque negro se
+diluye. Tras la textual, se amenaza 18. ... b4.} 18. h5 b4 {Aquí Geller (y
+Bronstein) se dejaron un golpe táctico: 18. ... Nxf3! Si 19. Qxf3, entonces 19.
+... Bxg4 20. Qd3 y las piezas negras pueden recuperar una claidad en d1,
+amenazan con entrar rápidamente con su caballo en e4, van a abrir la columna
+b... el ataque compensa de sobra el material de menos. Si 19. Nxf3, entonces 19.
+... Be6, amenzando entrar en a1, además de que g4 es muy débil, se puede abrir
+la columna b de nuevo, etc. Ventaja decisiva para las negras.} 19. Qc1 Qxc3 20.
+Qb2 Rc8 {La retirada de dama más activa es 20. ... Qe3, que se encontraría con
+21. Qc1, siendo lo mejor para las negras repetir jugadas. Tratando de jugar a
+ganar, Boleslavsky acepta el cambio, si bien las blancas quedan mejor.} 21. hxg6
+{Esto debilita al rey negro, además de que obliga a cambiar damas sí o sí. De lo
+contrario, vendría 22. Qc1, seguido de 23. Qh6, con consecuencias fatales para
+las negras.} 21... Qxb2+ 22. Kxb2 hxg6 23. a3 {Esta jugada y la siguiente
+constituyen dos errores serios de Boleslavsky. Aquí lo mejor era 23. Bd3 o 23.
+Be2, siendo a3 posible entonces.} 23... bxa3+ 24. Kxa3 {A modo de anécdota,
+Boleslavsky declaró tras la partida que, si bien vio el sacrificio de ahora en
+f3 y el posterior jaque de torres en c3, pensó que Rd3 defendía el jaque y a la
+pieza, sin darse cuenta de que su torre no se interponía entre la torre de
+Geller y su rey.} 24... Nxf3 25. Nxf3 Rc3+ 26. Kb2 Rxf3 27. e5 {Otra imprecisión
+de Boleslavsky. Mejor era expulsar primero al caballo con 27. g5 y la posición
+estaría igualada. Ahora los negras ganan otro peón.} 27... Nxg4 28. Be2 Rf2 29.
+Bxg4 Bxg4 30. Rdf1 {Último error de Boleslavsky. Tras el cambio en f1, cae
+también el peón de e5 y la ventaja negra se torna decisiva. La torre no podrá
+parar la masa de peones negros.} 30... Rxf1 31. Rxf1 dxe5 {4 peones y una pieza
+menor contra una torre es ventaja decisiva.} 32. c4 Kf8 33. Ra1 Bf3 34. c5 g5
+35. Rxa7 g4 36. Ra3 Ke8 37. Kc1 f5 38. Kd2 f4 39. Ra6 g3 40. Ke1 Be4 {Y
+Boleslavsky se rindió.} 41. c6 Bxc6 42. Rxc6 Kd7 43. Rb6 Kc7 0-1
