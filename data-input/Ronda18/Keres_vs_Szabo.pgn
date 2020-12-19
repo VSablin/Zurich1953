@@ -1,0 +1,64 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Keres"]
+[Black "Szabo"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. O-O Nbd7 10. f4 {En esta posición, los planes de las blancas dependen de
+lo que hagan con sus peones de f y a: se puede jugar con f3 o f4, mientras que
+el peón de a puede quedarse en casa o ir a a4.} 10... Rc8 11. Kh1 Bc4 {El alfil
+de casillas blancas de Szabo parece su alfil bueno, así que parece poco
+intuitivo cambiarlo. Sin embargo, su exposición a un f5 justifica esta decisión.
+Además, Szabo tratará de activar su alfil de e7 con un d5 posterior, pasando su
+alfil de casillas negras a ser un buen alfil.} 12. Nd2 Bxe2 13. Nxe2 O-O 14. Ng3
+d5 15. fxe5 Nxe5 {15. ... Nxe4 no era buena por 16. Ndxe4 dxe4 17. Bd4.} 16. Bd4
+{Buscando meterse en complicaciones, ante las cuales, Szabo cuenta con opciones
+de contrajuego suficientes para mantenerse en la lucha. Las mejores
+continuaciones para los intereses de Keres eran: 16. ... Nc6 17. Bxf6 Bxf6 18.
+exd5 Qxd5 19. Nde4 y 16. ... Ng6 17. e5 Nd7 18. Nf3 o como la primera variante
+(17. Bxf6, etc.).} 16... Nfg4 17. Rf4 {Se llegará a una posición en la que las
+blancas dan una torre y dos peones por dos caballos. Decir que 17. h3 no gana
+pieza por 17. ... Bc5. No sirve cambiar en c5: 18. Bxc5 Rxc5 19. hxg4? Qh4+ 29.
+Kh1 Qxg3, con ventaja decisiva negra.} 17... Bc5 18. Bxc5 Rxc5 19. Rxg4 Nxg4 20.
+Qxg4 Rxc2 21. Nf3 dxe4 22. Qxe4 Rxb2 23. h3 Re8 24. Qa4 {Al ser un final con
+desequilibrio material, merece la pena analizar el valor relativo de las piezas
+a cada posición: el caballo es más fuerte si está acompañado por la dama, además
+de si está centralizado en posiciones con muchos peones. Por su parte, las
+torres se potencian en las últimas fases de la partida, cuando hay muchas líneas
+abiertas. Es por esto que las blancas deberían jugar con sus caballos en el ala
+de rey, además de que deberían tratar de mantener las damas en el tablero,
+buscando complicaciones. En este sentido, una posibilidad sería 24. Qg4 Qf6 25.
+Rf1 Qg6 26. Ng5 Qc2 27. Qf3 o 24. Qg4 Qc8 25. Nf5 Qc3 26. N3d4.} 24... Qc8 25.
+Nf5 Qc6 26. Qd4 {De nuevo, era jugable 26. Qg4 Qf6 27. Rd1. Notar las
+complicaciones, por 26. ... Qg6? 27. Ne7+! y no se puede tomar en e7 por 28.
+Qc8+, con mate inevitable.} 26... Qf6 27. Qxf6 gxf6 28. a4 Rb4 29. a5 {Bronstein
+argumenta que el plan blanco pasa por cargar sobre f7 llevando la torre a d7 y
+aprovechando su caballo de f5. El peón de a puede abandonarse a su suerte, ya
+que las blancas recuperan el peón inmediatamente: 29. Rd1 Rxa4 30. Rd7,
+amenazando Rxb7 y Nh6+, ganando el peón de f7. La textual complica en la
+práctica el final para las blancas.} 29... Rf4 30. Nd6 Rb8 31. Rb1 Ra4 32. Rxb7
+Rxb7 33. Nxb7 {Vuelve a ser pertinente hablar del valor relativo del material.
+El caballo de b7 es un caballo alejado del centro e inestable, al no poder ser
+apoyado por peones, por lo que no es un caballo fuerte. Es por esto que la torre
+es tan fuerte como ambos caballos. El plan de Szabo es activar su rey, buscar el
+cambio de la torre por los dos caballos y llegar a un final ganado. Sin embargo,
+Keres encuentra una fortaleza con sus dos caballos y un peón, sin la ayuda de su
+rey.} 33... Kf8 34. Nd2 Ke7 35. Nb3 Rb4 36. N3c5 {Los caballos se defienden
+entre sí e impiden el pase de rey al centro. Las negras tratarán de activar su
+rey con f5.} 36... f5 37. Kg1 Rb5 {Como las negras planean jugar Kf6-Ke5, hay
+que entender que esta jugada es profilaxis contra Nd3+, ganando la torre.} 38.
+Kf2 Kf6 39. Nd7+ Ke6 40. Nb6 {De nuevo, los caballos impiden que el rey se
+active con facilidad y bloquean la acción de la torre. Szabo tratará de activar
+su torre cargando contra el flanco de rey.} 40... Ke5 41. Kg3 Rb3+ {Era
+interesante 41. ... f4+, con idea de jugar 42. ... Rg3 contra 42. Kh4, buscando
+ganar el peón de g2 y ganar la partida con el peón de f. En cualquier caso, las
+blancas tenían defensa.} 42. Kh4 Rc3 43. Nc5 Rxc5 {El final es de tablas pese a
+que las negras ganarán un peón tras los cambios.} 44. Nd7+ Kd6 45. Nxc5 Kxc5 46.
+Kg5 {Buscando ganar el peón de h7 si las negras juegan Kb5; de ir hacia el
+centro con Kd4, entonces tomarían en f5.} 46... Kb5 47. Kh6 Kxa5 48. Kxh7 Kb4
+49. h4 a5 50. h5 a4 51. h6 a3 52. Kg8 a2 53. h7 a1=Q 54. h8=Q Qa8+ 55. Kh7 Qxg2
+{55. ... Qxh8+ también lleva a tablas: 56. Kxh8 Kc3 57. Kg7 y la posición está
+muerta.} 56. Qd4+ Kb3 57. Qd3+ {Y tablas.} 1/2-1/2

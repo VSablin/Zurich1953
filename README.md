@@ -40,6 +40,7 @@ The best games are:
 *Round 14, Averbaj-Kotov.
 *Round 15, Kotov-Boleslavsky.
 *Round 17, Stahlberg-Kotov.
+*Round 18, Smyslov-Euwe.
 
 ## WARNING!
 

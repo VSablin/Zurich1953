@@ -1,0 +1,82 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Smyslov"]
+[Black "Euwe"]
+[Result "1-0"]
+
+{Sacrificar peones para abrir líneas en el centro es algo bien conocido en el
+ajedrez. Por ejemplo, a veces se sacrifican incluso dos peones en plena
+apertura, como en el gambito danés (1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2
+5. Bxb2). Más potentes son los sacrificios si implican aperturas de columnas
+para las torres mientras el rey rival está en el centro. En ocasiones, vemos
+incluso sacrificios de pieza en estas condiciones. Por ejemplo, tenemos el
+gambito Muzio, una de las variantes más agudas en el gambito de rey: 1. e4 e5 2.
+f4 exf4 3. Nf3 g5 4. Bc4 g4 5. 0-0 gxf3; en ocasiones, se sacrifica una segunda
+pieza inmediatamente: 6. Bxf7+ Kxf7 7. Qxf3. Si bien se considera refutado, las
+negras deben tener especial cuidado. A modo de ejemplo, veamos la partida
+Smirnov-Tijonov, Moscú, 1954: 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. 0-0
+gxf3 6. Qxf3 Qf6 7. e5 Qxe5 8. Bxf7+ Kxf7 9. d4 Qxd4+ 10. Be3 Qf6 11. Bxf4 Bg7
+12. Nc3 Ne7 13. Nd5 Nxd5 14. Qxd5+ Qe6 15. Bd2+ Kg8 16. Rae1!! Qxd5 17. Re8+ Bf8
+18. Bh6!! 1-0. Sin embargo, este tipo de líneas apenas se ven en la élite, ya en
+los tiempos deltorneo que analizamos en la presente lista de archivos pgn. Eso
+no implica que en la élite se evite el riesgo. De hecho, puede argumentarse que
+más riesgo tiene entrar en la defensa india de rey que en el gambito de rey.
+Esto es porque en las líneas principales del gambito de rey (y de otras
+aperturas comunes tiempo atrás, como la vienesa), se llega a posiciones secas e
+igualadas. En este sentido, la élite de los tiempos del torneo de Zúrich (y la
+actual) sabe sacrificar tanto o más como Morphy y compañía, solo que sus
+contendientes saben defenderse casi a la perfección, y es solo en estados
+avanzados de la partida cuando se pueden ver sacrificios de material; en
+cualquier caso, siempre hay sacrificios en el aire en las partidas de la élite,
+enmascaradas tras el juego posicional. La presente partida se ajusta a la
+anterior descripción.} 1. Nf3 Nf6 2. g3 d5 3. Bg2 Bf5 4. O-O Nbd7 5. d3 c6 6.
+Nbd2 h6 {Bronstein critica esta jugada, prefiriendo 6. ... e4, ocupando el
+centro, sin miedo a debilitar su peón de d, al haberlo defendido con c6. Ahora
+no será fácil desarrollar el alfil de casillas negras y, por tanto, el enroque
+se pospondrá. Para aprovechar esto, Smyslov sacrifica un peón en el centro.} 7.
+e4 dxe4 8. dxe4 Nxe4 9. Nd4 Nxd2 {De nuevo Bronstein critica esta jugada. Mejor
+era, en su opinión, 9. ... Nd6, cediendo la pareja de alfiles a cambio del peón
+de más y obteniendo un cómo desarrollo. Por ejemplo: 10. Nxf5 Nxf5 11. Re1 g6
+12. Ne4 u 11. ... e6 12. Bh3 Nd6 13. Qh5 y no está claro que las blancas tengan
+compensación.} 10. Bxd2 Bh7 11. Bc3 {Aquí era interesante sacrificar en c6: 11.
+Nxc6 bxc6 12. Bxc6 Rc8 13. Ba5! o 12. ... Bf5 13. Qf3 Rc8 14. Ba4. Las blancas
+llevarían una torre a d1 y la posición negra sería crítica. Una posición similar
+se dio en la partida Morphy-duque de Brunswig+conde de Isouard: 1. e4 e5 2. Nf3
+d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qe7 8. Nc3 c6 9. Bg5 b5
+10. Nxb5 cxb5 11. Bxb5+ Nbd7 12. 0-0-0 Rd8 13. Rxd7 Rxd7 14. Rd1 Qe6 15. Bxd7+!
+Nxd7 16. Qb8+!! Nxb8 17. Rd8#. Tras la textual, Smyslov tendrá que encontrar
+jugadas activas en el futuro. Veremos que volverá a complicar la partida.} 11...
+Qc7 12. Qf3 e5 13. Rfe1 O-O-O 14. Nb3 f6 {Bronstein critica esta decisión,
+prefiriendo 14. ... f5. Veremos que Smyslov sacará partido de esto.} 15. Ba5 Nb6
+{Mejor era 15. ... b6, debilitando el enroque: 16. Bc3 Nc5 17. Nxc5 Bxc5 18. a4
+Bd4 19. a5, con una posición de doble filo. Ahora las negras están demasiado
+pasivas.} 16. c4 Rd3 17. Qh5 Qe7 18. Bf1 g6 {Desagradable jugada, bloqueando a
+su alfil. Sin embargo, es necesaria porque, de retirar la torre a d7, las negras
+se verían igualmente forzadas a bloquear su alfil con ... f5, en vista de Bh3+.}
+19. Qe2 Rd7 20. Qe3 Kb8 21. Rad1 Nc8 {Posición ya muy difícil para el rey negro.
+Euwe y Stahlberg recomendaron aquí 21. ... Bg8, pero poco cambiaría tras 22.
+Bxb6 axb6 23. Qxb6, con la fuerte amenaza Na5.} 22. Bh3 {Consecuencia de jugar
+f6 en vez de f5, la cual será necesaria inmediatamente para limitar la acción
+del potente alfil de h3.} 22... Rxd1 23. Rxd1 f5 24. Bb4 {La captura es
+imposible por 25. Qxe5+, seguido de 26. Qxh8. Emergen distintas combinaciones
+también sobre h6: 24. ... Qc7 25. Bxf8 Rxf8 26. Qxh6.} 24... Qf6 25. Bc3 Bg7 26.
+Nc5 Ka8 {Retirando el rey ante la amenaza 27. Nd7+, ganando la dama. A 26. ...
+Nb6 seguiría 27. Rd7!} 27. Nxb7 Kxb7 28. Rd7+ Ka8 29. Qc5 {Esta jugada es buena
+(la mejor según el módulo), pero 29. Bg2 también era posible y ganadora: 29. ...
+Re8 30. Bxe5 Rxe5 31. Qxe5+! Qxe5 32. Bxc6+ Kb8 33. Rb7+ Ka8 y la torre se
+retira a cualquier punto de la columna b, con jaque mate. La prosaica 30. Rxg7
+Qxg7 31. Bxc6+ y 32. Bxe8 sería menos fuerte.} 29... Nb6 30. Rxg7 Qxg7 31. Bxe5
+Qd7 32. Bxh8 {El ataque de Smyslov le ha dado la pareja de alfiles y un peón de
+más, más que suficiente para ganar la partida. El resto no es particularmente
+interesante. Destaca Bronstein que no debería haber concedido Smyslov el cambio
+de damas.} 32... Kb7 33. Bd4 Qe6 34. Bf1 Bg8 35. b3 f4 36. a4 fxg3 37. hxg3 Bf7
+38. a5 Nc8 39. Bg2 {39. a6+ ganaba en el acto: 39. ... Kxa6 40. Qb4, con temas
+de mate.} 39... Qd6 40. a6+ Kxa6 41. Bxc6 Qxc5 42. Bxc5 Nb6 43. Kf1 Be6 44. Ke2
+Nd7 45. Bd4 Ka5 46. Bc3+ Kb6 47. Be4 g5 48. Bd4+ Ka5 49. Bxa7 Kb4 50. Bc2 Kc3
+{Pese a que están perdidas, las negras activan su rey y tratan de complicar la
+victoria a Smyslov.} 51. Bd1 Ne5 52. Ke3 Nc6 53. Bb6 g4 54. Kf4 h5 55. Be3 Na5
+56. Ke5 Bc8 57. c5 Nxb3 58. Be2 Na5 59. Bb5 Nc4+ 60. Kf4 Nxe3 61. fxe3 Kb4 62.
+Be8 h4 63. gxh4 Kxc5 64. h5 g3 65. Kxg3 Kd5 66. h6 Bf5 67. Kf4 Bh7 68. Kg5 {Y
+Euwe se rindió.} 1-0
