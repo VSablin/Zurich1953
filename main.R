@@ -169,9 +169,17 @@ for (str_col in sort(names(df_played), decreasing = T)) {
 
 # %% ---------------------------------------------------------------
 # last ranking
-# tocomplete
 
-# df_ranking[, strsplit(x = max(str_dirs), split = "/")[[1]][2]]
+str_last_round <- strsplit(x = max(str_dirs), split = "/")[[1]][2]
+df_last_ranking <- data.frame(players = row.names(df_ranking),
+                              points = df_ranking[, str_last_round])
+
+df_last_played <- data.frame(players = row.names(df_played),
+                             played_games = df_played[, str_last_round])
+
+df_last_ranking <- df_last_ranking %>%
+    left_join(df_last_played, by = "players")
+
 # row.names(df_ranking)
 
 # %% ---------------------------------------------------------------
@@ -182,3 +190,6 @@ write.csv(x = df_ranking,
 
 write.csv(x = df_played,
           file = paste0("data-output/played_games.csv"))
+
+write.csv(x = df_last_ranking,
+          file = paste0("data-output/ranking_", str_last_round, ".csv"))
