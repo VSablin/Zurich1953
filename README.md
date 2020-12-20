@@ -59,6 +59,7 @@ The best games are, in my opinion:
 	* Petrosian-Gligoric.
 * Round 20:
 	* Taimanov-Petrosian.
+	* Geller-Kotov.
 
 ## WARNING!
 
