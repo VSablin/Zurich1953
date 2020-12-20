@@ -15,7 +15,7 @@ The output is in data-output/. There are three files:
 
 ## Code
 
-There is an R script, main.R, to find data-output/ranking.csv. The script is in the root directory. In functions/ there are functions the script uses.
+There is an R script, main.R, to find the data frames store in data-output/. The script is in the root directory. In functions/ there are functions the script uses.
 
 ## Best games
 
