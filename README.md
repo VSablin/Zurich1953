@@ -8,7 +8,10 @@ The input data are in data-input/. Inside, there is a directory for each round: 
 
 ## Output
 
-The output is in data-output/. There is a file, ranking.csv, a data frame whose rows are the players of the tournament and the columns the rounds. The entries are the points the players have at that round. The data frame is ordered accordingly to the last round with games.
+The output is in data-output/. There are three files:
+* ranking.csv: Data frame whose rows are the players of the tournament and the columns the rounds. The entries are the points the players have at that round. The data frame is ordered accordingly to the last round with played games.
+* played_games.csv: Data frame whose rows are the players of the tournament and the columns the rounds. The entries are the number of games played by each player at that round.
+* ranking_Rondan.csv: Data frame with the ranking corresponding to the last round with pgn files. It has tree columns: "players", "points", and "played_games".
 
 ## Code
 
