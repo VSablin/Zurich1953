@@ -1,0 +1,50 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Geller"]
+[Black "Kotov"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qc2 e5 12. Ba2 Bg4 13. Nxe5 {En este mismo
+torneo, se había intentado 13. d5 (Taimanov-Euwe) sin lograr ventaja. Geller
+prueba esta variante, con idea de buscar e4 en el futuro.} 13... Nxe5 14. dxe5
+Qxe5 15. e4 {Aprovechando que no se puede capturar porque vendría 16. f3,
+ganando pieza. El sueño blanco es acompañar este avance de f4, pero no es
+posible, ya que esto debilitaría, ahora sí, e4. Esta debilidad queda patente en
+varias variantes. A modo de ejemplo, aunque no sea forzado: 15. ... Rfe8 16. Re1
+Nxe4 17. f3 Qxc3 18. Qxc3 Nxc3 19. Rxe8+ Rxe8 20. fxg4 Re1+ 21. Kf2 Re2+ 22. Kf3
+Rxa2. El aparentemene atractivo 20. ... Nxa2 no resulta por 21. Bd2! y el
+caballo acaba cayendo. De hecho, como decíamos, la variante no es forzada: con
+19. Bd2! el caballo queda atrapado y el alfil de g4 está en captura, así que las
+blancas ganarían material...} 15... Rfe8 16. Bb1 {Esta jugada solo tendría
+sentido si las blancas pudiesen preparar f4.} 16... Rad8 17. f3 Bd7 18. Bb2 Bc6
+19. Ba2 Nh5 20. Rad1 Nf4 21. Rd2 {Mientras Geller perdía tiempos oscilando con
+sus alfiles, Kotov ha obtenido un caballo imperial en f4. Este se podría
+expulsar con g3, pero esto generaría una debilidad inasumible en el enroque
+blanco. Geller tendría que haber jugado 21. Bc1, tratando de cambiar ese
+caballo, pero pensó que podía obtener ventaja ganando la columna d. Ahora Kotov
+generará un ataque con dama y caballo, par de piezas que coordinan mejor en el
+ataque contra el rey que dama y alfil e, incluso, que dama y torre. Para ello,
+desviará a la dama blanca de la defensa de su rey.} 21... Ba4 {No se puede tomar
+por 22. ... Rxd2, donde las negras ganarían calidad y un ataque demoledor. Por
+tanto, hay que retirar la dama a una casilla donde no controlará ni e2 ni d3,
+casillas a las que el caballo puede saltar con consecuencias fatales para las
+blanca.} 22. Qc1 Qg5 {Se amenaza 23. ... Rxd2 24. Qxd2 Nh3+ 25. Kh1 Qxd2,
+ganando. Si 23. Kh1, entonces 23. ... Nd3 y las blancas deben entregar la
+calidad.} 23. Bd5 Nxd5 {Las negras sacan de aquí un peón de ventaja, a la par
+que mantienen su ventaja posicional. Era posible también 23. ... Rxd5 24. exd5
+Re2 (no se pueden cambiar torres por ... Nxe2+, ganando la dama), etc.} 24. exd5
+Rxd5 25. Rxd5 Qxd5 26. c4 Qd3 27. Re1 f6 28. Rxe8+ Bxe8 29. Qc3 Qe2 30. Bc1 Bf7
+31. Qd2 Qe7 {Kotov rechaza cambiar damas por 31. ... Qxd2 32. Bxd2 Bxc4 33. Be3,
+provocando b6. El alfil entraría por b8, atacando la cadena de peones negros, y
+el final sería de tablas. Sin embargo, sí que era posible cambiar damas y, en
+vez de tomar en c4 directamente, jugar 32. ... Kf8 33. Be3 b6 34. Bf4 Ke7 35.
+Bb8 Kd7 y, si 36. Bxa7, entonces 36. ... Kc7 y el alfil está atrapado. Notar
+que, en cualquier caso, el peón de c4 está condenado.} 32. Qe3 Kf8 33. h4 Qxe3+
+34. Bxe3 b6 35. a4 {Contra 35. Bf4, con idea de 36. Bb8, veríamos una variante
+como la del comentario anterior, quedando el alfil atrapado.} 35... Ke7 36. a5
+Bxc4 37. axb6 axb6 38. Kf2 Kd6 39. Bf4+ Kc6 40. Ke3 Bf7 41. g4 b5 42. h5 b4 {Y
+Geller se rindió ante la incapacidad de parar los peones pasados y ligados de
+Kotov.} 0-1

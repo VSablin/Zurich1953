@@ -1,0 +1,58 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Keres"]
+[Black "Stahlberg"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Qc2 c6 8. Rd1
+Re8 9. a3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. O-O Nxc3 13. Qxc3 b6 14. Ne5
+{Stahlberg ha logrado cambiar unas cuantas piezas y prepara ... c5 para
+desarrollar su alfil de casillas blancas, el principal problema en la defensa
+ortodoxa contra el gambito de dama. Las blancas, por su parte, pueden jugar una
+de sus torres a e1 para buscar e4 y, contra ... c5, jugar d4. Su alfil se puede
+retirar a a2 y una torre puede ir a c1. Volviendo a la idea de cambiar piezas,
+14. ... Nxe5 parece tentadora. De hecho la estructura de peones blancos queda
+destruida y, de cambiarse todas las piezas, seguramente las negras estarían
+ganando. Sin embargo, se encontraría con 15. dxe5 y 16. Rd6, ganando la columna
+d para las piezas blancas. De cambiar en d6, entonces las blancas retomarían de
+peón, obteniendo un fortísimo peón pasado. Es por eso que las negras primero
+llevarán su alfil a b7 para, de permitir Keres los cambios en e5, llevar una
+torre inmediatamente a d8 y usar la columna d para cambiar todas las piezas
+mayores. Por ejemplo, 14. ... Bb7 15. Ba2 Nxe5 16. dxe5 Rad8!.} 14... Bb7 15. f4
+Nxe5 16. fxe5 c5 {Pese al cambio masivo de piezas la partida está viva. Ambos
+bandos buscarán explotar sus columnas semiabiertas. Como comenta Bronstein, las
+líneas abiertas son útiles cuando hay objetivos a los que atacar o puntos por
+los que trasladar nuestras piezas, sobre todo si se trata de incorporar torres
+al centro de la batalla. Es por esto que la columna f es el principal motivo de
+ataque para las blancas, ya que el monarca negro se encuentra ahí. Es por esto
+que Stahlberg buscará llevar su alfil a defender el flanco de rey desde e4. A
+continuación, buscará presionar en d4 y penetrar con una torre en la segunda
+fila, con amenzas importantes sober g2.} 17. Qe1 Be4 18. Rf4 Bg6 19. h4 cxd4 20.
+exd4 Rac8 21. Qe2 Rc7 {No era bueno aquí 21. ... Bh5, buscando el cambio de
+alfiles, por 22. Qxh5 Rxc4, por el hecho de que las negras habrían perdido a su
+principal pieza defensora. El ataque sería muy fuerte tras 23. Rd3.} 22. Rdf1 h5
+{Bronstein critica esta jugada, sobre todo por innecesaria. Más activo y menos
+debilitador era 22. ... Rec8 23. Ba6 Rc2 24. Qf3 Rf8 y las negras están
+defendiendo con garantías. Contra 25. h5, tendrían 25. ... Bf5 26. g4 Qh4, con
+amenazas de mate con dama y torre.} 23. R1f3 Rec8 24. Bd3 Bxd3 25. Rxd3 g6 {La
+textual es consecuencia de 22. ... h5. Ahora las piezas blancas tratarán de
+penetrar en la posición negra por las debilitadas casillas negras de g5, h6 y
+f6.} 26. Rg3 Kh7 {Se amenazaba 27. Qxh5. Con la siguiente jugada, las blancas
+amenazarán Rxh5+.} 27. Rg5 Qf8 28. Qe4 Qh6 29. d5 {Tratando de abrir líneas,
+pero lo cierto es que esto da opciones a las negras. Mejor era 29. Rf6,
+bloqueando completamente la posición negra, y entonces 30. Qf4 y 31. d5!
+vendrían con mucha fuerza.} 29... exd5 30. Qxd5 Qf8 31. e6 Qc5+
+{Psicológicamente se entiende a la perfección que Stahlberg aceptara el cambio
+de damas, aliviando la presión a la que estaba sometido su rey. Sin embargo, lo
+cierto es que esto devendrá en un final ganado para las blancas y las negras
+tenían defensa contra el ataque blanco. En particular, 31. ... f5 anulaba el
+ataque blanco: 32. Rfxf5 gxf5 33. Rxh5+ Kg6 34. Rg5+ Kh6 35. Qf3 Rc1+ 36. Kh2
+Qd6+ 37. g3 Qd2+ 38. Kh3 Dxg5 39. hxg5+ Kxg5, que podría seguir con 40. e7 Rh8+
+41. Kg2 Rc2+ 42. Kg1 Rc1+, etc. Decir que, si bien Bronstein indicó este final,
+que parece de tablas, el módulo dice que las negras escapan de las piezas
+blancas con 35. ... Kh7 y, de hecho, están ganando...} 32. Qxc5 bxc5 33. exf7
+Kg7 34. f8=Q+ Rxf8 35. Rxf8 Kxf8 36. Rxg6 c4 37. Rg5 Rb7 38. Rxh5 Rxb2 39. Rc5
+Rc2 40. Kh2 Ke7 41. h5 c3 42. Rc6 {Y Stahlberg se rindió, ante la imposibilidad
+de parar el peón de h.} 1-0

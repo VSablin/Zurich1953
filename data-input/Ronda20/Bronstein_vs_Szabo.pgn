@@ -1,0 +1,49 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Bronstein"]
+[Black "Szabo"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Be2 {En la línea principal,
+6. Bd3, las blancas, en realidad, ni pueden romper rápidamente con e4 ni pueden
+lanzar un ataque de mate por la diagonal b1-h7. La idea de esta variante es
+dejar libre la columna d para las piezas mayores.} 6... d5 7. O-O Nc6 8. cxd5
+{Esto deja claro los planes blancos, que dejarán un peón aislado en la posición
+negra. Si intentan evitarlo, pierden material: 1) 8. ... Nxd5 9. Nxd5 exd5 10.
+a3 Ba5 11. dxc5, con peón de más para las blancas, o 2) 8. ... Nxd5 9. Nxd5 Qxd5
+10. a3 Ba5 11. dxc5 Qxc5 12. b4, y el alfil cae. De tomar directamente en d de
+peón, las blancas quedan algo mejor: 8. ... exd5 9. dxc5 Bxc5 10. a3 o 10. b3.}
+8... cxd4 9. dxc6 dxc3 10. Qb3 {A ninguno de los dos bandos les conviene tomar
+en b2/b7, ya que darían a su rival el dominio de la gran diagonal contra su
+propio monarca.} 10... Qe7 {Critica esta jugada Bronstein, prefiriendo 10. ...
+Qb6. Ahora las blancas obtendrán ventaja tras maniobrar con su caballo.} 11. Ne5
+Bd6 12. Nc4 cxb2 {No era necesario, siendo posible tomar en c6 o refugiar el
+alfil de d6 en c7, por ejemplo. Esto da mucha ventaja ya a las blancas.} 13.
+Bxb2 Bc5 {Szabo no quiere cambiar el caballo de c4 por su alfil de d6, ya que la
+posición está bastante abierta.} 14. Bf3 Nd5 15. Ne5 bxc6 16. e4 {Bronstein
+critica su última jugada. Mejor era tomar en c6, aprovechando que la dama
+quedaría tocada y no tiene buenas retiradas: 16. Nxc6 Qd6 17. e4 o 16. ... Qc7
+17. Bxd5 exd5 18. Qc3, amenazando 19. Qxg7# y 19. Qxc5. Reconoce que no se dio
+cuenta de que 16. ... Qg5 17. h4 ganaba la partida, ya que, de aceptar el peón,
+vuelve a aparecer la combinación Bxd5 - Qc3, con ataque doble en c5 y g7.} 16...
+Nf6 17. Rfc1 Bd7 18. Qc3 Bb4 19. Nxc6 Bxc6 20. Qxc6 {Bronstein recupera el peón
+y se ha quedado con la pareja de alfiles.} 20... Rad8 21. Rc4 Rd2 22. Bc1 Rd7
+23. Be3 Bd6 24. Qa6 Rfd8 25. Rb1 Ne8 26. g3 Be5 27. Kg2 h6 28. Rcb4 Kh7 29. Rb7
+Nd6 {Protegiendo en a7. El precio a pagar es que el caballo quedará clavado.}
+30. Rxd7 Rxd7 31. Bc5 Rc7 32. Ba3 {Mejor era 32. Qa3, aprovechando la clavada.}
+32... Qd7 33. Rc1 Rxc1 34. Bxc1 Bd4 35. e5 {Sacrificio de peón por iniciativa.
+La idea principal es desviar al alfil de la diagonal a7-g1 para presionar al
+peón de a7.} 35... Bxe5 36. Be3 Nc8 37. a4 {Con idea de llevar el peón hasta a5
+para quitar b6 a las piezas negras y que no puedan defender a7. Szabo opta por
+llevar su alfil a b8 y así liberar a su caballo, pero queda muy pasivo.} 37...
+Bb8 {Otra opción era 37. ... Ne7 38. Bb7, pero el peón queda igualmente
+perdido.} 38. a5 Nd6 39. Bf4 f6 40. Qd3+ Kg8 41. a6 {Fijando la debilidad negra
+de a7. Ahora no hace falta quitar b6 a las negras, ya que no pueden maniobrar
+con facilidad con su alfil para llegar ahí. Por su parte, las negras tratan de
+jugar ... e5.} 41... Kh8 42. Qb3 {Bronstein prepara un ataque con su dama y su
+alfil de casillas blancas. La idea es forzar ... f5, para impedir para siempre
+... e5.} 42... Qe8 43. Bh5 {Jugando con el hecho de que la dama defiende en b8.}
+43... Qg8 44. Bf7 Qxf7 45. Qxb8+ Ne8 46. Qb7 Qh5 47. h3 Kh7 48. Qxa7 e5 49. Be3
+e4 50. Qe7 {Y Szabo se rindió.} 1-0
