@@ -18,45 +18,47 @@ There is an R script, main.R, to find data-output/ranking.csv. The script is in 
 
 The best games are, in my opinion:
 
-* Round 02
+* Round 02:
 	* Geller-Euwe.
 	* Reshevsky-Petrosian.
-* Round 04
+* Round 04:
 	* Smyslov-Stahlberg.
 	* Taimanov-Najdorf.
-* Round 05
+* Round 05:
 	* Petrosian-Taimanov.
 	* Szabo-Bronstein.
-* Round 06
+* Round 06:
 	* Bronstein-Euwe.
-* Round 08
+* Round 08:
 	* Reshevsky-Kotov.
-* Round 09
+* Round 09:
 	* Euwe-Najdorf.
 	* Kotov-Bronstein.
 	* Smyslov-Keres.
-* Round 10
+* Round 10:
 	* Averbaj-Szabo.
 	* Gligoric-Kotov.
-* Round 11
+* Round 11:
 	* Euwe-Averbaj.
 	* Geller-Gligoric.
 	* Keres-Reshevsky.
 	* Smyslov-Bronstein.
-* Round 12
+* Round 12:
 	* Bronstein-Keres.
 	* Taimanov-Geller.
-* Round 14
+* Round 14:
 	* Averbaj-Kotov.
-* Round 15
+* Round 15:
 	* Kotov-Boleslavsky.
-* Round 17
+* Round 17:
 	* Stahlberg-Kotov.
-* Round 18
+* Round 18:
 	* Smyslov-Euwe.
-* Ronda 19
+* Round 19:
 	* Boleslavsky-Geller.
 	* Petrosian-Gligoric.
+* Round 20:
+	* Taimanov-Petrosian.
 
 ## WARNING!
 

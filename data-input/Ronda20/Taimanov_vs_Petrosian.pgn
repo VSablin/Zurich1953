@@ -1,0 +1,55 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Taimanov"]
+[Black "Petrosian"]
+[Result "1-0"]
+
+{Veremos una de las partidas más bonitas del torneo, en la que las blancas
+penetran en la posición negra sin necesidad de lanzar una avalancha de peones,
+solo a base de combinaciones.} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O
+6. Nf3 d5 7. O-O Nc6 8. a3 Bxc3 9. bxc3 b6 10. cxd5 exd5 {Posición bastante
+vista en este torneo. Hasta la presente, en todas las negras habían conseguido
+encontrar contrajuego suficiente en base a su mayoría de peones en el flanco de
+dama. En la que nos atañe, Taimanov invierte un par de tiempos en cambiar el
+caballo de c6 y busca rápidamente f3-e4, sin importarle que d4 pueda quedar
+débil.} 11. Ne5 Qc7 12. Nxc6 Qxc6 13. f3 Be6 14. Qe1 Nd7 15. e4 {En otras
+partidas del torneo, las blancas no consiguieron jugar tan rápidamente e4. La
+idea de la jugada es, principalmente, abrir líneas para los alfiles,
+aprovechando que las negras han cedido su alfil de casillas negras. Además, se
+amenaza 16. Qh4, ya con ideas de ataque.} 15... c4 {Petrosian opta por una
+defensa basada en el alfil de e6.  Una alternativa era buscar complicaciones con
+15. ... f5. Veamos varias variantes con esta línea: 1) 16. exd5 Qxd5 17. Be3 Ne5
+o ... cxd4 o ... c4, con una posición dinámica; 2) 16. e5 y las negras llevarán
+su caballo a c4 vía ... b7-... Nb6-... Nc4; 3) 16. c4 fxe4 17. fxe4 dxc4 18. d5
+Qd6, que podría seguir con 3.1) 19. Bxc4 Ne5 20. Be2 Bg4 21. Bb2 Bxe2 22. Qxe2
+Rae8 y los peones blancos están bloqueados, quedando frenado el ataque, 3.2) 19.
+dxe6 Qxd3 20. exd7 Rxf1+ 21. Qxf1 Qd4+, o 3.3) 19. Rxf8+ Rxf8 20. dxe6 Ne5 y el
+alfil no puede ir ni a b1 ni a e2 debido a ... Qb4+; de retirarse a f1 o a c2,
+vendría ... Ng4 y no está claro cómo parar  de forma satisfactoria ... Qxh2# o
+... Qd4+.} 16. Bc2 f5 17. e5 Rf7 18. a4 a5 19. f4 b5 {Las blancas disponen de un
+claro plan de ataque: h3, Kh2, Rg1, g4 y Qg3 o Qh4. Petrosian no tiene defensa
+satisfactoria contra esto, así que trata de crear contrajuego en el flanco de
+dama, donde dispone de una mayoría de peones. Sin embargo, esto no hará más que
+abrir líneas para los alfiles, los cuales generarán amenazas desde este sector,
+mientras que la dama y la torre de f1 seguirán con el ataque frontal contra el
+rey negro.} 20. axb5 Qxb5 21. Ba3 Nb6 22. Qh4 Qe8 23. Rf3 Nc8 24. Ba4 {No se
+puede capturar el alfil por 24. ... Qxa4 25. Qd8+ y mate imparable. Tampoco vale
+taparse de alfil por: 24. ... Bd7 25. e6 Qxe6 26. Qd8+ y, contra todas las
+respuestas, las blancas ganan material.} 24... Rd7 25. Rb1 {Aceptar la calidad
+aliviaría el ataque.} 25... Qd8 26. Bxd7 {¡Sacrificio de dama! De aceptarlo, las
+negras quedan perdidas: 26. ... Qxh4 27. Bxe6+ Kh8 28. Bxd5 Ra7 y las blancas
+tienen torre, pieza menor y varios peones contra dama, siendo los peones
+centrales pasados y ligados el factor que decanta la balanza en favor de
+Taimanov. Además, el rey de Petrosian seguiría en peligro. Por ejemplo: 29. Rb8
+Qd8 30. e6 o 30. Be6.} 26... Qxd7 27. Rg3 {Esta es suficiente para ganar, pero
+mejor era 27. Rh3 h6 28. Rg3 Kh7 29. Bf8 o 27. ... g6 28. Rb7! y el mate es
+inevitable; notar que no vale 28. ... Qxb7 por 29. Qd8+ y mate a la siguiente;
+de apartar la dama, vendría 29. Qxh7+ y mate a la siguiente. Incluso entregando
+la dama el mate es igualmente imparable...} 27... Na7 28. Be7 Bf7 29. Qg5 Bg6
+30. h4 Nc6 31. Ba3 Nd8 32. h5 Ne6 33. Qh4 Bf7 34. h6 g6 35. Qf6 Qd8 36. Be7 Qc7
+37. Rxg6+ {El golpe ganador. Si 37. ... Bxe6 38. Qxe6+ Bf7 39. Qf6 y no se puede
+parar Qg7#.} 37... hxg6 38. h7+ {Más fino era 38. Kf2, para pasar la torre al
+ataque por h1, con mate más rápido.} 38... Kxh7 39. Qxf7+ Ng7 40. Kf2 {Y
+Petrosian se rindió. De nuevo, el pase de la torre por h1 es ganador.} 1-0
