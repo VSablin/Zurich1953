@@ -4,7 +4,7 @@ Repo with the pgn files of the Zurich-1953 Candidates Tournament with the commen
 
 ## Input
 
-The input data are in data-input/. Inside, there is a directory for each round: "Ronda01", "Ronda02", etc. ("Ronda" is "Round" in Spanish). In every directory, there are pgn files with the games corresponding to the files. The comments in the files are in Spanish.
+The input data are in data-input/. Inside, there is a directory for each round: "Ronda01", "Ronda02", etc. ("Ronda" is "Round" in Spanish). In every directory, there are pgn files with the games corresponding to the round. The comments in the files are in Spanish.
 
 ## Output
 
