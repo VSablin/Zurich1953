@@ -1,0 +1,64 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Szabo"]
+[Black "Gligoric"]
+[Result "1/2-1/2"]
+[Termination ""]
+
+{En esta partida veremos que ambos contendientes desarrollan sus planes sin
+pasar de cuarta o quinta fila, prácticamente sin interaccionar hasta fases
+avanzadas de la partida. A. M. Konstatinopolsky bautizó esto como \"choque de
+aperturas\", siendo una concepción relativamente moderna del juego.} 1. c4 Nf6
+2. g3 g6 3. Bg2 Bg7 4. e4 d6 5. Ne2 O-O 6. O-O c5 7. Nbc3 Nc6 8. d3 Bd7 9. h3
+Ne8 10. g4 Nc7 11. f4 Rb8 {Posición similar a la siciliana cerrada, con la
+ligera diferencia de que las blancas tienen un peón en c4. El plan blanco es
+atacar con su avalancha de peones en el ala de rey, mientras que las negras
+buscarán romper con ... b5 para buscar actividad en el flanco de dama.} 12. f5
+b5 13. Nxb5 Nxb5 14. cxb5 Rxb5 15. Nc3 Rb8 16. g5 Ne5 {Mejor era 16. ... Nd4,
+bloqueando la base de peones blancos, a la par que metería presión sobre f5.
+Esto obligaría a las blancas a decidir qué hacer con su peón de f. Ahora, sin
+embargo, podrán optar por otra vía. Comentar que el módulo de análisis daba
+ventaja decisiva negra antes de esto, mientras que ahora solo tienen una ligera
+ventaja.} 17. Nd5 e6 18. f6 exd5 19. fxg7 {Gligoric tomó en g7, pero paree mejor
+19. ... Re8. El peón de g7 parece condenado y, de momento, ayuda a proteger al
+rey. Contra 20. d4 vendría 20. ... cxd4 21. Qxd4 y, en vez de 21. ... Qb6, 21.
+... dxe4, con claro contrajuego.} 19... Kxg7 20. d4 cxd4 21. Qxd4 Qb6 {cambiar
+damas era prácticamente necesario, pero no en b6. 21. ... Qc8 sería mejor,
+amenazando en h3. Seguiría con 22. Kh2 Qc4 y las damas se cambian igualmente,
+además de que las negras mejoran su estructura de peones.} 22. Qxb6 Rxb6 23.
+exd5 Bf5 24. b3 f6 25. Be3 Rb7 26. gxf6+ Kxf6 27. Rac1 {Las blancas tienen un
+dos contra uno en el flanco de dama y la pareja de alfiles, mientras que las
+negras tienen su dos contra uno en el flanco de rey, además de un potente
+caballo central. Bronstein evalúa la posición como ventajosa para las blancas
+por 1) el factor de la pareja de alfiles en posición abierta, 2) el hecho de que
+el peón pasado blanco estaría lejos del rey rival, siendo su homólogo negro más
+fácil de parar por parte de las blancas y 3) la debilidad de los peones negros
+de a7 y d6.} 27... Re8 28. Rc3 Rbe7 29. Bd4 Kg5 30. Rg3+ Kf6 31. Be4 Rf7
+{Curiosa posición. Pese a que las piezas negras están clavadas, las blancas no
+pueden explotar esto por el hecho de que no tienen peones en  las columnas g y f
+para atacar estas piezas.} 32. Rc3 Kg7 33. Bg2 {Era el momento de cambiar
+alfiles: 33. Bxf5! gxf5 34. Rc6 y parece imposible que las negras defiendan sus
+debilidades de a7, d6 y f5. Por ejemplo, 34. ... Rd8 35. Rxd6 Rxd6 36. Bxe5+ o
+34. ... Rd7 35. Rxf5. Contra 34. ... Rf6, vale con 35. Ra6 o Rc7+. Cambiar
+torres tampoco da nada a las negras por 33. ... Rxf5 34. Rxf5 gxf5 35. Bxa7.}
+33... Kf8 34. b4 Rb8 35. a3 Rb5 36. Rd1 Re7 37. Re3 Kf7 38. Rde1 Rd7 {Szabo
+podría haber ganado un peón aquí con 39. Bxe5 dxe5 40. Rxe5. Contra 40. ... a5,
+41. Bf1 frenaría todas las complicaciones.} 39. Rc1 Nd3 40. Rf1 Ne5 41. Rc1 Nd3
+42. Rc8 Ne5 43. Bxe5 {Aquí Bronstein comenta que no es lo mejor ir a ganar el
+peón, sino 43. Bf1 Rbb7 44. Rec3 y las blancas están mucho mejor.} 43... dxe5
+44. Rxe5 Kf6 45. Re3 Kg5 46. Rc5 Rb8 47. Kf2 h5 48. Rg3+ Kh6 49. h4 Rf8 50. Rf3
+Rff7 51. Ra5 Rc7 52. Kg3 Rc4 53. Bh3 {Bronstein
+ critica que las blancas hayan permitido que las negras penetren con una
+ torre en su sector del tablero, vía la columna c. Ahora la torre podrá 
+tratar de parar al peón pasado desde atrás, dificultando el progreso de 
+los planes blancos.} 53... Rg7 54. d6 Rd4 55. Bxf5 gxf5+ 56. Kf2 f4! {Bronstein
+da signo de admiración a esta jugada. Ahora el rey blanco quedará condenado a
+permanecer en la primera fila, de tal forma que será muy difícil imponer su
+ventaja de material a las blancas.} 57. Ra6 Kg6! 58. d7+ Kf5 59. Rxa7 Rd2+ 60.
+Ke1 Rgg2 {Y las negras prácticamenet igualan, ya que las negras pueden crear
+amenazas de mate. Por ejemplo, con ... Ra2 o ... Rge2+ y ... Rh2.} 61. d8=Q Rxd8
+62. Rf7+ Ke5 63. R3xf4 Ra2 64. Rf3 Rdd2 65. Rf2 Rxf2 66. Rxf2 Rxa3 67. Rg2 Ra1+
+68. Kf2 Ra2+ 69. Kg1 Ra1+ 70. Kf2 Ra2+ 71. Kg1 Ra1+ 72. Kh2 Rb1 73. Rg5+ Kf4 74.
+b5 Kf3 {Y se firmaron las tablas.} 1/2-1/2

@@ -1,0 +1,46 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Boleslavsky"]
+[Black "Keres"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 {Preparación de Keres. Aquí es
+típico 12. ... Bb7, contra lo cual 13. d5 deja ancerrado a ese alfil, que, tarde
+o temprano, tendrá que volver a c8, o 12. ... Re8, tras lo cual viene 13. dxe5
+dxe5 y la torre de e8 tendrá que ir tarde o temprano a disputar la columna
+abierta. Tras la textual, cerrar con 12. d5 no viene con fuerza, ya que el alfil
+de casillas blancas no está en esa diagonal, mientras que la torre ya está lista
+para presionar por la columna d, así que tampoco tiene sentido cambair en e5.
+Boleslavsky sigue con el típico plan de la española (y de la italiana) de llevar
+el caballo del flanco de dama hasta g3 por f1.} 13. Nf1 d5 {Parte de la
+preparación casera de Keres. No conviene perderse en el cálculo de variantes, ya
+que las opciones son inagotables. Bronstein evalúa que las blancas están mejor
+debido a que sus alfiles, sus caballos y su dama apuntan al flanco de rey y la
+torre de e1 cortaría hipotéticas vías de escape del rey ante un ataque. Por su
+pate, las negras tienen temas tácticos por los rayos X de la dama sobre el alfil
+de c2 y de la torre de d8 sobre la dama blanca. Lo que está claro es que la
+posición es de doble filo...} 14. exd5 {Era posible tomar en e, tal y como
+planteó Vasiukov: 14. dxe5 dxe4 15. N1d2! exf3 16. exf6 Bxf6 17. Qxf3 Be6 18.
+Ne4 Be7 19. Qh5 o 14. ... Nxe4 15. Ne3! Be6.} 14... exd4 15. cxd4 Nxd5 16. Qe2
+Bb7 17. Ng3 cxd4 18. Nxd4 {Algunos análisis apuntaron a que esta jugada fue una
+pérdida de tiempo, prefiriendo 18. Nf5. Sin embargo, Bronstein apunta que el
+ataque no está tan claro. Por ejemplo, contra 18. ... Bb4 no está claro cómo
+seguir un ataque ganador. Por tanto, recuperar el peón no está mal. El error fue
+16. Qe2 en vez de 16. Ng5, creando ya importantes amenazas sobre el enroque
+negro.} 18... g6 {Controlando f5 y h5, evitando que los caballos blancos, así
+como su dama, ocupen tales casillas. De esta forma, las negras paran las
+opciones de ataque de las blancas, salvo que estas tomen medidas drásticas.
+Según señala Bronstein (y el módulo confirma), la mejor opción blanca era 19.
+Ndf5! De aceptarse el caballo, las defensas negras se tambalean, ya que: 1) se
+abre la columna g, 2) se abre la diagonal b1-h7, 3) la dama puede ir a h5 y 4)
+el otro caballo puede ir a f5. En la partida Boleslavsky optó por una
+continuación tranquila, tras lo cual las negras aprovecharán sus superioridad en
+el flanco de dama.} 19. Bh6 Bf6 20. Nb3 Nc4 21. Ne4 Bxb2 22. Nbc5 {Boleslavsky
+da la calidad. De apartar la torre, la presión negra en el ala de dama sería
+insoportable para las piezas blancas.} 22... Bxa1 23. Rxa1 f5 24. Nxb7 Qxb7 25.
+Nc5 Qc6 26. Nd3 Nc3 27. Qe1 Qf6 28. f4 Ne4 29. Kh2 Qc3 30. Qb1 Ncd2 31. Qc1 Rxd3
+32. Bxd3 Qxd3 33. Qc7 Nf3+ {Y Boleslavsky se rindió, ya que hay mate forzado.}
+0-1
