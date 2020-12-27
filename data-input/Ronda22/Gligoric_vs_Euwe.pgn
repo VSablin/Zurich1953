@@ -1,0 +1,137 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Gligoric"]
+[Black "Euwe"]
+[Result "1-0"]
+
+{En esta partida veremos la variante principal (al menos en su época) de la
+nimzoindia: 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 Nc6 7. 0-0
+0-0. Gligoric, sin embargo, le da un carácter más típico del gambito de dama:
+desarrolla su alfil de dama por d2, cambia peones en el centro y deja un peón
+aislado a las negras en d5. El interés de la partida orbita en torno a este
+peón: las piezas blancas lo atacarán y las negras lo defenderán, Gligoric
+tratará de explotar esto para penetrar en la séptima fila y veremos que el juego
+tornará de la posicional presión sobre el peón a un intento de ataque al rey
+blanco.} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d5 6. Be2 O-O 7. O-O Nc6
+8. cxd5 exd5 9. dxc5 Bxc5 10. a3 {El plan negro es jugar ... d4 para cambiar su
+peón aislado. Esto no es posible inmediatamente por 11. Na4. Es por esto que las
+negras deben jugar antes ... a6 y ... Ba7. Por su parte, las blancas tratarán de
+evitar este plan controlando d4 con más piezas y, llegado el momento, ocupar tal
+casilla con un caballo. Bronstein indica que la mejor forma de ejecutar este
+plan era 10. b3! a6 11. Na4 Ba7 12. Bb2. Contra 12. ... b5 vendría 13. Rc1!
+seguido de Nc5.} 10... a6 11. b4 Bd6 {El gran maestro Trifunovic, tras la
+partida, dictaminó que aquí era mejor seguir con 11. ... Ba7 12. Bb2 d4. Si 12.
+b5 d4 13. bxc6 dxc3 14. Qb3 Qc7 15. Qxc3 Bd7 16. Ne5 Nd5 17. Qb2 Bxc6 18. Nxc6
+Qxc6 19. Bf3 y las blancas tienen una ligera ventaja por su pareja de alfiles en
+posición abierta y más presencia central.} 12. Bb2 Bg4 13. Rc1 Bc7 14. Na4
+{Gligoric ha logrado detener el avance d4. Euwe tratará de ganar iniciativa en
+el flanco de rey, pero Gligoric se las arreglará para cambiar piezas menores y
+presionar el peón enemigo con sus piezas pesadas.} 14... Qd6 15. g3 Ne4 16. Nc5
+{Con idea de eliminar el potente caballo de e4. No sería bueno 16. Nd4 por 16.
+... Bh3 17. Re1 Qf6.} 16... Nxc5 17. Rxc5 Rad8 18. Nd4 {Las blancas han
+conseguido su objetivo: bloquear el peón con un caballo y cambiar piezas para
+que el ataque negro no surta efecto.} 18... Bxe2 19. Qxe2 Nxd4 20. Bxd4 Bb6 21.
+Rd1! {Clave de la idea de Gligoric. De apartarse la torre, entonces habría que
+retomar de peón y la posición estaría totalmente igualada. Notar que las blancas
+recuperan la calidad de inmediato.} 21... Bxc5 22. Bxc5 Qe5 23. Bxf8 Kxf8 24.
+Rd4 g6 25. b5 {Imprecisión de Gligoric, ya que esto da opciones de llegar a un
+final de una torre por bando y un cuatro contra tres peones en el mismo flanco,
+lo que es tablas casi siempre. Mejor era 25. Qd2, amenazando e4, que fuerza a
+25. ... f5, debilitando la posición negra.} 25... axb5 26. Qxb5 Qc7 27. Qb2 Kg8
+28. Qd2 Qc5 {Se amenazaba 29. e4. Si 28. ... Ra8, entonces 29. Rxd5 Rxa3 30.
+Rd8+ Kg7 31. Qd4+ Kh6 32. Rg8. Ahora fuerzan el avance del peón de a, aumentando
+la posibilidad de cambiar este por el peón de d5, con esperanza de llegar a un
+final de tablas.} 29. a4 Qa3 30. a5 Rc8 {Defender el peón es imposible, así que
+las negras buscan el cambio de damas, con esperanza de forzar las tablas.} 31.
+Rxd5 {Un poquito mejor era 31. Kg2 Qc1 32. Qb4, rehusando el cambio de damas y
+ganando el peón de d5 igualmente. No sirve 32. ... Rc2 33.Rxd5 Qxe3 por 34. Rd8+
+35. Qf8+ y 36. Rd6+. Ahora las negras pueden cambiar damas y su torre queda en
+una buena posición.} 31... Qc1+ 32. Qxc1 Rxc1+ 33. Kg2 Rb1 {Con esto, Euwe se
+asegura cambiar los peones del flanco de dama. No sirve atacar el peón de b7 por
+detrás: 34. Rd8+ Kg7 35. Rb8 Rb5. Es por esto que llegamos a un final que CASI
+siempre es de tablas. Gligoric trata de sacar ventaja igualmente. Empieza por
+movilizar sus peones.} 34. g4 Kg7 35. h4 b6 36. h5 bxa5 37. Rxa5 Rb7 38. g5
+{Euwe concedió signo de admiración a la jugada, por crear debilidades en la
+posición negra, pero Trifunovic la calificó de serio error, prefiriendo preparar
+el avance con Kg3, f3, e4, Kf4 y Ra6. De aceptarse el sacrificio, es cierto que
+la estructura de peones negros queda débil, pero hay defensa. Bronstein prefiere
+jugar 38. ... h6, con idea de cambiar dos peones por bando, acercándose cada vez
+más a las tablas.} 38... gxh5 39. Ra6 {Esta era parte de la idea de Gligoric:
+bloquear al rey. Ahora ... h6 es imposible. Las blancas amenazan e4, llevar su
+rey a f5 y su torre a h6. Las blancas buscan ganar capturando el peón de h5 y
+presionando los peones de h y f.} 39... Rb3 {Error de Euwe. Era necesario buscar
+el cambio de torres en e6 vía e7. Por ejemplo: 39. ... Re7 40. Kg3 Re6 41. Rxe6
+fxe6 42. Kh4 Kg6 43. f4 h6 y tablas. O, si las blancas rehuyen el cambio en e6,
+podría seguir con 41. ... h6. Y si 40. Rh6 Re5 41. Rxh5 Kg6 y tablas. Euwe, tras
+la partida, dictaminó que 39. ... Rb4 también era posible. Su análisis determina
+que, tras 40. f4 Re4 41. Kf3 Re6, etc. la partida es tablas. Bronstein comenta
+que 40. f3 refutaría esta línea, ya que impide a las negras usar la cuarta fila
+y no se puede parar la amenaza Rh6.} 40. Rh6 Ra3 41. Kg3 Ra1 {42. Rxh5 se
+encontraría con 42. ... Kg6.} 42. e4 Rg1+ 43. Kf4 Rh1 44. e5 h4 {Otro error de
+Euwe. Esto concede g4 a las blancas y limita el alcance de la torre de h1.
+Bronstein comenta que, de no mover este peón, seguramente sería tablas. La
+formación f4-e5-g5 con el rey en f5 y la torre en b7 no sería suficiente. Se
+amenazaría el avance e6, pero se detendría poniendo la torre en la columna e.}
+45. Kg4 Rg1+ 46. Kf5 {De tomar, el final es de tablas: 46. Kxh4 Rh1+ 47. Kg4
+Rxh6 48. gxh6+ Kxh6 49. Kf5 Kg6 50. f3 h6 51. f4 h5 52. Kg5 f6+53. exf6+ Kf7,
+etc.} 46... Rh1 47. Kg4 Rg1+ 48. Kf5 Rh1 {El plan de Gligoric es situar su torre
+en séptima y buscar e6. La primera parte del plan era provocar el avance h4, que
+ya se ha logrado, llevar su torre a d1, alejar a la torre negra de la columna e
+y ejectura la maniobra final: f5 y e6 con el apoyo de rey y torre.} 49. f4 h3
+{Da la impresión de que este avance responde a la amenaza 50. Kg4, tras lo cual
+parece que el peón sí que puede ser capturado. Sin embargo, el final también es
+tablas: 50. Kg4 Rg1+ 51. Kxh4 Rh1+ 52. Kg4 Rxh6 53. gxh6+ Kxh6 54. f5 Kg7 55.
+Kg5 f6+ 56. exf6+ Kf7 y tablas. El avance era necesario por 50. Kg4 Rg1+ 51.
+Kh3! Kh1 52. Kg2 y el peón, ahora sí, cae sin necesidad de cambiar torres.} 50.
+Kg4 Rg1+ 51. Kf3 Rf1+ 52. Kg3 Rg1+ 53. Kf2 Rh1 54. Rf6 {La idea es dejar a las
+negras en Zugzwang, forzándoles a retroceder con el rey o a quitar su torre del
+flanco de rey, dejando caer el peón de h3. Una bonita variante es 54. ... Kg8
+55. Kg3 Kg7 56. Kg4 Kg8 57. Rh6 y el peón cae. En caso de cambiarse las torres
+las blancas también ganan: 57. ... Rg1+ 58. Kxh3 Rh1+ 59. Kg4 Rxh6 60. gxh6 y,
+como el rey negro está en g8, no puede retomar en h6.} 54... Ra1 55. Kg3 Rh1 56.
+Kg4 Kg8 57. Rh6 {Ahora se amenaza 58. Rxh3 y, si 57. ... Rg1+, entonces se puede
+seguir con la línea del comentario anterior.} 57... h2 {Según Orlov, este es el
+error deciviso, opinando que el final de peones seguía siendo tablas: 57. ...
+Rg1+ 58. Rxh3 Rh1+ 59. Kg4 Rxh6 60. gxh6 f6 61. exf6 Kf7 62. Kf5 Kf8 63. Ke6 Ke8
+64. f7+ Kf8. El experto en finales de peones Maizelis indicó que este análisis
+es incorrecto por 65. Kd6!! Kxf7 66. Kd7 Kf8 67. Ke6, etc. Si, en la variante de
+Orlov, las negras juegan 62. ... Ke8, entonces 63. Ke6 Kf8 64. Kd7 Kf7 65. Kd8
+Kf8 66. f7 Kxf7 67. Kd7 Kf6 68. Ke8 y el rey blanco captura el último peón negro
+y escolta al suyo hasta h8. Por último, Friedstein refutó la línea de Orlov por
+otra vía: 58. Kf3 Rf1+ 59. Kg3 Rg1+ 60. Kf2 Rh1 61. Rh4 y el peón cae, con un
+final de peones ganados incluso si se cambian torres..} 58. Kg3 Rg1+ 59. Kxh2
+Rg4 {Las blancas han conseguido el peón, pero ahora su rey está escorado y hay
+que proteger el peón de f4. Ahora bien, las blancas arreglan sus problemas con
+60. Rf6 Kg7 61. Kh3 Rg1 62. Ra6, amenazando llevar el rey a h6, la torre a a7 y
+jugar e6. Para parar esto, las negras tendrán que quitar su torre de la columna
+g, permitiendo al rey volver al centro.} 60. Rf6 Kg7 61. Kh3 Rg1 62. Kh4 Rh1+
+63. Kg4 Rg1+ 64. Kf5 Rf1 {Euwe intenta esta original defensa. Al presionar sobre
+f4, la torre no puede quitarse de f6 cediendo tal casilla al rey. Y, si el rey
+intenta activarse por g4 o e4, la torre da jaques. Gligoric encuentra un plan
+para echar a la torre negra de la columna f. Otro plan defensivo era 64. ... Ra1
+pero, como idicó Euwe, esto tampoco salva a las negras: 65. Rc6 Ra4 66. Rc7 Kf8
+67. Kg4 Ra1 68. f5 Rg1+ 69. Kf4 Rf1+ 70. Ke4 Re1+ 71. Kd5 Rd1+ 72. Kc6Rc1+ 73.
+Kd7 Rd1+ 74. Kc8 Rd5 75. f6 Rxe5 76. Kd7 y se llega a un final de peones ganado:
+76. ... Rd5+ 77. Kc6 Rd8 78. Rd7. Si 74. ... Rg1 75. f6 Rxg5 76. Kd7, etc.} 65.
+Rc6 Kf8 {Si, en la posición de la partida, la torre negra no estuviera en la
+columna f, la partida estaría vista para sentencia con 66. Kf6. Si 66. Rc4, con
+idea de liberar al rey de la defensa de f4, vendría 66. ... Kg7, evitando 67.
+Kf6.} 66. Rc8+ Kg7 67. Rd8 {Zugzwang: 1) 67. ... h6 68. gxh6+ Kxh6 69. Rg8 y las
+blancas ganan fácilmente por la inactividad del rey rival; 2) 67. ... Ra1 68.
+Rd7, amenazando 69. e6, y las negras pierden hagan lo que hagan: 2.1) 68. ...
+Ra5 69. Kg4 Kf8 70. Rd8+ Kg7 71. f5 Rxe5 72. f6+ y mate imparable; 2.2) 68. ...
+Kg8 69. Kf6 Ra6+ 70. Rd6!, con final trivial para las blancas; 2.3) 68. ... Ra6
+69. Kg4 h6 70. f5 Kg8 71. Rd8+ Kh7 72. g6+ fxg6 73. f6. La única alternativa a
+las indicadas es la textual, que veremos a continuación.} 67... Rf2 68. Rd1 {Las
+blancas concluyen su plan, evitando ... Rf1 y expulsando en nada a la torre de
+la columna f, permitiendo el avance de los peones de e y f. De no quitar la
+torre de f2, las negras deberían mover su rey a f8 o g8, llegando a una posición
+harto peligrosa: 68. ... Kf8 69. Kg4 Re2 70. Kf3 Ra2 71. f5.} 68... Rf3 69. Ke4
+Rf2 70. Ke3 Ra2 71. f5 Rg2 {Contra 71. ... Ra7 vendría 72. Ke4 , seguido de Rd8
+y e6 o f6+.} 72. Rd7 {Era posible 72. g6 hxg6 73. f6+.} 72... Rxg5 {Se ganaba
+tras 72. ... Kf8 73. f6 Ke8 74. Re7+ Kf8 75. Rb7 Be8 76. Rb8+ Kd7 77. Rf8 Ke6
+78. Re8+ Kf5 79. e6!} 73. Kf4 Rg1 74. e6 Rf1+ 75. Ke5 Re1+ 76. Kd6 h5 77. Rxf7+
+Kg8 78. Ke7 {Y Euwe se rindió. A 78. ... h4 vendría 79. Kf6 h3 80. Rg7+ Kh8 81.
+Rg3.} 1-0

@@ -1,0 +1,53 @@
+﻿[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Najdorf"]
+[Black "Averbaj"]
+[Result "0-1"]
+[TimeControl ""]
+
+{En esta partida veremos que Averbaj jugará pensando en el final ya en el medio
+ juego. Más en particular, vislumbrará un final de 
+caballo frente a alfil. Como es bien sabido, los caballos se 
+imponen a los alfiles cuando tienen un punto de apoyo, los peones están
+bloqueados y los peones del bando rival están en casillas del mismo color que su
+alfil. Averbaj se las arreglará para llegar a una posición del estilo.} 1. c4
+Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Qc2 Nxc3 9.
+bxc3 {Esta jugada debilita c4 frente a 9. Qxc3. Si bien, en realidad, la textual
+es perfectamente correcta, lo cierto es que las blancas deben tener cuidado. Por
+ejemplo, uno de los planes negros para atacar este peón es movilizar su caballo
+hasta a5 vía c6. Para ello, las blancas deben mover el suyo a b3. Una posible
+continuación en esta línea sería 9. ... Nc6 10. Nd2 Na5 11. Bxb7 Nxb7 12. Nb3.
+Las blancas proyectarían una expansión en el ala de dama con a4-a5, de tal modo
+que las negras se verían obligadas a jugar 12. ... a5, quitando al caballo tal
+casilla. Si fuera a d6, podría ser desalojado con c5.} 9... Nc6 10. Ne5 Na5 11.
+Bxb7 Nxb7 12. Qa4 {Esta posición es inferior a la descrita en el anterior
+comentario, ya que nunca queremos usar nuestra dama para proteger peones.} 12...
+d6 13. Nd3 Na5 14. c5 Qe8 15. Qxe8 Rfxe8 16. Rb1 Rec8 17. h4 d5 18. Bf4 f6 19.
+Nb4 a6 20. cxb6 cxb6 21. Bd2 {Las blancas están peor por tres razones: 1) los
+peones de a2 y b3 son muy débiles, mucho más que los de a6 y b6; en particular,
+el de b3 ya está siendo presionado en la posición actual, 2) la casilla c4 puede
+ser aprovechada por el caballo o por una torre negra y 3) el alfil negro es
+mucho más activo que el blanco. La esperanza blanca es atacar b6, pero esto es
+un espejismo, ya que siempre pueden jugar las negras ... b5 o defenderlo con ...
+Nc4. Najdorf pronto se cansará de su debilidad en c3, llegando al final del que
+hablábamos en la introducción. Mejor sería 21. Nc3 Nd4 22. Rfc1 Rc6 23. Kf1.}
+21... Nc4 22. Be1 Bxb4 23. cxb4 {Las blancas están perdidas. Una torre negra,
+que llegará a c2, y el caballo de c4 controlarán todas las casillas
+circundantes, maniatando a las piezas blancas.} 23... Na3 24. Rb3 Nb5 25. e3 Rc2
+26. a4 Nd6 27. a5 b5 {Vemos que se va cumpliendo lo que decíamos en la
+introducción. Ahora Najdorf busca cambiar una torre. De lo contrario vendría 28.
+... Rac8, con dominio absoluto de la posición por parte de las piezas negras.}
+28. Rc3 Rc8 29. Rxc8+ Nxc8 30. f3 Ne7 31. Bf2 {Con la esperanza de que Averbaj
+se contentase con la ganancia de un peón vía 31. ... Rb2, para así ganar la
+columna abierta con 32. Rc1 y generar contrajuego. Sin embargo, Averbaj, con
+buen criterio, opta por activar su rey.} 31... Kf7 32. Rb1 Nf5 33. Kf1 Nd6 34.
+Rb3 Nc4 35. Kg2 f5 {Zugzwang. Si 36. f4, entonces 36. ... Nd2 y ... Ne4. Si 36.
+e4 fxe4 37. fxe4 Nd2 y ... Nxe4 a la siguiente. El rey no puede moverse por 36.
+... Nd2, seguido de ... Nxf3. Veremos que las negras se harán con un imponente
+centro de peones.} 36. Rb1 Nxe3+ 37. Kg1 f4 38. gxf4 Nf5 39. Kf1 g6 40. Rb3 Ke7
+41. Rb1 Kd7 {Y Najdorf se rindió. Viene 42. ... Rc4 imparable, tras lo cual
+empezarían a caer los peones de la cuarta fila. Notar que ya no pasa nada por
+abandonar la columna abierta, ya que el rey, desde d7, controla las entradas de
+la torre blanca.} 0-1

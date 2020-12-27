@@ -1,0 +1,73 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Taimanov"]
+[Black "Szabo"]
+[Result "1/2-1/2"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 d5 5. Bd3 c6 6. f4 Be7 7. Nf3 O-O 8. O-O
+{Posición bautizada como de doble muro de piedra. El cerrado centro hace que
+empiece un complicado juego de maniobras. Los caballos son potentes por razones
+evidentes. Las blancas cuentan con un temático golpe g4 que no se dio en esta
+partida. El avanzado peón de c4 presagia que las blancas van a tener cierta
+actividad en el flanco de dama, mientras que las negras intentarán sacar ventaja
+en el ala de rey. Cada bando cuenta con un mal alfil (el alfil blanco de las
+negras y el negro de las blancas), que cambiarían gustosamente por un caballo
+rival; de lo contrario, la idea es activarlos por el flanco de rey. Todas estas
+consideraciones condicionarán los siguientes movimientos.} 8... b6 9. Bd2 Ba6
+{Esto parece bueno, ya que las negras tratan de cambiar su alfil malo por el
+buen alfil rival. Sin embargo, veremos que el cambio en c4 es una concesión.}
+10. Qe2 {De hacer los mencionados cambios: 10. ... dxc4 11. Bxc4 Bxc4 12. Qxc4,
+las blancas quedan con ventaja, ya que la estructura de peones negros está
+arruinada. En particular, lospeones de e6 y c6 serían demasiado débiles. Es por
+esto que Szabo recula a b7.} 10... Bb7 11. cxd5 {Esto es ventajoso para las
+blancas si las negras no pueden tomar de e. Es el caso, ya que, de lo contrario,
+cae f5. Ahora Taimanov controlará la columna abierta.} 11... cxd5 12. Rfc1
+{Bronstein comenta que era más preciso 12. Rac1. Esto se hará patente en la
+jugada 20.} 12... a6 13. Na4 Ne4 14. Ne5 Bd6 15. b4 Bxe5 {El cambio es casi
+forzado. De lo contrario, sería difícil para las negras desarrollar su flanco de
+dama. Por ejemplo, 15. ... Nd7 16. Nc6 Bxc6 17. Rxc6, con ataque doble sobre d6
+y a6, además de que se amenazaría Rac1.} 16. fxe5 Bc6 17. Nb2 {Mejor era 17.
+Nc3, con idea de cambiarse por el caballo de e4. En b2 no pinta nada este
+caballo.} 17... Be8 18. Rc2 Nd7 {Ofreciendo a6 en sacrifio. Sin embargo, contra
+19. Bxa6, vendría 19. ... Qg5, con la amenaza ... Bh5, o bien 19. ... Nxd2. Por
+otro lado, en el momento en el que el alfil de a6 se retirara, la torre de a8
+podría incorporarse al ataque. Por todo esto, Taimanov no acpeta el peón.} 19.
+a4 Qg5 20. Rf1 {Es por esto que 12. Rac1 era mejor. Taimanov devuelve a Szabo su
+pérdida de tiempo con ... Ba6 y ... Bb7.} 20... b5 {Szabo vuelve a ofrecer un
+peón. De aceptarse, vendría 21. axb5 abx5 22. Bxb5 Ra3!, con iniciativa negra.
+Podría seguir con 23. Bd3 Bh5 24. Qe1 Rfa8. La presión negra es evidente. Es por
+esto que, de nuevo, Taimanov rechaza el peón.} 21. a5 Bh5 22. Qe1 Rfd8 23. Rc6
+Nf8 24. Bb1 Rdc8 25. Rxc8 Rxc8 26. Nd3 Nd7 {Si bien el módulo de análisis da
+ligera ventaja blanca, Bronstein concede ventaja a las negras: controlan la
+columna abierta, su alfil malo es ahora bueno, mientras que su homólogo blanco
+sigue mal situado y la amenaza Nc5 no es tal: 27. Nc5 Nexc5 28. bxc5 Qe7,
+seguido de Nb8-Nc6.} 27. Nf4 Bf7 28. Bxe4 fxe4 29. Qb1 Rc4 30. Rc1 Qf5 31. Ne2
+Bg6 32. Rf1 Qg5 33. Nf4 Bf5 34. Be1 Nb8 35. Qb2 Nc6 {Las negras tienen la
+iniciativa, gracias a su control de la columna c y a la presión sobre b4. Las
+blancas cuentan con el factor de que el alfil de f5 es inestable y a que, tras
+su próxima jugada, amenazarán Nxd5 seguido de Qxf5.} 36. Qf2 {Las blancas ganan
+un peón gracias a la amenaza Nxe6 y a las amenazas de mate en la columna f. Sin
+embargo, las negras siguen mejor. Lo analizaremos tras los próximos
+movimientos.} 36... h6 37. Nxd5 exd5 38. Qxf5 Qxe3+ 39. Bf2 Qg5 40. Qe6+ Kh7 41.
+Qxd5 Qg6 {Pese al peón de menos, las negras siguen con la iniciativa: amenazan
+... Nxb4, ... Rc2 y ... e3. Desde un punto de vista más general, las piezas
+negras están bien dispuestas para atacar al rey, incluyendo el peón de e4, que
+tiene la fuerza de una pieza. Por su parte, el peón de e5, pasado, en realidad
+no es fuerte de momento, ya que no puede avanzar con facilidad.} 42. e6 Nxb4 43.
+Qd6 {Bronstein prefiere esta jugada sobre 43. Qd7 por 43. ... e3. Si 44. Bxe3,
+entonces 44. ... Qe4. Y si 44. Bg3 e2 45. Re1 Qg4. Todos los análisis de
+variantes dan victoria negra. Por ejemplo: 43. Qd7 e3 44. Bg3 e2 45. Re1 Qg4 46.
+Qf7 Qxd4+ 47. Kh1 Qd5 48. Rxe2 Rc2 49. Qf1 Qd3 50. Re1 Qxf1+ 51. Rxf1 Re2 52.
+Re1 Rxe1+ 53. Bxe1 Nd5, con ventaja decisiva negra.} 43... Nd3 44. h3 Rc2 45.
+Bg3 e3 46. e7 Qe4 47. Rf3 e2 48. Qd7 {Error grave de Szabo. Aquí podría haber
+forzado las tablas con 48. e8Q! Qxe8 49. Rxd3 e1Q 50. Bxe1 Qxe1+ 51. Kh2. Ahora
+las blancas están perdidas.} 48... e1=Q+ {Y Taimanov devuelve el error
+inmediatamente. Ganaba en el acto 48. ... Nf4! y todas las líneas acaban en mate
+o con mucho material de menos para las blancas. Por ejemplo 49. e8Q e1Q+ 50.
+Bxe1 Rxg2+ 51. Bh1 Qxf3 y el mate es imparable o 49. Be1 Rc1 50. e8Q Rxe1+ 51.
+Kh2 Rh1+ 52. Kxh1 e1Q+ 53. Kh2 Qxe8 y la ventaja material es enorme o 49. Qf5+
+Qxf5 50. e8Q e1Q+ 51. Bxe1 Rxg2+ 52. Kf1 Rh2 53. Qe5 Qc2 y el mate es
+imparable.} 49. Bxe1 Rxg2+ 50. Kxg2 Nxe1+ 51. Kf2 {Y tablas, ya que las blancas
+no pueden escapar del jaque perpetuo.} 1/2-1/2
