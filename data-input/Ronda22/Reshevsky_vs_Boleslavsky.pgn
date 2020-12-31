@@ -1,0 +1,70 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Reshevsky"]
+[Black "Boleslavsky"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 7. d5 Na6 {Jugada
+que contradice los principios clásicos, al desarrollar el caballo lateralmente.
+Es más, se moverá inmediatamente a c7, que contradice otros dos principios:
+mover una pieza por segunda vez en la apertura y llevar un caballo a c7, que se
+considera una mala casilla. Sin embargo, Boleslavsky tiene ideas específicas,
+las cuales hacen que la jugada tenga todo el sentido del mundo. La idea es jugar
+... Nc7 - ... Rb8 - ... b5, sin necesidad de jugar ... a6. No es fácil para las
+blancas responder con b3, ya que tanto el caballo de c3 como la torre de a1
+estarían bajo el fuego del alfil de g7. Además, tras los cambios en c4, las
+negras seguirían con ... Rb4 y ... Ba6, con mucha presión sobre c4. Al no haber
+jugado ... a6, esta casilla está disponible para el alfil} 8. O-O Nc7 9. Nd2 Rb8
+10. a4 e6 {Presionando ahora sobre c4 desde el centro. Reshevsky no quiere
+defender con e4, ya que esto limitaría la acción de su alfil de g2.} 11. dxe6
+Bxe6 {Parece que las blancas van a quedar muy pasivas para defender en c4. Sin
+embargo, Reshevsky encuentra un recurso.} 12. Nde4 {La partida entra en una fase
+de complicaciones tácticas. Veamos los patrones que generan la situación: 1) la
+torre de b8 y el caballo de c7 están en la misma diagonal, quedando expuestos a
+ataques; 2) si un caballo blanco toma en d6, las torres negras tendrán vetadas
+las caillas c8 y e8, de tal forma que, si el alfil de dama blanco llega a f7, se
+ganará una calidad; 3) el peón de b2 va a quedar desprotegido cuando salga el
+alfil de c1, de tal forma que el alfil de g7 podrá tomarlo con ganancia de
+tiempo; y así, un largo etcétera.} 12... Nxe4 13. Nxe4 Bxc4 14. Bg5 Qd7
+{Boleslavsky invita a la sugerente 15. Nf6+ Bxf6 16. Bxf5 Qe6 y las negras
+ganarían material.} 15. Qxd6 Qxd6 16. Nxd6 Bxe2 17. Rfe1 Bd3 18. Be7
+{Boleslavsky entrega la calidad por un par de peones y quedarse con la pareja de
+alfiles. Reshevsky trazará un plan para coordinar sus torres contra los alfiles
+enemigos.} 18... Bxb2 19. Ra2 Bg7 20. Bf1 {Idea clave: la torre de f8 no puede
+escapar y el alfil de d3 no puede evitar ser cambiado. En cualquier caso, la
+posición está más o menos igualada por los peones de más por la calidad.} 20...
+Bxf1 21. Kxf1 Nd5 {Error de Boleslavsky. El caballo sería más fuerte en e6,
+donde sería estable.} 22. Bxf8 Bxf8 23. Rae2! {Amenazando cambiar una torre y
+atacar los peones negros del flanco de dama desde atrás con la torre restante.
+Los cambios son casi forzados. Si 23. ... Kg7, entonces 24. Ne8+, seguido de 25.
+Re5. Decir que esta idea hubiera sido imposible de haber jugado Boleslavsky 21.
+... Ne6, cerrando la columna e.} 23... Bxd6 24. Rd2 Bf8 {Es perdedor 24. ...
+Bxg3 25. hxg3 Nc7 26. Re7 Ne6 27. Rdd7. Bronstein critica la textual,
+considerando 24. ... Nb6 más activa, tratando de ganar un tercer peón por la
+calidad. En cualquier caso, Bronstein entiende que las negras están perdidas.
+Decir que en la línea de 24. ... Bxg3 el módulo propone 25. ... Nb6 y dictamina
+que hay igualdad...} 25. Rxd5 c4 {Buscando ... c3 , apoyando el peón con su
+alfil. Si 25. ... a6, Euwe recomendó 26. Rde5 b5 27. a5. Bronstein se decanta
+por 26. a5...} 26. Re4 {Frenando el plan negro. Decir que 26. Rc1 se encontraría
+con 26. ... Rc8 y las negras estarían bien jugando ... c3 y ... Bg7. Ahora, 26.
+... Rc8 se encontraría con 27. Rdd4 c3 28. Rc4 Rxc4 29. Rxc4 Bg7? 30. Rc8+ y las
+negras están perdidas. Lo mismo pasa si 26. ... c3 27. Rc4 Bg7 28. Tdc5! y, tras
+cambiar torres, las blancas ganando llevando su rey a d3 y cazando los peones
+del flanco de dama con su torre.} 26... a6 {Con idea de quedar con un peón
+pasado.} 27. Rxc4 b5 28. axb5 axb5 29. Rc7 b4 30. Rdd7 Ra8 {No era posible 30.
+... b6? por 31. Rb7.} 31. Kg2 Ra2 32. Rxf7 b3 33. Rb7 Bc5 {Reshevsky empieza una
+curiosa maniobra con su torre de f7 para dejar a su rival sin jugada. Sin
+embargo, es un error.} 34. Rf3 b2 35. Rd3 Bf8 {Aquí 36. Rd8 gana. Reshevsy
+siguió con su plan, que consiste en volver a la posición anterior, pero con el
+alfil en f8, de tal forma que parece que las negras están sin jugada. Decir que
+la vuelta del alfil a f8 estaba calculada (las negras no tenían ninguna otra
+secuencia de jugadas tras este original plan de Reshevsky), pero este no se dio
+cuenta de que, al estar el peón de b en b2, hacen que su jugada sea un error
+garrafal...} 36. Rdd7 {36. ... Ra7 iguala la partida, por los rayos X sobre la
+torre de d7 y el hecho de que el peón de b está a un paso de coronar. Las
+blancas quedarían sin jugadas para progresar, quedando condenadas a permanecer
+con su torre de b7 en su casilla y vascular con la otra en la séptima fila.
+Boleslavsky, sin embargo, no lo vio.} 36... Bc5? 37. Rd8+ Bf8 38. Rdb8 {Y
+Boleslavsky se rindió.} 1-0

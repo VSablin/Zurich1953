@@ -1,0 +1,56 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Keres"]
+[Black "Kotov"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 {6. ... c6 no es la
+más incisiva, siendo mejor 6. ... Nbd7 y, contra 7. b3, entonces 7. ... c5.
+Ahora las negras, de querer jugar ... c5, habrán perdido un tiempo.} 7. b3 Nbd7
+8. Bb2 b6 9. Nbd2 Bb7 10. Rc1 Rc8 11. e3 c5 {La única asimetría en la posición
+se corresponde al alfil de g2 y al de e7. Una de las implicaciones de esto es
+que la dama blanca tiene la casilla e2 para refugiarse del ataque de las torres
+enemigas cuando se abran las columnas c y d, mientras que su homóloga no podrá
+hacer lo propio. Esta se la base del plan de Keres, que llevará su dama a e2
+(motivo por el que jugó 11. e3) y jugará después Rfd1.} 12. Qe2 cxd4 13. Nxd4
+Nc5 14. Rfd1 Qd7 {Kotov planea llevar su torre de f a d8 y refugiar después su
+dama en e8. Sin embargo, no acaba de igualar por dos razones: tendrá que emplear
+un tiempo más que Keres en hacer lo mismo y la dama de e2 es más activa que la
+de e8.} 15. N2f3 Rfd8 16. Ne5 Qe8 17. cxd5 {Tras la apertura del centro,
+empiezan a aparecer motivos tácticos para las blancas: clavadas en la columna c,
+golpes con el alfil de g2 e incluso temas de mate en g7.} 17... Bxd5 18. Ndc6
+{Brillante jugada. El caballo está atacado tres veces y solo lo defiende su
+homólogo de e5. Sin embargo, el alfil de g2 también apunta a c6 a través del
+alfil de d5 y la torre de c1 a través del caballo de c5. Veamos un par de
+variantes: 18. ... Bxc6 19. Rxd8 Bxd8 20. Nxc6 Rxc6 21. Bxc6 Qxc6 22. b4 y el
+caballo no puede apartarse de la amenaza por los rayos X de la torre de c1 sobre
+la dama de e6, así que las blancas ganan calidad por une peón; otra opción sería
+18. ... Bxg2 19. Nxd8 Ba8 20. Ndxf7 y las blancas ganan calidad y un peón.}
+18... Rxc6 19. Nxc6 Qxc6 {Si 19. ... Bxc6, se traspone a la línea anterior en la
+que las blancas ganan una calidad por un peón.} 20. Bxd5 {Aquí también se ganará
+una calidad por un peón. Sin embargo, mejor era 20. Bxf6 Bxf6 21. e4 Bxe4 22.
+Rxd8+ Bxd8 23. Bxe4 Qxe4 24. Qxe4 Nxe4 25. Rc8 y el alfil de d8 está perdido. Y
+si 20. ... Bxg2, entonces 21. Bxe7 Re8 22. Bxc5 Bf3 23. Qd3, que da calidad de
+ventaja para las blancas, o 23. Bxb6, que deviene en un final de alfiles de
+distinto color con dos peones de más para las blancas.} 20... exd5 21. b4 Nfe4
+22. bxc5 bxc5 23. Qg4 g6 24. h4 Qe6 25. Qxe6 fxe6 {El final es ventajoso para
+las blancas, pero ganarlo no es trivial. Las piezas negras lucen activas y su
+peón pasado les da contrajuego.} 26. Be5 c4 27. Rc2 {Bronstein prefiere aquí 27.
+Bd4, a fin de evitar la maniobra ... Nc5-... Nd3.} 27... Nc5 28. Rb1 Kf7 29. Bd4
+Rd7 30. Rcb2 {La textual permiet ... e5. Mejor era activar el rey por f1.} 30...
+e5 {No se puede capturar por 31. ... Nd3, recuperando la calidad con mejor
+posición. Ahora las negras han ganado mucho espacio y dan paso a su rey,
+acercándose a un final igualado.} 31. Bxc5 Bxc5 32. Rc2 Rc7 33. e4 {Impidiendo
+... d4. La idea es acabar cazando el peón de c4 poniendo sus torres en la
+columna c.} 33... Ke6 34. Kf1 Bd4 35. f3 c3 36. Ke2 Rf7 {Ganando actividad por
+la columna f.} 37. Rf1 Kd6 38. Kd3 Kc5 39. Re2 Rb7 40. f4 dxe4+ 41. Rxe4 {41.
+Kxe4 Kc5 42. fxe5 Bxe5!, aprovechando que no se puede 43. Kxe5 por 43. ...
+Re7+.} 41... Rd7 42. Kc2 Kd5 43. Rfe1 Rb7 44. Kc1 {44. fxe5 era peligrosa: 44.
+... Rb2+ 45. Kc1 Rxa2 46. e6 Kc4 47. Kb1 Rb2+ 48. Ka1 Kb3. Las blancas pueden
+mejorar la variante con 47. R1e2, pero las negras también tienen la variante 45.
+... Bf2 46. R1e2 Bc5 en lugar de ... Rxa2 y la partida está igualada.} 44... Rb2
+45. R4e2 e4 46. Rxe4 Rxa2 47. g4 Rg2 48. f5 gxf5 49. gxf5 Rf2 50. Re7 Kc4 51.
+R1e4 Kd3 52. Rxd4+ {Necesario dar la calidad por las amenazas de mate.} 52...
+Kxd4 53. Rxh7 a5 54. Rd7+ Ke4 55. h5 Rxf5 56. h6 Rh5 {Y tablas.} 1/2-1/2

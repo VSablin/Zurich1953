@@ -1,0 +1,66 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Bronstein"]
+[Black "Stahlberg"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 Be7 7. e3 c6 8. Qc2
+Nf8 9. Bd3 Ne6 10. h4 {Preparación de Bronstein en esta línea del gambito de
+dama declinado, en la que las negras llevan un caballo a e6. Si 10. ... g6,
+entonces 11. Bxf6 Bxf6 12. h5 y el ataque llega muy rápido. Si 10. ... h6,
+entonces 11. Bxf6 Bxf6 12. g4, seguido de 0-0-0 y g5, con fuerte ataque
+también.} 10... h6 11. Bxf6 Bxf6 12. O-O-O {De haber seguido aquí con 12. g4,
+tal y como tenía planeado, entonces 12. ... Nc7 sería bastante fuerte, ya que el
+peón de g4 queda tocado por el alfil de c8 y no es evidente cómo seguir con el
+avance de los peones del ala de rey, que ahora serán más debilidades que otra
+cosa. Bronstein indica que el ataque ya no va a ninguna aparte y que tendría que
+haber tratado de buscar ventajas posicionales, por ejemplo con 13. Bf5.} 12...
+Nc7 13. h5 Bg4 14. Kb1 O-O {Jugada arriesgada, pero correcta. Stahlberg ha
+calculado que puede abrir la columna c antes de que el peón de g blanco avance
+hasta g5. En otras palabras, su ataque llega antes.} 15. Ne2 Nb5 16. Ne5 Bxe5
+17. dxe5 Qb6 {Se decanta Bronstein aquí por  17. ... a6. Y, contra 18. Bxb5,
+entonces se retoma de peón ed a, 18. ... axb5, quedando la columna a abierta
+para organizar un ataque, unido al avanzado peón de b5.} 18. Bxb5 Qxb5 19. f3
+Bf5 20. Qxf5 Qxe2 21. Rhe1 {Preguntando a la dama negra si quiere permanecer en
+campo blanco y, en caso negativo, avanzar el peón de g, con fuertes amenazas.}
+21... Qf2 {Parece que la dama queda atrapada tras 22. Qg4 f5 23. exf6 Rxf6 24.
+f4, con amenaza de 25. Re2, pero viene 24. ... Re8 25. Re2 Rxf4!, aprovechando
+la clavada sobre la torre de e2. En todas las variantes las negras ganan un
+peón.} 22. Qg4 {Con idea de crear un peón pasado en el flanco de rey. Otra idea
+era jugar con 22. g4, tratando de montar un ataque, pero es demasiado
+aventurado.} 22... f5 23. Qh3 Rad8 24. f4 d4 {Con idea de que la dama negra
+vuelva a jugar.} 25. exd4 Qxf4 26. Qb3+ Rf7 27. d5 cxd5 28. e6 {Otra opción era
+28. Rxd5 Rxd5 29. Qxd5 Qh4 y las blancas tendrán que quitar su torre de la
+columna e. La textual cambia por completo el juego. Una de las ideas es ganar la
+casilla e5 para la dama.} 28... Re7 29. Rxd5 Rxd5 30. Qxd5 Qh4 31. Qe5 Qxh5 32.
+Qb8+ Kh7 33. Qd6 {No 33. Qf8? por 33. ... Rxe6! y no se puede tomar en e6 por
+34. ... Qd1#.} 33... Qg5 34. g3 Qf6 35. a3 h5 36. Ka2 g5 37. Qd5 Kg6 38. Qd8
+{Las negras están mejor. El peón de e6, si bien ata a las piezas negras, también
+inmoviliza a las blancas. Mientras tanto, las negras pueden crear un peón pasado
+a placer en el ala de rey. El plan blanco debe pasar por proteger su peón de
+e6... ¡con el rey! La idea es llevarlo hasta d5 por b3-c4.Lo cierto es que,
+sorprendentemente, el rey estaría bien en d5, principalmente por el hecho de que
+la torre y la dama negras están atadas al peón de e6.} 38... Kg7 39. Qd6 Kg6 40.
+Qd8 Kh6 {A diferencia del rey blanco, su homólogo no se puede activar.} 41. Qd5
+f4 {Los peones pasados negros compensan el peón de e6 de sobra.} 42. gxf4 Qxf4
+43. Re5 Qf6 44. Qe4 b5! {Con idea de evitar a4 y tener un punto de apoyo en c4
+para su dama y forzar el cambio de damas. Y, de jugarse a4, las negras quedarán
+con dos peones de más. Finalmente, si 45. Rxb5, entonces cae el peón de e6.} 45.
+Qe2 a6 46. a4 bxa4 47. Qe3 h4 {Si 47. ... Qf4, entonces las blancas juegan 48.
+Qc5, ganando un tiempo sobre la torre. Esto explica el 46. a4: gracias a que el
+peón de b5 ya no existe, no es posible 48. ... Qc4+, forzando el cambio de
+damas, con un final ganado para las negras.} 48. Re4 Kg6 49. Qe2 h3 50. Re3 Kg7
+51. Qh2 Rb7 52. Qe2 Re7 53. Qh2 a3 {Tomar aquí de peón deja al rey muy expuesto,
+mientras que tomar de rey tampoco parece mejor, siendo vulnerable a jaques por
+la diagonal a3-f8 y posibles ataques de mate por la columna a. Sin embargo,
+Bronstein se decide a tomar de rey. Decir que era posible 52. ... Kf8! y las
+blancas quedaban en Zugzwang: 53. Rxh3 Rxb2+! 54. Qxxb2 Qxe6+ y 55. ... Qxh3. El
+módulo da igualdad, pero parece difícil aguantar eso con blancas...} 54. Kxa3
+Rxe6 55. Qc7+ Qf7 56. Qc3+ {Y ahora las blancas encuentran defensa. Tras la
+captura de e6, el rey negro ha quedado más expuesto, lo cual hace muy difícil
+progresar.} 56... Rf6 57. Rxh3 Qe7+ 58. Ka2 Qe6+ 59. Ka1 Kg8 60. Rh1 Qc6 61. Qh3
+{Las piezas blancas son ahora muy activas, lo cual hace que Stahlberg no vea
+otra opción que buscar tablas por jaque perpetuo.} 61... Qa4+ 62. Kb1 Qe4+ 63.
+Ka1 {Y tablas.} 1/2-1/2
