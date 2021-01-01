@@ -63,8 +63,10 @@ The best games are, in my opinion:
 * Round 20:
 	* Taimanov-Petrosian.
 	* Geller-Kotov.
-* Rounda 21:
+* Round 21:
 	* Averbaj-Taimanov.
+* Round 24:
+	* Keres-Smyslov.
 
 ## WARNING!
 
