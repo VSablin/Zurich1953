@@ -1,0 +1,61 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Reshevsky"]
+[Black "Geller"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+a3 Bxc3+ 9. Qxc3 {La posición queda aparentemente muy seca y simétrica ya en la
+apertura. Sin embargo, Reshevsky tiene su idea. El peón central de las negras
+está en casilla blanca, lo cual causará que sea reforzado desde casilla blanca.
+Esto hace que las casillas anteriores a estos peones sean negras, lo cual hace
+que las blancas puedan situar en una de estas casillas un fuerte caballo que no
+podrá ser cambiado por un alfil; notar que las negras no pueden hacer lo propio.
+Además, ante la futura ... c6, las negras pueden lanzar un ataque de minorías en
+el flanco de dama. por su parte, las negras pueden tratar de montar un ataque en
+el flanco de rey, pero no está claro cómo hacerlo.} 9... O-O 10. e3 c6 11. Ne2
+Bf5 12. Nf4 Nd7 13. Be2 Rfe8 14. O-O Nf8 15. b4 Ne6 16. Nh5 {Reshevsky rehuye
+del cambio de caballos con acierto; de lo contrario, su ataque de minorías no
+funcionaría: 16. Nxe6 Rxe6 17. b5 Qg5 18. bxc6 Rxc6 19. Qb3 Bh3 20. Bf3 Bxg2! y
+el flanco de dama se mantiene, mientras que el enroque blanco se desmorona.}
+16... Qg6 17. Ng3 Rac8 18. Rac1 Ng5 {Era mejor 18. ... a6, con idea de forzar
+a4-b5 para poder hacer el ataque de minorías y que se cambie el máximo número
+posible de peones: cuantos menos peones queden en el ala de dama, menos
+debilidades podrá generar el ataque de minorías.} 19. b5 {si 19. ... cxb5,
+entonces 20. Qb3 y las blancas recuperan el peón y, a buen seguro, ganan otro
+peón.} 19... Ne4 20. Qa5 {Tocando en a7. De haber jugado ... a6, esta incursión
+vendría con menos fuerza.} 20... c5! {Geller, sabedor de que ponerse a la
+defensiva no le dará nada y de que todavía no tiene ataque en el ala de rey,
+reacciona sacrificando un peón, incluso dejando a las blancas con dos peones
+pasados y ligados, con idea de crear contrajuego con su avanzado peón de c. Por
+ejemplo, contra 21. Qxa7 vendría 21. ... c4.} 21. Nxf5 Qxf5 22. dxc5 b6 23. Qxa7
+{No 23. cxb6?? por 23. ... Rxc1 24. Rxc1 Qxf2+.} 23... bxc5 24. Bd3 c4 25. Bxe4
+Qxe4 26. Rfd1 c3 27. Qd4 {Reshevsky se apresura a cambiar damas para evitar el
+avance de los peones negros. Más fuerte era 27. b6 o 27. Rd4. Por ejemplo, 27.
+b6 c2 28. Rf1, pero no 28. Re1? d4!} 27... Rc4 28. Qxd5 c2 29. Rd2 Qxd5 30. Rxd5
+Ra8 31. b6 {Geller omite una combinación salvadora, basada en la debilidad de la
+primera fila: 31. ... Rxa3 32. b7 Rb4 33. Rd8+ Kh7 34. b8Q Rxb8 35. Rxb8 Rd3 36.
+Rf1 Rc3! y las blancas no tienen nada mejor que entrar en un final de cuatro
+peones contra tres en un mismo flanco con una torre por bando, que suelen
+devenir en tablas.} 31... Rb8 32. Rd6 Ra4 33. Rxc2 Rxa3 34. h3 Rb3 35. Rcc6 Rb2
+36. e4 h5 37. e5 h4 38. Rd4 {Pequeña imprecisión, pese a que las blancas
+mantienen ventaja. No parece buena ide cambiar el peón de b6, cercano a la
+coronación, por el de h4. Tratar de doblar torres en séptima parece posible: 38.
+e6 f6 39. Rc7 R2xb6 40. Rdd7.} 38... R2xb6 39. Rxb6 Rxb6 40. Rxh4 {No siempre se
+ganan los finales de una torre con bando con dos peones de más. Por ejemplo, con
+peón de alfil y torre, no se gana. Igualmente, si se pueden bloquear los peones,
+tampoco se gana. Esa es la esperanza de Geller.} 40... Rb1+ 41. Kh2 Re1 42. f4
+Re3 43. Rg4 Kh7 44. Rg3 Re2 45. h4 Re4 46. Rf3 f6 47. exf6 gxf6 48. Kg3 {Mejor
+era 48. g4, impidiendo la bloqueadora 48. ... f5.} 48... Kg6 49. Ra3 f5 {Geller
+ha activado sus piezas y dificulta la progresión de los peones blancos. Sin
+embargo, las blancas siguen con ventaja decisiva. Bronstein indica que 50. Ra8
+ganaba sin problema.} 50. Ra6+ Kh5 51. Rf6 {Sorprendentemente, esto es otra
+imprecisión que desemboca en un final de tablas. En breves veremos por qué. Aún
+era posible 51. Ra8, ganando.} 51... Re3+ 52. Kf2 Ra3 53. g3 {53. Rxf5+ Kxh4
+lleva a tablas..} 53... Rf3+! {¡El rey está ahogado así que no se puede tomar la
+torre! Lo mismo pasa si 54. Kg2 Rxg3+! Esto no pasaría si la torre blanca no
+estuviera restringiendo tanto la posición del rey negro. El rey blanco escapa
+por la columna e, pero esto no cambia el desenlace.} 54. Ke2 Rxg3 55. Rxf5+ Kxh4
+56. Kf2 Ra3 57. Rg5 Rb3 58. Rg1 Kh5 59. Ke2 Ra3 60. f5 Ra5 {Y tablas.} 1/2-1/2

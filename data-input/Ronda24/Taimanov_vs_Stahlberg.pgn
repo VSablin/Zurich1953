@@ -1,0 +1,47 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Taimanov"]
+[Black "Stahlberg"]
+[Result "1-0"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. O-O Bd6
+{Esta jugada y la posterior ... Qe7 preparan ... e5. Es por esto que 6. ... a6
+debe considerarse una pérdida de tiempo.} 8. d4 O-O 9. Rd1 Qe7 10. Qc2 Rb8
+{Imprecisión. La idea es jugar ... b5, pero esto debilitará al peón de c, que
+acabará cayendo. Debería haberse jugado10. ... e5 y, contra 11. dxe5, entonces
+11. ... Nxe5 12. Nxe5 y las negras deben retomar de alfil, no de dama.} 11. Nc3
+b5 12. e4 b4 13. Na4 e5 14. dxe5 Nxe5 15. Nxe5 Qxe5 16. Bf4 Qa5 17. Rxd6 cxd6
+18. Bxd6 Be6 19. Bxf8 Rxf8 20. b3 Rc8 21. Qd2 Bd7 22. Nb2 Be6 23. Nd3 Bxb3 24.
+Qxb4 Qxb4 25. Nxb4 Bc4 26. e5 Nd7 27. f4 {Con idea, no de defender en e5, sino
+de activar el rey por f2 hasta d4. Puede verse que no hacía falta defender en e5
+en la siguiente variante: 27. Rc1 Nxe5? 28. Nc6! Nxc6 29. Rxc4 Ne7 30. Rxc8+
+Nxc8 31. Bb7 Nb6 32. Bxa6.} 27... g6 28. Rd1 Nb6 29. Rd6 {Mejor era la simple
+29. Bb7 para ganar un segundo peón. Ahora se cambiarán los peones de a y
+Taimanov tendrá que buscar la victoria en un largo final de caballos.} 29... Na4
+30. a3 Rb8 31. Bd5 Bxd5 32. Rxd5 {Mejor era tomar de caballo.} 32... Nb6 33. Ra5
+{33. Rc5 restringiría la actividad del caballo.} 33... Nc4 34. Rxa6 Nxa3 35. Nd5
+Nc2 36. Ra4 Kg7 37. Rc4 Rd8 38. Nf6 Ne3 39. Rc3 Nf5 40. Rc7 h5 {Las negras no
+tienen contrajuego. La textual tiene como idea reforzar su caballo.} 41. Ne4 Re8
+42. Kf2 Re7 {Stahlberg tenía como esperanza cambiar caballos para llegar a un
+final de cuatro contra tres peones en un flanco con una torre por bando, que es
+bien sabido que lleva a las tablas. Sucumbe al cambio por las amenazas contra
+f7. Con caballos es otra historia.} 43. Rxe7 Nxe7 44. Kf3 Kf8 45. Nd6 Nc6 46.
+Ke4 Ke7 47. f5 Nb4 48. f6+ Kf8 {La sugerente 48. ... Ke6, con idea de bloquear
+los peones, no funciona por 49. Nb7, que amenza a la vez 50. Nc5# y 50. Nd8+,
+ganando un segundo peón.} 49. Nb7 Na6 50. Kd5 Nc7+ 51. Kd6 Nb5+ 52. Kd7 Nd4 53.
+Nc5 Nf5 54. Kd8 {Hay un dicho en ajedrez que dice que, cuando un rey llega a la
+última fila, el bando rival recupera al menos un peón. Bronstein dice que esto
+carece de fundamento y se demuestra en la presente partida.} 54... Nd4 55. Nd7+
+{Las blancas van a encontrar el plan ganador en las próximas jugadas, forzando
+al rey a retirarse.} 55... Kg8 56. Ke8 Ne6 57. Ke7 g5 {Las negras van a quedar
+en Zugzwang: eñ rey queda atado a la defensa de f7 y el caballo tiene que parar
+el avance e6.} 58. Ke8 Nc7+ 59. Kd8 Ne6+ 60. Ke7 Nd4 61. Nc5 {Y aquí está el
+Zugzwang: no se puede parar el avance e6.} 61... Nc6+ 62. Kd6 Na5 63. e6 fxe6
+64. Ke7 {Evidente y contundente golpe. Stahlberg, sin embargo, encontrará
+recursos defensivos para dificultar la victoria rival.} 64... Nc6+ 65. Ke8 Ne5
+66. Nxe6 Nf7 67. Ke7 g4 68. Ng7 Nh6 69. Nxh5 Nf5+ 70. Ke8 Nd6+ 71. Kd7 Nf5 72.
+Ng7! Nh6 {El final de peones estaba perdido.} 73. Ke7 Nf7 74. Nf5 {Y Stahlberg
+se rindió, ya que ya no puede frenar por más tiempo el avance del peón de f.}
+1-0

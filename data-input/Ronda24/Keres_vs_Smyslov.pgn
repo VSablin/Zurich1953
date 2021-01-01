@@ -1,0 +1,50 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Keres"]
+[Black "Smyslov"]
+[Result "0-1"]
+
+{Situado a medio punto de Smyslov, Keres salió a arriegar en esta partida. Lanzó
+un anómalo ataque de flanco con sus torres. En particular, veremos un sacrificio
+de torre por nada en la jugada 19.} 1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. e3 Be7 5.
+b3 O-O 6. Bb2 b6 7. d4 cxd4 8. exd4 d5 9. Bd3 Nc6 10. O-O Bb7 11. Rc1 {A 11.
+Qe2, las negras pueden tratar ganar un peón: 11. ... Nb4 12. Bb1 dxc4 13. bxc4
+Bxf3 y 14. ... Qxd4.} 11... Rc8 12. Re1 Nb4 13. Bf1 Ne4 14. a3 Nxc3 15. Rxc3
+{Keres empieza con su plan de llevar las torres al flanco de rey. Sin embargo,
+también es cierto que 15. Bxc3 era floja por 15. ... Na2, ganando la pareja de
+alfiles en una posición que se va a abrir.} 15... Nc6 16. Ne5 Nxe5 17. Rxe5
+{Ambas torres pueden pasar ya al flanco de rey.} 17... Bf6 18. Rh5 g6 {Las
+blancas ya generaban ciertas amenazas. De no jugarse la textual, podría venir
+19. Rxh7 Kxh7 20. Qh5+ Kg8 21. Rh3 Bh4 22. Rxh4 f5 23. Qh7+ con un ataque
+demoledor.} 19. Rch3 {A esto nos referíamos con el sacrificio \"por nada\": la
+torre no fuerza ser tomada, sino que se ofrece en sacrificio. Smyslov consideró
+tomarla, pero no terminó de ver todas las variantes, así que decidió optar por
+otra línea.} 19... dxc4 {Smyslov encuentra la mejor jugada, que no era para nada
+trivial. Las razones por las que esta jugada es tan buena son las siguientes: el
+alfil de b7 cobra mucha actividad, pudiendo por ejemplo pasar a f5 o g6 por e4;
+la columna d queda semiabierta para las negras y la casilla d5 queda disponible
+para sus piezas, pudiendo centralizar su dama en tal casilla amenazando mate en
+g2 o, simplemente, tomando en d4 llegado el momento; teniendo en cuenta que la
+torre de h5 sigue atacada, el peón de c puede quedar pasado, cerrando además la
+diagonal del alfil de b2 (notar que 20. bxc3 gxh5 21. Qxh5 Re8 y el rey escapa
+del ataque blanco, quedando las negras con mucho material de más. Queda ver
+ahora qué habría pasado si Smyslov hubiera aceptado la torre. Parece que el rey
+también escapa tras 19. ... gxh5 20. Qxh5 Re8, pero las blancas disponían del
+golpe 21. a4!, activando el alfil de casillas negras por a3. Por ejemplo: 1) 21.
+... dxc4 22. Qxh7+ Kf8 23. Ba3+ Re7 24. Rg3 o 2) 21. ...Qd6 22. c5 y ahora 2.1)
+22. ... bxc5 23. Qh6 Bg7 24. Qxh7+ Kf8 25. dxc5 o 2.2) 22. ... Qd8 23. c6 Rxc6
+24. Ba3 Rd6 25. Qh6 Bxd4 26. Bd3 o 2.3) 22. ... Qf4 23, Qxh7+ Kf8 24. Ba3 bxc5
+25. Bxc5+ Re7 26. Rg3 Ke8 27. Bb5+. Si bien en alguna de las variantes hay
+defensa, lo cierto es que la posición del rey es muy delicada.} 20. Rxh7
+{Bronstein argumenta que Keres podría haber sacado unas tablas de haber jugado
+20. Qg4 c3 21. Bxc3 Rxc3 22. Rxc3 Qxd4 23. Qxd4 Bxd4 24. Rc7 gxh5 25. Rxb7, pero
+su idea no era buscar las tablas cuando empezó su ataque...} 20... c3 {No se
+puede tomar, puesto que la torre de h3 está sobrecargada, y escapar a c1 no
+parece buena por 21. ... Qxd4. Keres encuentra la mejor respuesta.} 21. Qc1 Qxd4
+{Tomar el alfil era suicida: 21. ... cxb2 22. Qh6 Qxd4 23. Rh8+ Bxh8 24. Qh7#.}
+22. Qh6 Rfd8 23. Bc1 Bg7 24. Qg5 Qf6 25. Qg4 c2 26. Be2 Rd4 {Smyslov fuerza f4
+con idea de abrir la diagonal g1-a7 para dar jaques.} 27. f4 Rd1+ 28. Bxd1 Qd4+
+{Y Keres se rindió, puesto que la posición está perdida: el alfil de d1 caerá y
+el peón de c2 va a coronar. Además, habrá mate en pocas.} 0-1
