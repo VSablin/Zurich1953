@@ -1,0 +1,45 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Geller"]
+[Black "Keres"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 {Geller
+plantea esta agresiva variante contra la defensa que Keres había preparado
+contra el gambito de dama para este torneo. De tomar en e4, vendría el cambio de
+damas seguid de Ng5, con cierta iniciativa blanca.} 7... Nc6 8. Bb5 Nxe4 9. O-O
+{Geller da un peón. No se apresura en recuperarlo, sino que acelera su
+desarrollo para atacar al rey rival.} 9... Nf6 {Cambiar caballos en c3 no vale
+porque, tras los cambios, el peón de g7 quedaría amenazado por la dama, lo cual
+ataría al alfil de f8 a su defensa, por lo que el enroque corto sería imposible.
+El principal problema de la posición negra es el hecho de que su rey está muy
+expuesto y las piezas blancas ya están muy bien desarrolladas.} 10. Re1+ Be7 11.
+Qe5 {La jugada parece muy fuerte, ya que el enroque parece imposible. Si 11. ...
+B6, entonces 12. Nd4 vendría con mucha fuerza. Sin embargo, Keres... ¡se enroca!
+Por temas tácticos que ahora veremos, el enroque sí que es posible. Lo mejor era
+11. Bxc6+ bxc6 12. Qe5 y ahora el rey quedaría en el centro indefinidamente. Las
+amenzas b3-Ba3 vendrían con mucha fuerza, así como Nd4. El rey acabaría viéndose
+forzado a ir a f8, quedando las negras en una situación muy delicada.} 11... O-O
+{La idea de Geller era 12. Bxc6 bxc6? 13. Qxe7, pero Keres tenía 12. ... Bd6!,
+ganando un tiempo sobre la dama, tras lo cual vendría 13. ... bxc6. El ataque
+blanco se esfuma y las negras quedan con peón de más.} 12. Qe2 Re8 13. Bg5 Bg4
+14. Rad1 h6 15. Bh4 {Se podía recuperar el peón con 15. Bxf6 Bxf6 16. Qxe8+ Rxe8
+17. Rxe8+ Rxe8 18. Rxd5. Sin embargo, el final sería casi desesperado para las
+blancas, principalmente porque la pareja de alfiles sería mucho más fuerte que
+el par de caballos en una posición tan abierta. En particular, los peones del
+ala de dama blancos acabarían cayendo tardeo temprano.} 15... Ne4 {Más motivos
+tácticos. Si 16. Bxe7, entonces 16. ... Nxc3 17. Bxd8 Nxe2+ 18. Rxe2 Rxe2 19.
+Bxe2 Rxd8 y la posición se simplifica muchísimo, conservando las negras su peón
+de más. Si 16. Bxc6, entonces 16. ... bxc6 refuerza d5. Si 16. Rxd5, entonces
+16. ... Nxc3 también simplifica mucho la posición y las negras ganan calidad.}
+16. Bg3 Nxc3 17. bxc3 Bf6 18. Qxe8+ Qxe8 19. Rxe8+ Rxe8 20. Rxd5 {La posición se
+simplifica y las blancas recuperan su peón, pero están mucho peor: la estructura
+de peones blancos es más débil que la de las negras y las piezas negras están
+mucho mejor dispuestas.} 20... Rc8 21. Rd3 {Imprecisión de Geller, aunque estaba
+igualmente perdido. Si 21. Rc5, entonces 21. ... Be7 22. Rc4 Be6 23. Ra4 a6 y
+las piezas blancas quedan sin contrajuego alguno.} 21... Nb4 {Aprovechando el
+mate en la primera fila.} 22. Re3 Nxa2 23. h3 Bxf3 24. gxf3 Nxc3 25. Bd7 Rd8 26.
+Bf5 g6 27. Bd3 Nd1 {Y Geller se rindió, ya que va a perder todavía más
+material.} 0-1

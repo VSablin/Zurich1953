@@ -1,0 +1,44 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Stahlberg"]
+[Black "Gligoric"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 c5 7. h3 {Esta aparente
+pérdida de tiempo busca desarrollar el alfil de dama por e3 sin preocuparse por
+... Ng4.} 7... Nc6 8. Nc3 Bd7 {Era posible 8. ... cxd4 9. Nxd4 Nxd4 10. Qxd4
+Be6. Si 11. Bxb7, entonces 11. ... Bxh3.} 9. dxc5 dxc5 {Comenta Bronstein que
+este cambio debería haberse efectuado antes, en la séptima jugada.} 10. Be3 Qc8
+11. Kh2 Rd8 12. Qc1 {Quitándose de los rayos X de la torre de d8. Si 12. Bxc5,
+entonces 12. ... Bxh3 13. Bxh3 Rxd1 14. Bxc8 Rxa1 15. Rxa1 Rxc8 y el final es
+favorable para las negras.} 12... Nd4 13. Rd1 Bc6 14. Ne1 {Imprecisión de
+Stahlberg. Era mejor buscar algunos cambios antes: 14. Nxd4 cxd4 15. Rxd4 Rxd4
+16. Bxd4, con una cómoda posición. Ahora el juego entrará en unas complicaciones
+que no le benefician.} 14... b6 15. Bg5 Bxg2 16. Nxg2 Qe6! {Sutil jugada que
+lleva a la ganancia de un peón. Podemos ilustrarlo con algunas variantes: 17.
+Qe3 Qxc4 18. Qxe7 Rd7 19. Qe3 Re8 y las blancas están en una posición
+desesperada, o 17. Ne3 Ne4 y el alfil puede quedar atrapado.} 17. Ne3 Ne4 18.
+Nxe4 Qxe4 19. Nd5 {Las piezas mayores blancas están desactivadas, sus peones son
+débiles y/o pasivos y su alfil está casi atrapado en campo blanco, de ahí que
+las blancas busquen algo de actividad con su caballo.} 19... Qxe2 20. Qe3 {El
+aparentemente bueno jaque en e7 daría incluso más quebraderos de cabeza a
+Stahlberg: 20. Nxe7+ Kf8 21. Qe3 Qxe3 22. fxe3 Nf3+ o 21. Nxg6+ hxg6 22. Bxd8
+Qxf2+.} 20... Qxe3 21. Bxe3 e6 22. Bxd4 Bxd4 23. Ne7+ Kf8 24. Nc6 Rd6 25. Nxd4
+Rxd4 26. Rxd4 cxd4 27. Rd1 e5 {Un peón pasado y apoyado es suficiente para
+ganar, más aún si tenemos en cuenta que las negras pueden acabar teniendo dos
+peones pasados y ligados en el centro. Es por esto que lo que queda es cuestión
+de técnica. Gligoric llevará su rey al centro, movilizará sus peones del ala de
+rey para crear el segundo peón pasado y avanzará sus peones pasados con el apoyo
+de su torre, forzando a Stahlberg a hincar la rodilla.} 28. Kg2 Ke7 29. f4 f6
+30. Kf3 Ke6 31. Rc1 Rd8 32. fxe5 fxe5 33. Ke4 {Stahlberg logra complicar el
+final al bloquear los peones de forma indefinida. Es por esto que Gligoric
+deberá penetrar en campo blanco con su torre para ganar. Esto no es trivial, ya
+que las blancas amenazan con avanzar su peón de c apoyado por su torre. Sin
+embargo, la incapacidad de las piezas blancas de maniobrar con su torre y las
+amenazas negras de penetrar en sexta y séptima filas generando amenazas de mate
+serán suficiente para ganar.} 33... Rc8 34. a3 a5 35. b3 Rf8 36. c5 Rc8 {Si 37.
+cxb6 Rxc1!!; el peón parece que corona con 38. b7, pero vendría 38. ... Rc3 y no
+se puede parar 39. ... Re3#.} 37. b4 bxc5 38. Rc4 Kd6 39. b5 Rb8 40. a4 Rf8 41.
+Rc1 Rf2 42. Rb1 c4 {Y Stahlberg se rindió.} 0-1

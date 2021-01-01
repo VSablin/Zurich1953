@@ -1,0 +1,52 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Szabo"]
+[Black "Najdorf"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. a3 Bxc3+ 7. bxc3 b6 8. cxd5
+exd5 9. Bd3 c5 10. O-O Nc6 11. a4 {Najdorf ha evitado la temática e4 de la
+nimzoindia. Tras la textual, Najdorf se apresura a cerrar el centro y ocupar e4
+con un caballo, invitando a las negras a devolver la pareja de alfiles o a tener
+que preocuparse por la presión en c3.} 11... c4 12. Bc2 Ne4 {Aquí se había
+intentado 12. ... Bg4, en la partida entre Taimanov y Botvinnik del 20º
+Campeonato de la URSS. Taimanov respondió 13. Qe1!, evaluando con acierto que el
+doblaje de peones no era un problema en la posición.} 13. Qe1 {Ahora las negras
+se apoderan de e4. Mejor era 13. Bxe4 dxe4 14. Nd2, con idea de jugar f3 para
+abrir la columna f para la torre de f1 y pasar con la dama al ataque por g3.}
+13... Re8 14. Bb2 Bf5 15. Nd2 Qg5 {Las negras están mejor, gracias a su mayor
+actividad. Nótese que sus piezas empiezan a acumularse por el flanco de rey,
+mientras que las blancas no pueden maniobrar con facilidad para acudir a la
+defensa de su rey.} 16. Nxe4 Bxe4 {Bronstein se inclina aquí por 16. ... dxe4,
+con idea de impedir para siempre f3 (nótese que esto debilitaría mucho e3; de
+hecho, ahora mismo eso supondría perder un peón, ya que tanto dama como torre
+apuntan a tal punto) y dejar a la pareja de alfiles blancos fuera de juego de
+forma indefinida. Las negras tendrían temas de ataque, como comentábamos en el
+anterior punto. Por ejemplo, 17. Qd2 Bg4 (amenazando ... Bf3) 18. Kh1 Re6 19,
+Bd1 Rh6 20. Bxg4 Qxg4 21. f3 Qg3 22. h3 exf3 23. Rxf3 Rxh3+.} 17. Bxe4 Rxe4 18.
+Ba3 Rg4 19. g3 Re4 20. Rb1 Rae8 21. Rb5 Qd8 22. Qe2 a6 23. Rb2 Na5 24. Rfb1 R4e6
+{Era posible 24. ... Nb3, tras lo cual las blancas darían la calidad: 25. Rxb3
+cxb3 26. Qxa6 y las blancas tienen dos peones por la calidad y la partida
+estaría más o menos igualada. Najdorf retrasa ... Nb3 hasta que la dama blanca
+deje de apuntar por rayos X a a6.} 25. Kg2 h6 26. Qh5 Nb3 27. Re2 Qd7 28. Bb2
+Kh7 29. h3 g6 30. Qf3 Re4 31. g4 f5 {Se decanta Bronstein aquí por 31. ... Kg7,
+defendiendo su peón de f, que es el eslabón más débil de la posición negra, así
+como la casilla f6, por donde las piezas blancas podrían tratar de penetrar. En
+tal caso, las negras podrían cargar sobre el peón de a4, que acabaría cayendo
+fácilmente, y la victoria negra sería casi segura.} 32. gxf5 gxf5 33. Rg1 Rg8+
+34. Kh1 Rxg1+ 35. Kxg1 Re7 36. Kh1 Qe6 37. Qf4 Rg7 {Mejor era forzar el cambio
+de damas en e4 y después movilizar los peones del flanco de dama para crear un
+peón pasado.} 38. Kh2 Qg6 {La posición blanca parece desesperada, ya que solo
+Qg3 para el mate y después habrá un ataque doble sobre dama y torre. Sin
+embargo, hay defensa.} 39. Qg3 Qh5 40. Qf4 {Si las negras aceptan la torre, hay
+jaque perpetuo.} 40... Qg6 41. Qg3 Qe8 42. Qf4 Qe4 43. f3 {[%cal
+de4f4,de3f4,dh7g8,de2e5,db3d2][%c_arrow
+e4f4;from;e4;to;f4,e3f4;from;e3;to;f4,h7g8;from;h7;to;g8,e2e5;from;e2;to;e5,b3d2;from;b3;to;d2]}
+43... Qd3 44. Rg2 {Y se firmaron las tablas. Tras el cambio de torres, las
+negras ganan el alfil, pero no la partida por el jaque perpetuo. Tampoco servía
+43. ... Qb1 por la misma razón. Podrían haber intentado 43. ... Qxf4+ 44. exf4
+Kg8 45. Re5 no resultaría por 45. ... Nd2!, amenazando mate en dos jugadas. Las
+negras podían trasladar a su rey al ala de dama y tratar de ganar por ahí.}
+1/2-1/2

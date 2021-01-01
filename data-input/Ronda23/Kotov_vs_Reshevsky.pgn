@@ -1,0 +1,59 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Kotov"]
+[Black "Reshevsky"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. Nc3 d5 8. Qe2
+Nbd7 9. b3 a6 {Jugada demasiado tranquila. Las blancas pretenden abriri la
+posición con e4, contra lo cual era mejor 9. ... Bb4 10. Bb2 Bxc3 11. Bxc3 dxc4
+12. bxc4 c5 o 12. ... Be4.} 10. Bb2 Bd6 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 Bxe4
+14. Qxe4 {Las blancas han quedado con más espacio y controlan muchas líneas
+importantes de la posición, lo que les permite reagruparse con facilidad. El
+hecho de que su alfil de casillas negras esté en la diagonal a1-h8 hace tentador
+tratar de presionar en g7, por ejemplo con una torre en g3. Sin embargo, deben
+estar atentas ante las liberadoras ... e5 o ... c5.} 14... Qe7 15. Rae1 Rfe8 16.
+Re2 a5 17. Rfe1 Bb4 18. Rd1 Rad8 19. Rd3 f6 20. Rde3 Qf7 21. g3 Bd6 22. Qc6 Nb8
+23. Qb5 Nd7 24. Kg2 Bf8 25. a3 Rc8 26. Qc6 Nb8 27. Qb7 Qd7 28. Qe4 Qf7 {Lento
+juego de maniobras que no ha dado nada a ningún bando. Sin embargo, a la
+siguiente Kotov comete un descuido, lo que da la iniciativa a Reshevsky.} 29.
+Qg4 h5! 30. Qe4 c5! {La secuencia hace que el peón blanco de d vaya a ser
+elimiando, lo cual iguala el juego bastante.} 31. Rd3 Nc6 32. Red2? {Bronstein
+critica fuertemente esta jugada, comentando que la torre queda en una muy mala
+casilla y que era preciso cambiar primero en c5. El módulo, sin embargo, la
+considera buena...} 32... cxd4 33. Nxd4 Ne5 34. Rc3 Rcd8 35. f4 {Jugada muy
+arriesgada. Bronstein comenta que el mejor plan para las blancas era dominar la
+columna d con Rc1 y Rcd1. La textual debilita las diagonales h1-a8 y g1-b7, lo
+cual dará opciones de ataque a las negras.} 35... Ng4 {Se amenaza 36. ... e5,
+por lo que el caballo blanco debe dejar d4.} 36. Nf3 Rxd2+ 37. Nxd2 Rd8
+{Reshevsky le devuelve a Kotov sus favores. Considera que, de cambiarse las
+torres, será muy difícil para las blancas defender sus peones de a y b, pero su
+evaluación no es correcta. Mejor era 37. ... f5 38. Qf3 e5, buscando abrir la
+columna para su torre, 39. h3 e4 o 39. fxe5 Nxe5 40. Qd5 Bc5 y las negras tienen
+sus piezas muy bien dispuestas, mientras que las blancas no tienen contrajuego.
+Decir que las blancas tienen una mejora con 38. Qc6.} 38. Rd3 Rxd3 39. Qxd3 Qb7+
+40. Qe4 Qd7 41. Nf3 Bc5 42. Bd4 Bxd4 43. Nxd4 Kf7 44. h3 f5 45. Qd3 Nf6 46. Nf3
+Qxd3 {Quizás era más prometedora 46. ... Qe7, tocando en a3. Decir que el final
+de caballos que viene es muy interesante.} 47. Ne5+ Ke7 48. Nxd3 Ne4 49. b4 Kd6
+50. Ne5 a4 {50. ... axb4 secaría la posición muchísimo, conduciendo a un final
+de tablas. La idea de Reshevsky es atacar el peón de a3 y coronar con el de a4.
+Kotov encuentra una magistral defensa contra esto.} 51. Kf3 g5 {La posición
+blanca parece crítica ante la amenaza 52. ... Nd2+ 53. Ke3 Nb1 54. Kd3 h4 o 52.
+... g4+ 53. hxg4 hxg4+ 54. Nxg4 Nd2+ 55. Ke2 Nxc4 etc. Kotov encuentra un gran
+recurso contra todo esto.} 52. Ke3 {Abandonando el peón de g3. Veamos varias
+variantes: 1) 52. ... Nc3 53. Kd3 Nb1 54. Kc2 Nxa3+ 55. Kb2 y el caballo cae,
+pero la partida sigue viva: 55. ... h4 56. Kxa3 hxg3; si el caballo se apresura
+a parar los peones del flanco de rey con 57. Nf3?, entonces 57. ... gxf4 y la
+formación de peones en e6-f5-f4-g3 es imparable; sin embargo, Kotov tendría 57.
+Nf7+!, seguido de 58. Nxg5 y Nf3 y el peón negro de g es detenido y acabará
+cayendo. 2) 52. ... Nxg3 53. Nf7+ Ke7 54. Nxg5 y el caballo negro se encuentra
+en una posición delicada. Reshevsky no entra en ninguna de estas líneas,
+encontrando otra forma de presionar en a3.} 52... g4 53. hxg4 hxg4 54. Nxg4 Nc3
+55. Ne5 Nb1 56. Kd3 Nxa3 57. b5 {Ofreciendo un segundo peón por el caballo, lo
+cual parece dar opciones de tablas a Reshevsky. La simple 57. Kc3 puede parecer
+mejor, pero 57. ... b5 lleva a tablas: 58. c5+ Kd5 59. c6 Kd6 60. Kb2 Nc4+ y
+tablas.} 57... Nxb5 58. cxb5 Kc5 59. Nf3 Kxb5 60. Nd4+ Kb4 61. Kc2 e5 62. fxe5
+Kc5 63. e6 Kd6 64. Kc3 b5 65. Kb4 Ke7 66. Kc5 a3 67. Kd5 {Y Reshevsky se
+rindió.} 1-0

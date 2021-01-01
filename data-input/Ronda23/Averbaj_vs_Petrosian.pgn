@@ -1,0 +1,26 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Averbaj"]
+[Black "Petrosian"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. O-O
+Nc6 9. Qd2 d5 {Avance con idea de forzar cambios de piezas y facilitar la
+defensa. No estaba exento de ciertos riesgos tras la siguiente variante: 10.
+Nxc6 bxc6 11. e5 Nd7 12. f4 e6 13. Na4, con cierta ventaja blanca. Contra 11.
+... Ng4, vendría 12. Bxg4 Bxg4 13. f4 y la amenaza Bc5 dejaría a las negras en
+una posición delicada. Averbaj, sin embargo, eligió otra vía.} 10. exd5 Nxd5 11.
+Nxd5 Nxd4 {[%cal de3d4,dd8d5,da1d1][%c_arrow
+e3d4;from;e3;to;d4,d8d5;from;d8;to;d5,a1d1;from;a1;to;d1]} 12. c4 {Más
+interesante era según Bronstein 12. Bxd4 Qxd5 13. Rad1. Tras la textual, era
+posible 12. ... Nxe2+ 13. Qxe2 e6 14. Nc3. Pese a quedar las negras con la
+pareja de alfiles, las blancas tendrían un interesante tres contra dos en el
+flanco de dama y un mayor control de las casillas centrales.} 12... e5 13. f4
+Be6 14. fxe5 Nxe2+ 15. Qxe2 Bxd5 16. Rad1 Bxc4 17. Qxc4 Qc8 {Hasta la presente
+jugada, se trata de una reproducción de una partida entre Geller y Averbaj en el
+año 1950. Siguió 18. Qd5 Qe6 19. Qxe6 fxe6 20. Rd7 y Geller no sacó ninguna
+ventaja. Averbaj, en la presente partida con las blancas, encontró una mejora
+con blancas, pero tampoco sacó nada.} 18. Qxc8 Raxc8 19. Rd7 Bxe5 20. Rxb7 Rb8
+21. Rxb8 Rxb8 22. b3 {Y tablas muertas.} 1/2-1/2
