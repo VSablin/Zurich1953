@@ -1,0 +1,76 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Boleslavsky"]
+[Black "Taimanov"]
+[Result "1/2-1/2"]
+
+{Ríos de tinta se han escrito sobre si jugar con blancas da ventaja o no.
+Grandes ajedrecistas del pasado, como Morphy, Chigorin, Pillsbury, Alekhine,
+Fine y Botvinnik, creían que podían darse variantes forzadas desde la apertura
+en las que las blancas sacaban ventaja. El teórico Rauzer acuñó la famosa frase
+\"1. e4 y las blancas ganan\". De este modo, las blancas tenían que jugar de
+forma secuencia las mejores jugadas. Ya en tiempos de Bronstein se sabía que
+esto no era cierto. No existían tales variantes forzadas, sino que las negras
+siempre tienen formas de enfrentarse a ello. Se entiende pues que la ventaja
+blanca, de existir, es de corte estratégico: el hecho de mover primero les hace
+entrar en la posición que prefieren, con los planes del gusto de su conductor.
+Por tanto, las blancas no deben hacer las mejores jugadas (si es que tales
+jugadas existen), sino, simplemente, jugadas buenas. Esto ya lo pensaban otros
+grandes del pasado como Capablanca, Lasker o Smyslov. Lo que sí que está claro
+es que la estadística dictamina que es mejor jugar con blancas y que esta
+ventaja se diluye cuanto mayor es el nivel de la partida. En la presente
+partida, Boleslavsky logró ventaja desde la apertura, llegando a un final
+ganado. Sin embargo, se descuidó y permitió una reacción de Taimanov.} 1. d4 Nf6
+2. c4 e6 3. Nf3 {Primera jugada simplemente buena de Boleslavsyk, considerándose
+mejor 3. Nc3.} 3... b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 {A diferencia
+de en la india de rey, donde las negras permiten e4, aquí tratan de impedirlo
+para que no quede anulado el potente alfil de b7. Empieza pues una lucha por tal
+casilla que ganará Boleslavsky. Además, confinará al alfil de b7 con d5.} 8. Qc2
+Nxc3 9. Qxc3 {Otras dos jugadas simplemente buenas, considerándose mejores 8.
+Bd2 y 9. bxc3. La segunda se ha encontrado típicamente con 9. ... Nc6.} 9... f5
+{Jugada de doble filo. Quizás sea mejor 9. ... Be4.} 10. b3 Bf6 11. Bb2 Nc6
+{Este caballo no está bien ahí, pero usa esta casilla para pasar al flanco de
+rey. Esto da los tiempos necesarios a las blancas para preparar d5, bloqueando
+al alfil de b7.} 12. Rad1 Qe8 13. Qc2 Nd8 14. d5 {No servía 13. ... Ne7 para
+parar el avance, ya que, de hecho, no lo evita: 14. d5 Bxb2 15. Qxb2 exd5 16.
+Ng5 Qg6 17. Nh3 y las blancas están mejor.} 14... Bxb2 15. Qxb2 exd5 {Taimanov
+cambia con buen criterio. De jugar algo pasivo, vendría 16. Nd4, con la
+consiguiente 17. e4 abriendo el centro por completo, aprovechando la mayor
+actividad de sus piezas.} 16. cxd5 c5 17. dxc6 dxc6 18. Ne5 Rf6 {Las blancas han
+salido claramente mejor de la apertura, pese a que Taimanov no ha cometido
+ningún error grave. A partir de ahora, sin embargo, jugará con precisión.} 19.
+f4 {También era posible buscar el doblaje de torres en la columna d y retirar el
+caballo a d3 en caso de ... Re6.} 19... Nf7 20. Rd7 {Forzando cambios de
+piezas.} 20... Nxe5 21. fxe5 Qxd7 22. exf6 Rf8 23. fxg7 Qxg7 24. Qxg7+ Kxg7 25.
+e4 fxe4 26. Rxf8 Kxf8 27. Bxe4 {Parece que la posición es igualada, pero lo
+cierto es que no: 1) el alfil blanco es más activo que su rival; 2) las blancas
+pueden crear un peón pasado en el flanco de rey antes que las negras en el de
+dama y 3) el rey blanco llega antes al centro que el negro.} 27... h6 28. Kf2
+Ke7 29. Kf3 a5 30. Kg4 Bc8+ {Taimanov sacrifica un peón a cambio de activar a su
+alfil. Una defensa pasiva llevaba a la derrota: 30. ... Kf6 31. Kh5 Kg7 32. g4 y
+33. g5 y el peón pasado de h gana la partida.} 31. Kh5 c5 32. Kxh6 Kf6!
+{Haciéndole la oposición al rey, de tal forma que las blancas no pueden
+movilizar sus peones del flanco de rey de momento.} 33. Bf3 a4 {Las blancas
+deben decidir si la amenaza 34. ... a3, seguido de ... Bf5-... Bb1 es
+suficientemente peligrosa, o, de tomar el peón, si ... Be6-... Bxa2 es de
+temer.} 34. bxa4 {Boleslavsky cree ver una continuación ganadora, pero Taimanov
+encuentra defensa. Mejor era 34. g4 y las blancas coronan primero.} 34... c4 35.
+g4 c3 36. g5+ Ke5 37. Bd1 Bg4 38. Bc2 Bf5 39. g6! Bxc2 40. g7 {Boleslavsky se ve
+ganando tras 40. ... Bb3 41. axb3 c2 42. g8Q c1Q+ 43. Qg5+ y, tras el cambio de
+damas, el peón de h gana la partida. Sin embargo, Taimanov tenía una sorpresa.}
+40... Bh7 {Evitando el cambio de damas.} 41. Kxh7 c2 42. g8=Q c1=Q 43. Qb8+ {El
+final sigue siendo favorable para las blancas, pero en los finales de damas es
+típico que aparezcan opciones de tablas. Boleslavsky carece de plan en lo que
+sigue.} 43... Kd5 44. Qb7+ Ke5 45. Qg7+ {Tomar en b6 parece mejor.} 45... Kd5
+46. Qf7+ Ke5 47. h4 Qc2+ 48. Kg7 Qxa4 49. Qf6+ Ke4 50. Qe6+ {Mejor era seguir
+moviendo el peón de h. Es un error permitir que el rey negro se aproxime al
+peón.} 50... Kf4 51. h5 Kg5 52. Qe5+ Kg4 53. h6 Qd7+ 54. Kf6 Qd8+ 55. Kf7 Qd7+
+56. Qe7 Qd3 57. Qe6+ Kh5 58. Ke8 b5 {Jugada aparentemente inofensiva, pero que
+busca ... b4 para forzar el cambio de damas en un final de peones de tablas.}
+59. Ke7 b4 60. Ke8 Qg6+! {Y tablas. Después de 61. Qxg6+ Kxg6 62. Kd7 Kxh6 63.
+Kc6 Kg6 64. Kb5 Kd8 65. Kb6 y el rey negro llega a c8 justo a tiempo. Esto es
+posible por el hecho de que el peón deb está en b4 y no en b6 o b5; en tal caso,
+el rey blanco podría llegar a b7 antes que el negro y las blancas ganarían.}
+1/2-1/2

@@ -67,6 +67,8 @@ The best games are, in my opinion:
 	* Averbaj-Taimanov.
 * Round 24:
 	* Keres-Smyslov.
+* Round 25:
+	* Kotov-Gligoric.
 
 ## WARNING!
 

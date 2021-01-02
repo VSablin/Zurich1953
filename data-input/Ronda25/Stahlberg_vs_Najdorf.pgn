@@ -1,0 +1,43 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Stahlberg"]
+[Black "Najdorf"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d5 e5 {Variante empleada
+anteriormente por Najdorf y supuestamente refutada por Euwe por 7. Bg5. Contra
+esto, Najdorf tenía preparado 7. ... d6 8. Ne4 Qa5+ 9. Qd2 Qxd2+.} 7. Nf3 d6 8.
+O-O Nbd7 9. Qc2 Qe7 10. e4 a6 11. a4 Nh5 12. Bd2 Kh8 {Con idea de jugar la
+temática ... f5, previo ... Ndf6-... Ng8. 12. ... f5 no sería buena por 13. Ng5
+Ndf6 14. exf5 Bxf5 15. Nge4 y la clavada no es peligrosa porque el caballo está
+fuertemente defendido. Interesante era en esta variante 14. Ne6!? para abrir la
+diagonal del alfil de g2.} 13. a5 {Stahlberg amenaza con bloquear el flanco de
+dama con 14. Na4 y b4. La siguiente jugada de Najdorf para este plan.} 13... b5
+14. cxb5 {Stahlberg dará la calidad por un peón. Tras la partida, él mismo
+consideró que quizás fuera mejor 14. axb6. Lo cierto es que ambas parecen
+buenas.} 14... axb5 15. Nxb5 Ba6 16. Na3 {Stahlberg podría haber forzado las
+tablas con 16. Nc7 Bxf1 17. Bxf1 Rac8 18. Nb5 y la torre no tiene nada mejor que
+volver a a8. Es por esto que parece claro que Stahlberg estaba jugando a ganar.}
+16... Bxf1 17. Rxf1 {Más consecuente con el plan era tomar de alfil para apoyar
+el avance del peón de a con la torre. Si las negras consiguen bloquear este
+peón, la partida debería ser suya.} 17... Nhf6 18. Nc4 Ne8 19. Bh3 Ra7 20. Be3
+Rb7 {Se amenzaba 21. b4, aprovechando los rayos X del alfil de e3 sobre la torre
+de a7.} 21. Ra1 {Stahlberg ha perdido un tiempo. Podría encontrarse en la misma
+posición, con su peón en a6.} 21... Nc7 {Parando la amenaza a6-a7 justo a
+tiempo.} 22. Qa4 Nb8 23. Nb6 f5 24. exf5 gxf5 25. Qh4 Qf7 26. Bh6 Nba6 27. Nc4
+Nb5 28. Ne3 f4 {Neutralizado el avance del peón de a, Najdorf procede a atacar
+por el flanco de rey.} 29. Bxg7+ Qxg7 30. Nf5 Qg6 31. Qg4 Qxg4 32. Bxg4 Ra7 33.
+Nd2 Nb4 34. Nc4 Rf6 35. Rd1 Kg8 {Interesante final, en el que ambos bandos
+tratan de mantener las piezas rivales atadas a sus debilidades. El caballo de b5
+y la torre de f6 defienden d6, meintras que el caballo de c4 defiende en a5 y el
+alfil de g4 en f5.} 36. Bh3 Kf8 37. Kg2 Raf7 38. Nh4 fxg3 39. fxg3 Nd4 40. Be6
+{Ofreciendo cambios en e6, buscando complicaciones: 40. ... Nxe6 41. dxe6 Rxe6
+42. Nxd6 Rd7 43. Rf1+, etc. Najdorf refuta el plan.} 40... Rf2+ 41. Kh3 Rf1 {Las
+blancas deben elegir qué torre tomar. Si 42. Bxf7, entonces 42. ... Rxd1 43. Bh5
+Ra1 44. Nxd6 Nxd5 45. Nb7 e4 46. Nxc5 e3 47. Ng2 e2 48. Nd3 Nf6 49. Bg4 h5 50.
+Bc8 Nf3 y las negras ganan pieza.} 42. Rxf1 Rxf1 43. Nxd6 Nxe6 44. dxe6 Ke7 45.
+Ne4 Kxe6 46. Nxc5+ Kd5 47. Na4 e4 48. Kg2 Ra1 49. Nc3+ Ke5 50. g4 Rxa5 51. Nf5
+Nd5 52. Nd1 Ra1 53. Nf2 Nf4+ 54. Kg3 Rg1+ 55. Kh4 Rg2 56. Nd1 Rxh2+ 57. Kg3 Rh3+
+58. Kf2 Rf3+ 59. Ke1 h5 60. Nde3 h4 61. g5 h3 {Y Stahlberg se rindió.} 0-1
