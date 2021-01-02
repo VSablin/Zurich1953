@@ -1,0 +1,56 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Smyslov"]
+[Black "Reshevsky"]
+[Result "1-0"]
+
+{Reshevsky arriesgará en esta partida, ya que tenía que jugar a ganar para
+acercarse a Smyslov en la tabla.} 1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. g3 b6 5. Bg2
+Bb7 6. O-O O-O 7. Qb3 Bxc3 {Reshevsky se sale de la teoría, con idea de crearle
+complicaciones a su rival. No solo se sale de la teoría de la posición, sino que
+da la pareja de alfiles a cambio de nada, al menos en apariencia.} 8. Qxc3 d6 9.
+b3 Qe7 10. Bb2 c5 11. d4 Nbd7 12. Rad1 Be4 {La idea de la textual es quedar
+fuera de la cadena de peones sin preocuparse del avance d4, en cuyo caso
+quedaría totalmente fuera de juego. En e4 es una pieza fuerte, tanto como su
+rival de g2.} 13. dxc5 Nxc5 14. Qe3 {Amenazando 15. Bxf6 y 16. b4, tras lo que
+caería el alfil de e4. Esto fuerza ... e5 y trata de expulsar al alfil de e4.}
+14... e5 {Las negras tienen neutralizado el alfil de g2 por la acción del alfil
+de e4 y el de b2 por la estructura de peones negra. El precio a pagar es la
+debilidad de d6, que, de momento, no es evidente cómo atacar. Smyslov trata de
+cambiar su alfil negro por uno de los caballos rivales-¡.} 15. Bh3 a5 16. Nh4
+Rfe8 17. f3 {Con idea de echar al alfil de e4. También se podría haber
+conseguido con 17. Nf5, que forzaría a 17. ... Bxf5, pero Smyslov prefiere
+reservarse el derecho de capturar en g6 cuando prefiera.} 17... Bg6 18. Rd2 Rad8
+19. Rfd1 Qc7 20. Nxg6 hxg6 21. Bg2 {No puede decirse que en la posición actual
+la pareja de alfiles conceda ninguna ventaja. En las próximas jugadas, ambos
+bandos maniobran con sus piezas sin dejar demasiado claras sus intenciones.}
+21... Nh5 22. Qc3 Nf6 {El alfil de b2 puede reciclarse por e3, donde controlará
+buenas diagonales. Es por esto que Bronstein prefería aquí 22. ... f5!, ganando
+espacio e iniciativa en el ala de rey. Puede que Reshevsky se reservara este
+avance a que las blancas jugaran e4, con idea de crear más complicaciones si
+cabe. Sin embargo, veremos que no podrá sacar partido de tal idea.} 23. e4 Nh5
+24. Qe3 Nf6 25. Bh3 Nh7 26. Re2 Nf6 27. Rf1 Nh5 28. Bg2 Qe7 29. Bc1 Qc7 30. Rd1
+Kh7 31. Qf2 Nf6 32. Be3 Nh5 33. Rc2!! {Bronstein concede doble signo de
+admiración a esta jugada en honor a toda la secuencia y por el hecho de que
+Smyslov fue capaz de maniobrar con un plan en mente sin que Reshevsky lo viera.
+Este último pensaba que Smyslov buscaba un f4, pero en realidad la idea era
+montar la batería alfil dama en la diagonal g1-a7, busca el avance a3-b4 y
+presionar en d6. La textual es útil porque apoya c5 en algunas variantes. Por su
+parte, Reshevsky no ha mejorado nada su posición en las últimas jugadas.} 33...
+f5 {Reshevsky, finalmente, hace su ruptura, con esperanza de crear
+complicaciones.} 34. exf5 gxf5 35. g4 Nf4 {Sacrificando un peón.} 36. Bxf4 exf4
+37. Qh4+ Kg8 38. gxf5 d5 {Sacrificando un segundo peón para complicar más la
+partida. Si Smyslov defiende con precisión, la partida debería ser suya.} 39.
+cxd5 {39. Rxd5 Rxd5 40. cxd5 Qe5, con las amenazas ... Qa1+, ... Nd3 y ...
+Qxf5.} 39... Qe5 40. Rcd2 {40. Rc4 era un error por 40. ... Qe3+ 41. Kh1 Nd3.}
+40... Rd6 41. Rd4 Qe3+ {Mejor era 41. ... Qxf5 42. Qxf4 Qxf4 43. Rxf4 Re2. Esta
+posición se dará algo más adelante, pero las blancas conservarán el peón de f5.
+Y si 42. Rxf4, entonces 42. ... Qc2 43. Re1 Rxe1+ 44. Qxe1 Nd3, con
+complicaciones.} 42. Kh1 Re5 43. Qxf4 Qxf4 44. Rxf4 Re2 45. Rg4 {Con la amenaza
+46. f6 y 47. d6.} 45... Kf8 46. Rg6 Nb7 47. Re6 Rxa2 48. f4 Rb2 49. Rde1 Rxe6
+50. dxe6 Nd6 51. e7+ Kf7 52. Bd5+ Ke8 53. Bc6+ Kf7 54. e8=Q+ Nxe8 55. Bxe8+ Kf6
+56. Bg6 {Y Reshevsky se rindió. Notar que a la pieza de más hay que unir la
+amenaza ed mate Re6#. La única forma de pararla es 56. ... Rb1 57. Rxb1 Ke7, lo
+que aumentaría aún más la ventaja de material.} 1-0
