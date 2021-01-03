@@ -1,0 +1,61 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Taimanov"]
+[Black "Kotov"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Qa4+ Nc6 7. Bg5 h6 8.
+Bxf6 Qxf6 9. e3 O-O 10. Be2 Be6 11. O-O a6 {Defensa Ragozin dentro del gambito
+de dama declinado. Las blancas tienen a su favor el hecho de que el caballo de
+c6 bloquee el avance del peón de c, lo cual hace que el peón de d5 esté, de
+forma efectiva, aislado, además de que el peón de c puede ser atacado. Por otra
+parte, las negras tienen un buen juego de piezas. Taimanov busca acumular una
+serie de ventajas posicionales, empezando por ocupar la columna semiabierta.}
+12. Rfc1 Bd6 13. Qd1 Ne7 14. Na4 {Evitando 14. ... c5 y tratando de forzar 14.
+... b6.} 14... b6 15. Nc3 Rfd8 16. Qf1 {Otra maniobra posicional, debilitando
+más los peones del ala de dama negros por la doble amenaza sobre a6. Bronstein
+comenta que esto habría sido más fuerte en la jugada anterior, con el caballo
+situado en a4, evitando la respuesta de Kotov.} 16... c6 17. Na4 {No valía 17.
+Bxa6 por 17. ... b5, quedando el alfil atrapado.} 17... Rdb8 18. Rc3 a5 19. Rac1
+Bd7 20. a3 {Invitando a las negras a jugar la aparentemente liberadora 20. ...
+c5 21. dxc5 Bxa4 22. dxc6 Qxd6 23. Nd4, con excelente posición para las blancas.
+Cierto es que las negras tienen una mejora aquí con 21. ... bxc5 22. Nxd5 Bxd5
+23. Rxd5 Qxb2 o 23. ... Rxb2, con igualdad.} 20... Ng6 21. Bd3 Qe6 22. Qd1 Bc7
+23. Qc2 Ne7 24. Re1 {Ya no se puede meter más presión sobre c6, así que el
+objetivo militar de las blancas pasa a ser hacer e4. 24. e4 inmediatamente tiene
+como problema que se libera la casilla d5 para el caballo de e7, que pasaría a
+ser muy fuerte. La idea concreta es que, tras cambiar peones en e4, la dama
+negra quede atacada, ganando un tiempo.} 24... f5 {Esta jugada busca controlar
+el avance e4, pero el precio a pagar es que la diagonal a2-g8 se ha debilitado y
+que la actividad de la dama se ve reducida. Bronstein indica que mejor sería 24.
+... Qf6.} 25. b4 {Reacción más o menos forzada. Preparar e4 con Nd2-f3 es
+demasiado lento, permitiendo a las negras lanzar un ataque contra el rey blanco.
+La textual prepara una trampa: 25. ... axb4 26. axb4 c5 27. Nb2 c4 28. Nxc4!
+dxc4 29. Bxc4 Nd5 30. Bxd5 Qxd5 31. Rxc7.} 25... axb4 26. axb4 Bd6 27. Rb1 b5
+{Casi forzada. De nuevo, 27. ... c5 no era posible por 28. b5 c4 29. Rxc4! dxc4
+30. Bxc4 Nd5 31. Qb3} 28. Nc5 Bxc5 29. Rxc5 Ra4 30. Ne5 Rba8 31. Qe2 Be8 32. Qf3
+Ra1 33. Rcc1 Rxb1 34. Rxb1 g6 {Las blancas tienen una clara ventaja posicional:
+los peones ed g6 y c6 están retrasados en columna semiabierta y atan a las
+piezas negras a su defensa, las negras tienen cinco de sus peones en casillas
+blancas y conservan su alfil de tales casillas y el caballo de e5 está
+centralizado y es inexpugnable. Solo les faltaría controlar la columna a. La
+cuestión es cómo explotar esto. Bronstein plantea el plan h3-Kh2-Rg1-g4,
+abriendo brecha en la posición blanca. También considera como bueno el plan de
+apartar la dama y jugar f3-e4. Taimanov, sin embargo, jugó f4 y h4, quedándose
+sin rupturas y reduciendo ampliamente sus opciones de victoria.} 35. h4 Kg7 36.
+Qg3 Qd6 37. f4 h5 38. Be2 Ra4?! {Kotov plantea la siguiente variante: 39. Bxh5
+Rxb4 40. Rxb4 Qxd4 41. Bxg6 Bxg6 42. h5 Qd6 43. Kf1, etc. Las blancas tendrían
+la alternativa 40. Rc1. Sin embargo, Taimanov encuentra una mejora sobre la toma
+en h5.} 39. Bd1!! {Sutil, bonita y útil jugada. Taimanov mantiene las amenazas
+además de que toca en a4 y ahora les toca mover a las negras. Tienen que decidir
+si retirarse con su torre o tomar en b4, en cuyo casi las blancas ganan la
+columna abierta.} 39... Rxb4 40. Ra1 {El ingrediente que le faltaba a la
+posición blanca, controlar la columna a, a cambio de un peón. La torre entrará
+en la octava fila creando fuertes amenazas.} 40... Nc8 {No había muchas más
+opciones. Veamos otra variante en la que se ve que la posición negra colapsa:
+40. ... Bf7 41. Ra7 Rb1 42. Qg5 Rxd1+ 43. Kh2 Kf8 44. Qh6+ y las blancas ganan:
+44. ... Kg8 45. Ra8+ y es mate forzado y 44. ... Ke8 45. Ra8+ y las negras
+tienen que dar muchísimo material.} 41. Ra8 Qe6 42. Bxh5 Kf8 43. Bxg6 Bxg6 44.
+Nxg6+ Ke8 45. Ne5 Kd8 46. Qg7 Ra4 47. Rb8 c5 48. Rb7 {Y Kotov se rindió.} 1-0

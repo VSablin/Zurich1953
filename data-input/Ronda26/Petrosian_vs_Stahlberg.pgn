@@ -1,0 +1,54 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Petrosian"]
+[Black "Stahlberg"]
+[Result "1-0"]
+
+{Veremos una gran partida de Petrosian. Es curioso que los análisis tras la
+partida no fueron capaces de localizar ningún error de Stahlberg (ni siquiera el
+propio Stahlberg).} 1. e4 c5 2. d3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O Nf6
+7. Nbd2 O-O 8. a4 Bd7 9. Nc4 Qc8 10. Re1 {Petrosian juega con el esquema de la
+defensa india de rey, pero con blancas. La diferencia es que, aparte de conducir
+las blancas, Stahlberg no ha jugado con ... d5, que llevaría a una defensa india
+de rey con colores cambiados, sino a un esquema tipo dragón. De momento, ambos
+bandos maniobran en su sector del tablero sin entrar en conflicto.} 10... Ng4
+11. c3 h6 12. Qe2 Kh7 13. Nfd2 f5 {Bronstein critica esta jugada. La idea es
+romper el centro blanco y atacar en el flanco de rey. Sin embargo, mejor era
+poner la dama en c7, las torres en e8 y d8 y preparar ... d5.} 14. f4 fxe4 15.
+dxe4 Nf6 16. Nf3 Bg4 17. Ne3 Bh3 18. Nh4 Bxg2 19. Qxg2 e6 20. Qc2 {Las blancas
+están mejor. Sus piezas y peones tienen una posición armónica para atacar por el
+flanco de rey o por el centro. Las negras tienen debilidades en e6 y d6.
+Destacar las amenazas por la diagonal b1-h7.} 20... Ne7 21. Nc4 Ne8 22. Bd2 Qc6
+23. Re2 Rd8 24. Rae1 b5 {Stahlberg reacciona en el flanco de dama, pero la
+posición blanca en este sector es sólida.} 25. axb5 Qxb5 26. Ne3 Rb8 27. Bc1 Bf6
+28. Nf3 c4 29. Kg2 Bg7 30. h4 Kg8 31. Rd1 Rc8 32. e5 {Abriendo líneas,
+aprovechando la mejor disposición de sus piezas. 32. ... d5 no es posible por
+33. h5 y el rey negro sufre muchísimo. Tomar parece bueno: 32. ... dxe5 33. Nxe5
+Bxe5 34. fxe5 Qc6+ y las negras tienen contrajuego. Sin embargo, Petrosian no
+pensaba retomar en e5.} 32... dxe5 33. Qe4 Rc5 34. fxe5 {34. ... Bxe5 no es
+posible por 35. Ng4, tocando en e5 y en h6. Además, el peón de e6 acabaría
+cayendo al haberse abierto la columna e para las piezas mayores blancas. La
+posición negra se desmoronaría,} 34... Qc6 35. Nc2 Qxe4 36. Rxe4 Nc6 37. Ne3 Na5
+{Parece que el peón de e5 está a punto de caer, pero no se puede tomar: 37. ...
+Nxe5 38. Nxe5 Rxe5 39. Rxe5 Bxe5 40. Nxc4 Bg7 41. Be3 y las blancas ganan el
+peón de a: 41. ... a6 42. Ra1 Nc7 43. Bb6. Tampoco sirve 38. ... Bxe5 por 39.
+Ng4, por razones similares a las del comentario anterior (toque sobre h6, el
+peón de e sufre mucho, etc.).} 38. Nd2 Nc7 {Aquí 38. ... Bxe5 evita la caída de
+un peón, pero las blancas quedan mucho mejor: 39. Nexc4 Nxc4 40. Nxc4 Bg7 41.
+Be3 y el peón de e6 acabará cayendo.} 39. Nexc4 Rd8 40. Rde1 Nxc4 41. Nxc4 Nd5
+42. Nd2 Rb8 43. Ra4 Rc7 44. Nf3 Nb6 45. Rg4 Kh7 46. Nd4 Re8 {Peón y más para las
+blancas y peones débiles en el bando negro. Sin embargo, no es tan fácil. Los
+peones del ala de dama deben ser reforzados ante el ataque de las piezas negras
+y puede ser necesario cambiar el peón de e5 por el de a7 y así tener dos peones
+pasados y ligados, que deberían ganar la partida fácilmente.} 47. Rge4 a6 48.
+R1e2 Nd7 49. Nf3 Rb8 50. Be3 Bf8 51. Ra4 Rc6 52. Bd4 Rb5 53. b4 Bg7 54. Rea2
+Nxe5 55. Nxe5 Bxe5 56. Bxe5 Rxe5 57. Rxa6 Rxa6 {Un elemento clave de la posición
+es el hecho de que el rey negro está encerrado por sus peones en las dos
+úiltimas filas, lo que puede ser letal cuando hay dos torres en el tablero. Es
+por esto que aquí no era posible tomar en c3: 57. ... Rxc3? 58. Ra7+ Kg8 59.
+Ra8+ Kf7 60. R2a7+Kf6 61. Ra8#. De no existir esta combinación, las negras
+podrían haber tomado en c3 y se salvarían.} 58. Rxa6 Kg7 59. c4 Kf6 60. b5 Re2+
+61. Kf3 Rc2 62. Rc6 Rc3+ 63. Kf4 Rc1 64. b6 Rb1 65. g4 Ke7 66. Ke5 Re1+ 67. Kd4
+{Y Stahlberg se rindió. Los peones del flanco de dama ganan la partida.} 1-0

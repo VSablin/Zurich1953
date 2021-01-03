@@ -1,0 +1,75 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Najdorf"]
+[Black "Boleslavsky"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O c5 7. dxc5 dxc5 8. Ne5
+{Novedad de Najdorf, con idea de llevar el caballo a d3. Tras el torneo, los
+análisis llevaron a la conclusión de que la mejor respuesta es 8. ... Nfd7! 9.
+Nd3 Nc6. Boleslavsky sigue de forma más natural o humana, entrando en lo que
+Najdorf había preparado.} 8... Qc7 9. Nd3 Nc6 10. Nc3 Bf5 11. Bf4 Qa5 12. Bd2
+{Hostigando a la dama negra. Boleslavsky concede el alfil de f5 para luchar
+contra esto (notar que c5 está tocado por el caballo de d3 y la dama es su
+defensora). Esto hará que el alfil de g2 no tenga oposición.} 12... Bxd3 13.
+exd3 Qc7 14. Be3 Rfd8 {Boleslavsky rechaza aquí la sugerente 14. ... Nd4. El
+caballo luce muy bien ahí, pero en realidad no consigue nada. De hecho, bloquea
+la acción de las piezas mayores negras sobre d3. Mientras tanto, las blancas
+podrían jugar Rb1, b4, etc. y generar serias amenazas en el flanco de dama
+gracias a su potente alfil de g2. Boleslavsky opta por la textual, que es más
+combinativa.} 15. Bxc5 Ne5 16. d4 Nxc4 17. Qe2 Nd6 {La posición se ha
+transformado: el alfil de casillas negras de las blancas está ahora en c5, donde
+entorpece bastante la posición negra, y las blancas han avanzado su peón de d
+una casilla, además de que ahora está aislado. Hay que tener en cuenta que un
+peón aislado no siempre es débil. No está claro cómo atacarlo y las blancas
+pueden aprovechrar las columnas c y e. Por ejemplo, la dama negra puede sufrir
+en c7. Boleslavsky opta por acabar con el peón aislado tan pronto como pueda.}
+18. a4 e6 19. a5 Nf5 20. a6 Nd5 {Mejor era 20. ... b6, ofreciendo la calidad.
+21. Bxa8 Rxa8 22. Ba3 Nxd4 y la posición pasaría a ser muy aguda, con opciones
+de ataque para las negras. Con 22. Nb5, por contra, las blancas quedan bien.
+Puede que fuera mejor 21. ... bxc5 22. Bg2 cxd4, quedando las negras con un
+fuerte peón pasado. Esto, junto con la actividad por la columna b, compensaría
+la calidad. Boleslavsky opta por una continuación más tranquila, pero el alfil
+de c5 ya no podrá ser molestado y aparecen nuevas debilidades en campo negro:
+los peones de a y d.} 21. axb7 Qxb7 22. Nxd5 exd5 23. Ra4 a5 24. Qd3 {24. ...
+Qxb2 no se puede por 25. Rb1, atrapando a la dama.} 24... Rab8 25. Rb1 Qb3
+{Boleslavsky fuerza el cambio de damas para sobreponerse a la presión blanca,
+pero esto implicará la pérdida de un peón.} 26. Qxb3 Rxb3 27. Rxa5 {El
+inconveniente de este cambio para las blancas es que pierden su mejor pieza: el
+alfil de c5. Era mejor 27. g4 Nh4 28. Be7 o 27. ... Nh6 28. h3 y los peones
+negros de a y d acabarán cayendo.} 27... Bxd4 28. Bxd4 Nxd4 29. Bxd5 Rb4 30. Kg2
+{Las opciones de victoria de Najdorf pasan por movilizar a su peón de b. Esto
+parece muy complicado por el hecho de que las piezas negras están muy bien
+situadas parando este peón en casillas negras, donde no podrán ser molestadas.
+Najdorf acerca a su rey a la lucha y Boleslavsky fuerza el cambio de las piezas
+menores restantes, llegando a un final de tablas.} 30... Nb3 31. Bxb3 Rxb3 32.
+Ra3 Rb4 {Instructivo final. El plan blanco es acercar a su rey al peón, cambiar
+una torre y mantener al rey rival alejado del peón pasado.} 33. Rf3 Rdb8 34. b3
+R8b7 35. Kf1 Kg7 36. Ke2 R4b6 37. Kd2 Rb8 38. Kc2 Rc6+ {Najdorf ha cortado al
+rey rival y está acercando al suyo al peón. Sin embargo, la maniobra de torre de
+Boleslavsky empuja al monarca blanco a la columna d.} 39. Rc3 Re6 40. Re3 Rc6+
+41. Kd2 g5 {Buscando romper la fuerte estructura de peones blancos en el ala de
+rey. La evidente respuesta 42. g4 se encontraría con la maniobra de torre ...
+Rh6-... Rf6-... Rh6, forzando a debilitar los peones. Sin embrago, Bronstein
+comenta que aquí la defensa sería muy difícil si Najdorf se olvidara de defender
+los peones y siguiera avanzando el peón de b: 42. g4 Rh6 43. h3 Rf6 44. f3 Rh6
+45. b4 Rxh3 46. b5! y, si 46. ... Rb6, el rey blanco va a por esta torre .} 42.
+Re4 Rd8+ 43. Ke1 Rh6 44. h4 gxh4 45. gxh4 f5 {La destrucción de la estructura de
+peones de las blancas abre líneas para que las torres den jaques al rey rival,
+tanto por las columnas como por las filas abiertas. Esto permitiá que el rey
+negro se active y será difícil pensar en movilizar el peón de b.} 46. Rc4 Re6+
+47. Kf1 {El rey queda fuera de juego y las torres negras se cuelan en campo
+blanco.} 47... Rd2 48. b4 Ree2 49. Rf4 Kf6 50. Rb3 {El hecho de que las torres
+negras ya no bloqueen al+ peón de b no facilita su avance: 50. b5 Rb2 y no vale
+51. Rfb4 por 51. ... Rxf2+. Por su parte, Boleslavsky amenaza ... Ke5 para echar
+a la torre del segmento f4-c4 y f4-f2. La última jugada de Najdorf lucha contra
+esta idea, ya que, contra 50. ... Ke5, vendría 51. Rbf3, defendiendo en f4 y
+ganando el peón de f5.} 50... Rb2 51. Rxb2 {Si 51. Rff3, entonces 51. ...
+Rxf2+!, aprovechando la sobrecarga de la torre de f3.} 51... Rxb2 52. Kg2 {El
+peón de b no puede llegar a ninguna parte sin el apoyo de su rey, pero este
+también está atado a la defensa de sus peones de f y h. De lo contrario, estos
+caerían y la torre incluso podría entregarse por el peón de b, llegando a una
+situación de tablas.} 52... Rc2 53. Rd4 Ke5 54. Rd7 Rc4 55. Rxh7 Rxb4 56. h5 Kf6
+57. Kf3 {Y se firmó la paz.} 1/2-1/2

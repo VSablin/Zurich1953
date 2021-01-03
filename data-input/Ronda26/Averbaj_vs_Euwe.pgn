@@ -1,0 +1,57 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Averbaj"]
+[Black "Euwe"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Qe7 {En esta misma posición en
+este torneo (Bronstein-Euwe), se jugó 12. ... Re8, con idea de frenar 13. e4.
+Sin embargo, no lo frena: 13. e4 exd4 14. cxd4 cxd4 15. Nxd4, aprovechando que
+no es posible 15. ... Nxd4 por 16. Qxc7. La idea de la textual es salirse de los
+rayos X de la dama de c2. Posteriormente, se volvió a probar 12. ... Re8 13. e4
+c4!} 13. dxe5 Nxe5 14. Nxe5 Qxe5 15. Re1 Bd7 {La partida empieza a orbitar en
+torno al control de e4, pero eso no es todo. El alfil de casillas negras de las
+blancas choca contra sus peones. Las negras, con idea de mantenerlo encerrado,
+sacrificarán un peón. Las blancas carecen de un caballo en f3, el mejor defensor
+del enroque en estas posiciones, así que las negras puedan lanzar un ataque de
+flanco. Por último, decir que la última jugada encierra una trampa táctica: 16.
+e4 Ba4! 17. Qxa4 Qxc3 y las negras ganan un peón. Sin embargo, no tiene más idea
+que esa. Era más coherente con la posición 15. ... Re8, con idea de atacar en el
+flanco de rey: 16. e4 Ng4 17. f4 Qh5 18. h3 c4 o 16. Bb2 c4, con buen juego para
+las negras.} 16. Bb2 c4 {Aquí está el mencionado sacrificio de peón para
+enterrar al alfil de b2. Además, podrá haber temas tácticos en la diagonal
+g1-c5. Por ejemplo, un ... Qc5 tocaría al alfil de c4.} 17. Bxc4 Ng4 18. f4 {No
+vale 18. g3 por el debilitamiento de f3 y h3. En particular, se podría hacer la
+siguiente maniobra, que cualquiera debe conocer en estas posiciones: 18. ... Qh5
+19. h4 Ne5 20. Be2 Bg4.} 18... Qc5 {Aquí vemos que 15. ... Re8 habría tenido
+mucha más fuerza, al presionar en e3, aprovechando que el alfil de b2 no puede
+defender tal punto.} 19. Qd3 Rad8 20. Rad1 {20. Qd4 era tentadora, pero se
+enfrentaría con 20. ... Qh5 21. h3 Bc6! y el ataque es muy fuerte. Una de las
+mejores opciones de las blancas es sacrificar su dama por torre ,y caballo.
+También era posible 20. Bd5, pero se encontraría con ... Bc6 o ... Be6, que, en
+conexión con la amenaza ... Nxe3, lo cual dejaría a las negras con una posición
+buena, incluso ventajosa. Tras la textual, las blancas mantendrán su peón de más
+con una posición apacible.} 20... Qb6 {Jugada multiusos: defiende en d8, toca en
+b2 y amenaza ... Ba4.} 21. Qe2 {Respuesta multiusos: la dama protege b2, toca en
+g4 y se quita de los rayos X de la torrede d8. Esto fuerza los acontecimientos.}
+21... Nxe3 22. Qxe3 Qxb2 23. Re2 Qb6! {Euwe propone el cambio de damas.
+Pareciera que, tras el cambio, el doblaje de torres en la columna d gana pieza
+para las blancas. Sin embargo, las negras tienen ... Rc8, tocando el algil de
+c4.} 24. Qxb6 axb6 25. Re7 Be6 26. Rxd8 Rxd8 27. Bxe6 fxe6 28. Rxb7 Rc8 29. Rxb6
+Rxc3 30. Ra6 Kf7 {Típico final de peón de más pasado en la columna a para un
+bando e igualdad en el flanco de rey. Suele ser de tablas, ya que la torre sola
+no puede ayudar a la coronación. El rey tiene que ir, mientras que las piezas
+negras podrían capturar un par de peones en el ala de rey, para entonces
+entregar la torre por el peón de a y llegar a un final igualado.} 31. Kf2 h5 32.
+a4 Ra3 33. h4 Kf6 34. Ra5 g6 35. Ke2 Rg3? {Se podían lograr las tablas on 35.
+... Ra2+. Si el rey va hacia el flanco de dama, los peones blancos de rey caen
+con facilidad.} 36. Rg5! {La torre blanca defiende todo. El cambio de torres es
+imposible. El rey podrá ir hacia el flanco de dama ahora y las blancas ganan.}
+36... Ra3 37. a5 Kf7 38. Kd2 Ke7 39. Kc2 Kd7 40. Kb2 Ra4 41. g3 Kc6 42. Kb3 Ra1
+43. Kb4 Rb1+ 44. Kc4 Ra1 45. Kc3 {Y Euwe se rindió. Las piezas negras están
+atadas al avance del peón de a, mientras que el rey blanco puede penetrar en el
+ala de rey negra y capturar todos sus peones. El cambio de torres en a5 no es
+posible por la mayor actividad del rey blanco.} 1-0

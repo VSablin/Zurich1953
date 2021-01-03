@@ -69,6 +69,8 @@ The best games are, in my opinion:
 	* Keres-Smyslov.
 * Round 25:
 	* Kotov-Gligoric.
+* Round 26:
+	* Taimanov-Kotov.
 
 ## WARNING!
 
