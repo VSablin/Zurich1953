@@ -1,6 +1,6 @@
 # Zurich1953
 
-Repo with the pgn files of the Zurich-1953 Candidates Tournament with the comments of "Zurich International Chess Tournament 1953", by David Bronstein (in memoriam).
+Repo with the pgn files of the Zurich-1953 Candidates Tournament with some comments.
 
 ## Input
 
