@@ -1,0 +1,54 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Kotov"]
+[Black "Najdorf"]
+[Result "1/2-1/2"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c5 8. g4 {Koto
+se tira al cuello. La idea es seguir con un h4 en algún momento y abrir líneas
+contra el enroque negro.} 8... Ne8 9. h4 f5 10. exf5 gxf5 11. g5 e4 12. f4 {Esta
+jugada impide que una pieza negra ocupe e5, pero, a su vez, concede a las negras
+un peón pasado y apoyado en e4, quita la casilla f4 para un caballo y restringe
+seriamente la actividad del alfil de casillas negras. Bronstein se inclina aquí
+por 12. Nh3, con idea Nf4 y amenazar saltar a e6 o a h5.} 12... b5 13. cxb5 a6
+{Najdorf, sabedor de que controla el centro, emprende acciones defensivas en el
+flanco de dama.} 14. Qd2 axb5 15. Bxb5 Ba6 16. Bxa6 Nxa6 17. Nge2 {La amenaza
+... Nb4-...Nd3+ obliga a las blancas a enrocarse corto rápidamente. Esto hace
+que haya que abortar el plan de ataque por el flanco de rey. Su posición es
+bastante dudosa pese a tener un peón de más: el peón de d5 está aislado, el
+alfil de e3 apenas tiene actividad y el enroque blanco será muy débil; en
+concreto, la dama podrá infiltrarse por f7-h4-g4.} 17... Nb4 18. O-O Nc7 19. Nc1
+Qe8 20. a3 Qh5 {Amenazando 21. ... Qxh4 y 21. ... Qg4+. Kotov opta por
+defenderse con 21. Rf2, entregando el peón de h4. Sin embargo, Najdorf tiene
+otros planes.} 21. Rf2 Qf7 {La idea era presionar el peón de d5 una vez que la
+torre del flanco de rey no pudiera ir a d1. Una vez caiga d5, la idea es avanzar
+el peón de d hasta d4 y la victoria sería cuestión de técnica. Kotov, sin
+embargo, encuentra una original defensa basada en dar una calidad, por un peón
+para entrar en una partida llena de complicaciones. Esto tiene su interés
+psicológico, ya que, seguramente Najdorf pensó que la victoria iba a caer como
+la fruta madura, sin tener que pasar por situaciones agudas, cosa que Kotov no
+iba a permitir.} 22. axb4 Rxa1 23. bxc5 dxc5 {Imprecisión. La victoria se podía
+conseguir fácilmente con 23. ... Bxc3 24. bxc3 Nxd5 25. cxd6 Nxe3 26. Qxe3 Qd5,
+llegando a una posición sin complicaciones y completamente ganada. Sin embargo,
+es comprensible que Najdorf desechara esta variante, ya que no es común
+desprenderse del alfil indio.} 24. Bxc5 Rd8 25. d6 Ne8 {Segundo error. Mejor era
+25. ... Ne6 26. Bb6 Rd7 27. Rf1 Ra6 y las blancas pierden su peón pasado de d6 y
+quedan sin compensación. La textual es muy lógica, ya que toca en d6, pero
+permite a Kotov luchar por las tablas.} 26. Kg2 Bf8 27. N1e2 Nxd6 28. Qd5 Nb7
+29. Qxf7+ Kxf7 30. Bxf8 Rxf8 31. Ng3 Nd6 {Najdorf sigue sin jugar con precisión.
+Para parar el plan de Kotov, debería haber jugado aquí 31. ... Ke6, seguido de
+la maniobra ... Nc5-...Nd3.} 32. Rd2 Ke6 33. Rd5 Rb8 {Najdorf se prepara para
+hacer caja en b2 y ganar la partida por aplastamiento. Sin embargo, no se
+esperaba la jugada de Kotov. Decir que 34. Nxf5 no era posible por 34. ... Nxf5
+35. Re5+ Kd7 36. Rxf5 en vista de 36. ... Rxb2+ 37. Kg3 Rb3. De hecho, las
+negras también tenían directamente 34. ... Rxb2+ 35. Kh3 Nxf5 36. Re5+ Kd7 37.
+Rxf5 Ra3.} 34. Rxd6+ Kxd6 35. Nxf5+ Kc6 36. Nxe4 Rxb2+ 37. Kf3 Rb4 38. Nfg3 Raa4
+39. h5 Ra3+ {Para evitar ataques dobles de los caballos, Najdorf mantiene sus
+torres a distancia. Ahora la partida ya es estrictamente hablando de tablas, si
+bien son las negras quienes deben tener cuidado.} 40. Kg4 Kd7 41. g6 hxg6 42.
+hxg6 Ke7 43. Nf5+ Ke6 44. Ng7+ Ke7 45. Nf5+ Ke6 46. g7 Ra8 47. Neg3 Rg8 48. Nh5
+Rxf4+ {Najdorf, viendo que ya no puede ganar, sacrifica sus dos torres por los
+dos peones restantes y llega a un final de rey contra rey y dos caballos, que,
+como es bien sabido, es de tablas.} 49. Kxf4 Rxg7 50. Nhxg7+ {Y tablas.} 1/2-1/2

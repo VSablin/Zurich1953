@@ -1,0 +1,43 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Stahlberg"]
+[Black "Averbaj"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 {Menos
+habitual que 7. Qc2 (al menos en tiempos del torneo), la textual es
+perfectamente jugable.} 7... f5 8. O-O O-O 9. Qc2 Nxc3 10. Bxc3 Be4 11. Qb3 a5
+12. Ne1 {Empieza la lucha por la casilla e4.} 12... a4 13. Qd1 Bxg2 14. Nxg2 Bf6
+15. Qd3 Nc6 16. e4 fxe4 17. Qxe4 Qe8 18. Rad1 Qf7 19. Ne3 Qg6 {El peón de a
+negro ha quedado alejado de su base sin necesidad alguna. Las negras plantean el
+cambio de damas, ya que la dama blanca es la pieza que mejor podría atacarlo:
+19. ... Rae8 20. Qc2.} 20. Qxg6 hxg6 21. Rfe1 Na5 22. Re2 Rfe8 23. Rc2 d6 24.
+Kg2 Kf7 25. Rd3 Ke7 26. h4 Kd7 27. f4 Nb7 28. Ng4 Na5 29. Ne5+ Kc8 {No era bueno
+tomar en e5 ni de peón ni de alfil: 29. ... dxe5 30. dxe5+ Ke7 31. exf6+ gxf6
+32. Rcd2 Rd8 33. Bxf6+ o 29. ... Bxe5 30. dxe5 Nxc4 31. exd6 Nxd6 32. Bxg7 y las
+blancas crean un peón pasado de forma irremediable en la columna h. Tras la
+textual, Averbaj encuentra la mejor defensa posible.} 30. Bxa5 {Era posible
+tomar directamente en g6, pero entonces: 30. Nxg6 Nxc4 31. Bb4  y las negras
+sacrifican pieza con 31. ... a3! 32. Rxc4 axb2 33. Rb3 Rxa2, con posición
+incierta.} 30... dxe5 31. fxe5 Rxa5 32. exf6 gxf6 33. c5 bxc5 34. dxc5 Rd8 {Una
+pérdida de tiempo. con 34. ... e5, la partida seguramente acabaría en tablas.
+Tras la textual, las blancas instalarán una fuerte torre en e5, bloqueando los
+peones de e y f, que son los que dan contrajuego a las negras.} 35. Rf3
+{Bronstein califica esta como \"jugada ganadora\". Si bien no puede estar tan
+claro (el módulo no da más que ligera ventaja), lo cierto es que las torres
+blancas están muy activas y sus homólogas negras están condenadas a la
+pasividad. Lo que está claro es que solo las blancas juegan a ganar.} 35... f5
+36. Re3 Re8 {Es tarde ya para una defensa activa: 36. ... Rd5 37. Rxd6 Rdxc5 38.
+Rf2 y la posición negra se desmorona.} 37. Re5 Kd8 38. Rce2 Rb5 39. Kf3 Rb4 40.
+c6 {Era posible 40. a3. Además de ganar un tiempo sobre la torre,la idea es que
+las opciones de las negras pasan por cambiar sus peones de e y g por los de a y
+b blancos. En caso de darse este cambio, es preferible que suceda en la tercera
+fila que no en la segunda.} 40... Re4 {Y aquí Averbaj claudica. Era mejor 40.
+... Rb6, atacando en c6. Podría seguir con 41. Rxe6 Rxe6 42. Rxe6 Rxb2 43. Kf4
+Rxa2 44. Rxg6, con ciertas opciones de tablas para las negras. El problema de la
+textual no es solo que los peones negros queden muy débiles, sino que dejan las
+columnas a y b para la torre restante blanca, lo cual, en conjunción con el peón
+de c6, genera amenazas muy serias contra el rey negro.} 41. R2xe4 fxe4+ 42. Rxe4
+a3 43. Rd4+ Kc8 44. Ra4 {Y Averbaj se rindió.} 1-0
