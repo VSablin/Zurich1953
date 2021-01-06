@@ -1,0 +1,42 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Najdorf"]
+[Black "Geller"]
+[Result "0-1"]
+
+{Najdorf repita la línea que jugó contra Petrosian, cambiando un peón suyo
+central por el de b. En aquella partida, Petrosian cometió un error posicional
+al ocupar c5 con un peón, mientras que era clave reservar esa casilla para un
+caballo. Geller aprendió la lección de aquella partida y llevó a cabo con éxito
+un ataque por el flanco de dama.} 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3
+d6 6. O-O Nc6 7. Nc3 Bg4 8. h3 Bxf3 9. Bxf3 Nd7 10. Bg2 Nxd4 11. Bxb7 Rb8 12.
+Bg2 Rb4 13. e3 Ne6 14. Qe2 Ne5! {Al estilo de las defensas Alekhine o Grünfeld,
+Geller sitúa piezas en el centro para provocar el avance de los peones blancos
+de f y b para luego atacarlos. En particular, tras provocar b3, situará sus
+piezas pesadas en la columna b, llevará el caballo de e6 a c4 y jugará a5-a4.
+Aquí fue donde falló Petrosian, ya que jugó c5 y privó a su caballo de esta
+jugosa casilla.} 15. f4 Nd7 16. Nd5 Rb8 {Bronstein se queda aquí con la posición
+negra. El fuerte caballo de d5 será desalojado por los peones y el ataque de
+flanco de rey de las blancas necesita más tiempos que el ataque de flanco de
+dama de las blancas por la decoordinación de las torres blancas.} 17. Qc2 c6 18.
+Nc3 Qc7 19. Rb1 a5 20. Bd2 Nec5 21. Ne2 Qb6 22. Kh2 Rfc8 23. Bc3 {Najdorf busca
+cambiar alfiles de casillas negras para así atacar en el flanco de rey.} 23...
+Bxc3 24. Nxc3 Qa6 {Forzando 25. b3, para seguir con su plan. Sin embargo, mejor
+era 24. ... Qb4, que también fuerza 25. b3 y la dama quedaría mucho más activa.}
+25. b3 Rb6 26. Ne4 Nxe4 27. Qxe4 Re8 {Era el momento de jugar 27. ... e6 28. g4
+d5, de tal forma que los peones negros quedan defendidos y el ataque blanco
+queda neutralizado, además de que el avance ... a4 es inevitable.} 28. f5 Ne5
+29. f6! Qa7 {Las negras no han neutralizado la movilización blanca y ahora la
+iniciativa está del lado de Najdorf.} 30. Rbd1 Rb4 {Entrando en complicaciones.
+Era preciso jugar 30. ... Qc7 para defender en d6.} 31. Qd4 c5 {Cambiar damas
+parece ventajoso para las blancas, ya que arreglarían su estructura de peones y
+el peón de c6 caería.} 32. Qh4 {Más precisa era 32. Qf4, ameanzando con penetrar
+en h6 y presionando en e5 y d6, condenando a las negras a la pasividad. Ahora,
+sin embargo, pueden seguir con su plan de romper en b3.} 32... a4 33. Rxd6 axb3
+{Esto sería imposible si se hubiera jugado 32. Qf4, ya que se encontraría con
+34. Qxe5.} 34. axb3 Rxb3 35. fxe7 Qxe7 36. Qxe7 Rxe7 37. Bd5 Rxe3 38. Rd8+ Kg7
+39. Rc8 Nd3 40. Ra8 Re2+ 41. Kg1 Rd2 42. Raa1 Nb4 {Y Najdorf se rindió. Se
+amenza cambiar en d5, ganando un segundo peón, además de doblar torres en la
+segunda fila.} 0-1
