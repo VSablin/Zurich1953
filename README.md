@@ -73,6 +73,8 @@ The best games are, in my opinion:
 	* Taimanov-Kotov.
 * Round 27:
 	* Kotov-Najdorf.
+* Round 28:
+	* Gligoric-Geller.
 
 ## WARNING!
 

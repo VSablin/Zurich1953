@@ -1,0 +1,47 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Bronstein"]
+[Black "Reshevsvky"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 Rd8 15.
+Qe2 Nh5 16. a4 Rb8 17. axb5 axb5 18. g3 {Posición conocida por la teoría hasta
+la jugada 17 incluida (al menos en la época), tras lo que se recomienda 18. g4
+Nf4 19. Bxf4 exf4 20. e5, y las blancas ganan un peón debido a la amenaza Qe4,
+que tocaría en h7 y en f4. Las negras tendrían como compensación la débil
+posición del rey blanco. Podría seguir con 20. ... Bb7 21. Qe4 g6 y, si 22.
+Qxf4, vendría 22. ... f6 con cierta ventaja negra. Bronstein consideró en la
+partida que no había que permitir la entrada en f4, de ahí la textual. Además,
+18. ... Bxh3 no sirve por 19. Ng5, quedando tocados alfil y caballo y las
+blancas sacan ventaja en todas las variantes pese a 19. ... Bxf1 por 20. Qxh5
+Bxg5 21. Bxg5 f6 22. Bxf6 Rd2 23. Bxg7 Qxg7 24. Rxf1 y no se debe tomar en c2
+por 25. Qd1 Rxb2 26. Qd5+ Qf7 27. Qxc6 y la posición negra se cae.} 18... g6 19.
+Kh2 {19. Ne3 Bxh3 20. Nd5 no es suficiente para sacar ventaja según Bronstein.
+Además, nada puede impedir que el caballo llegue a d5 tarde o temprano.} 19...
+Be6 20. Ne3 c4 21. Rd1 {Luchando contra la instalación de un potente caballo en
+d3.} 21... Rxd1 22. Qxd1 Rd8 23. Qe2 Qc8 24. Nd5 {Sacrificio de peón a cambio de
+que las blancas concedan su alfil de casillas blancas y, con ello, la pareja de
+alfiles. Las blancas empezarán a crear amenazas por el tablero.} 24... Bxd5 25.
+exd5 Rxd5 26. b3 {Tratando de abrir la posición para potenciar la pareja de
+alfiles. Las negras, por supuesto, tratan de impedirlo.} 26... Nf6 27. Ng5
+{Evitando ... e5, tras lo cual vendría el pase de la torre a h5, teniendo en
+cuenta que todo ataque requiere de cierta defensa.} 27... Nd8 28. bxc4 Qxc4 29.
+Qxc4 bxc4 30. Ra4 Nd7 31. Rxc4 Nc5 {Las negras se han reagrupado y la torre
+blanca no puede penetrar. Sin embargo, las blancas tienen cierta ventaja, ya que
+han recuperado el peón de menos y tienen un peón pasado que podrá ser apoyado
+por la pareja de alfiles.} 32. Ne4 Nde6 33. Nxc5 Nxc5 34. Rb4 Nd3 {El caballo
+llega a d3, pero la torre blanca consigue penetrar en campo negro.} 35. Rb8+ Kg7
+36. Be3 e4 37. Re8 Bf6 38. Rc8 {En apuros de tiempo, Bronstein descartó 38. c4
+Rf5, al no darse cuenta de 39. Rxe4 Nxf2 40. Rf4!, tras lo cual el caballo
+quedaría atrapado. Decir que las negras tendrían la mejora 38. ... Re5, con
+sólida posición pese al peón de menos, pudiendo pelear por las tablas.} 38...
+Nxf2 {De tomar en f2, la torre negra penetra en d2 recuperando pieza en el acto.
+Bronstein desechó esta variante, que probablemente era la mejor, preparando una
+celada a Reshevsky.} 39. c4 Ra5 40. Bb3 Ra3 {Y Reshevsky se comió la trampa.
+Toca los dos alfiles, pero no vio el truquito:} 41. Bc5 Be7 {Evidentemente no
+41. ... Rxb3? por 42. Bf8+ Kg8 43. Bh6+ Bd8 44. Rxd8#.} 42. Bxa3 Bxa3 43. c5 e3
+44. c6 Ne4 45. Re8 f5 46. Bc4 Bd6 47. c7 Bxg3+ 48. Kg2 Bxc7 49. Re7+ Kf6 50.
+Rxc7 f4 51. Kf3 {Y Reshevsky se rindió.} 1-0

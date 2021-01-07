@@ -1,0 +1,53 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Gligoric"]
+[Black "Keres"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. a3 Bxc3+ 6. bxc3 Bb7 7. f3 Nc6 8. e4
+{Gligoric ha jugado 5 jugadas de peón de forma consecutiva, algo muy poco usual,
+y menos en plena apertura. Sin embargo, lo cerrada que está la posición lo
+justifica. Su plan es ir ganando espacio con sus peones y molestar a los
+caballos negros, además de sacar su alfil de casillas negras por g5. Por su
+parte, las negras presionarán en la debilidad crónica de c4.} 8... d6 9. Bd3 Na5
+10. Ne2 {Gligoric se abstiene de centrarse en defender c4, tratando de focalizar
+sus fuerzas sobre f6. Además, es evidente que había que ir sacando las piezas.}
+10... Qd7 11. O-O Ba6 12. Ng3 Bxc4 13. Bxc4 Nxc4 14. Qe2 Qc6 15. Bg5 h5 {Las
+blancas amenazaban 16. Bxg5 y 17. Nh5. Ahora podrán hacerlo, pero tendrán que
+tomar el peón de h5, tras lo cual las negras contarán con dos columnas
+semiabiertas para atacar al rey blanco.} 16. Bh4 O-O-O 17. f4 Rdg8 18. Bxf6 gxf6
+19. Nxh5 f5 {Invitando a 20. Nf6 Rg6 21. e5 Ne3! y no se puede tomar el caballo
+por 22. ... Qxg2#.} 20. Ng3 {Para ilustrar las amenazas de las negras, veamos:
+20. exf5 Rxh5 21. Qxh5 Qxg2#. Si el peón de h siguiera en h7, este plan no
+existiría.} 20... fxe4 21. Nxe4 Rh3 22. Ng3 Rh6 23. Rf3 Rgh8 24. h3 f5 25. Nf1
+Rg8 26. Rg3 Rxg3 27. Nxg3 a5 28. a4 {El
+ caballo de c3 ha mantenido a la torre de a1 atada a la defensa del peón
+ de a3; al haber jugar 27.  ... a5, ahora las negras amenazaban 28. ... 
+a4, fijando la debilidad de a3 para siempre.  De ahí que el avance fuera
+ prácticamente forzado.} 28... Rg6 29. Kh2 Kb7 30. Ra2 d5 {Gligoric se ha
+defendido bien de la embestida de Keres, pero sus problemas no se acaban aquí:
+su flanco de dama está en ruinas.} 31. Qh5 Qe8 32. Re2 Nd6 33. Re5 {Esta casilla
+había que reservarla para el caballo. Esto podría haberle costado la partida de
+inmediato a Gligoric, pero Keres no lo aprovechó. Veremos luego por qué.} 33...
+Qf7 {33. ... Ne4 ganaba en el acto. No sirve 34. Nxe4 por 34. ... Rxg2+! 35.
+Kxg2 Qxh5. Tampoco vale, por supuesto, apartar el caballo a otra casilla por la
+misma razón. La única respuesta razonable era dar la calidad con 34. Rxe4. No
+sirve 34. Nxf5 por 34. ... Qf7, renovando todas las amenazas, pero no 34. ...
+Rxg2+? 35. Kxg2 Qxh5 36. Nd6+! y cae la dama a la siguiente. Tampoco 34. ...
+exf5? por 35. Rxe8.} 34. Qf3 Qd7 35. Qh5 Qf7 36. Qf3 Rh6 37. Re2 Qd7 38. Ra2 Qc6
+39. Ra1 Qc4 {La dama negra penetra en el flanco de dama rival. Las blancas
+defienden todo de momento, pero la superioridad de la estructura de peones negra
+se hará patente tarde o temprano por varias razones: 1) todos los peones negros
+están ligados, mientras que los blancos forman tres islas; 2) los peones negros
+de d y f aseguran la casilla e4 al caballo negro, que, de cambiarse por su
+homólogo blanco en tal casilla, las negras pasarán a tener un peón pasado y
+apoyado en e4 y 3) si el débil peón de a4 acaba por caer, el peón negro de a5
+podrá avanzar arropado por sus piezas, mientras que no se vislumbra cómo las
+blancas pueden hacer lo propio con su peón de h.} 40. Kg1 Qb3 41. Ne2 Qc2 {La
+dama negra es muy poderosa, al tocar los peones de a4, c3 y g2.} 42. g4
+{Contraataque a la desesperada. Las negras no tenían defensa contra ... Rg6,
+etc., así que buscan actividad con la textual.} 42... fxg4 43. hxg4 Rh4 44. Rc1
+Qh7 45. c4 Rh3 46. Qg2 Qd3 47. cxd5 Ne4 48. dxe6 Qe3+ 49. Kf1 Rf3+ {Y Gligoric
+se rindió.} 0-1
