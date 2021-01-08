@@ -1,0 +1,63 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "29"]
+[White "Keres"]
+[Black "Taimanov"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 {Sistema Sozin
+contra la defensa siciliana. Se trata de una aguda opción.} 6... e6 7. O-O a6 8.
+Be3 Qc7 9. Bb3 Na5 {En este mismo torneo, Taimanov probó contra Averbaj 9. ...
+Be7 y acabó perdiendo. 9. ... Na5 es la variante principal, cambiando
+rápidamente el peligroso alfil de b3. Decir que, si bien Taimanov perdió, la
+jugada 9. ... Be7 es perfectamente jugable.} 10. f4 b5 11. f5 {Jugando de forma
+agresiva. Recuerda a la partida Lasker-Pirc del año 1935, en el torneo
+internacional de Moscú, en la que Lasker barrió a su oponente y se llevó el
+premio de belleza del torneo, o a la partida Tolush-Taimanov en el campeonato de
+Leningrado de 1953, donde se dio exactamente esta posición.} 11... Nxb3 12. cxb3
+Be7 {12. cxb3 va contra la idea general ed que es mejor llevar peones laterales
+al centro, pero la idea es abrir la columna c para aprovecharla con sus torres.
+Sin embargo, esto debilita la configuración de peones blancos. Por su parte,
+aquí las negras podrían jugar con 12. ... b4 o ... e5 y ganarían el peón de e4;
+Taimanov rechazó esta idea con buen criterio, ya que tiene que desarrollarse.}
+13. Rc1 Qd7 {En la partida Tolush-Taimanov se jugó 13. ... Qb7 14. b4 0-0 15.
+fxe6 fxe6 y las negras estaban bajo presión. Taimanov encontró la textual para
+defender mejor e6 y enrocarse tranquilamente.} 14. fxe6 fxe6 15. b4 O-O 16. Qb3
+{Posición extraña para la dama en los esquemas contra la siciliana. La idea es
+provocar ... d5 para así dejar inactivo al alfil de c8. Taimanov encuentra como
+respuesta una preparación de ... e5.} 16... Kh8 {Con buen criterio, Taimanov
+aparta a su rey de la diagonal a2-g7. De buscar actividad de inmediato con 16.
+... Ng4, se encontraría con 16. Nd5!, enfrentándose a una difícil situación.}
+17. h3 e5 18. Nf5 {18. Nc6? era un error por 18. ... Qxc6 19. Nd5 Qe8 20. Nxa8
+Bxh3.} 18... Bb7 19. Nxe7 {Cambio forzado, ya que la retirada a g3 dejaba a las
+blancas en una posición muy pasiva. El plan de Keres puede que fuera controlar
+d5 con Bg5-Bxf6-Nd5. Sin embargo, 19. Bg5 pierde un peón por 19. ... Nxe4 20.
+Nxe7 Nxg5 o 20. Bxe7 Rxf5. Es por esto que esperaron a tomar en e7 para
+entronces jugar Bg5. A continuación, Keres tratará de reforzar su peón de e5 y
+cargar sobre el peón retrasado de d6.} 19... Qxe7 20. Bg5 h6 21. Bxf6 Rxf6 22.
+Rxf6 Qxf6 23. Rf1 Qg6 {En una reedición del duelo entre ambos contendientes en
+el 21º torneo de la URSS, Keres obtuvo una posición más prometedora jugando Qb3
+antes de abrir la columna f con 14. fxe6 y jugando g4-g5 después. En la presente
+partida, Keres acepta cambiar su oeón de e4 por el negro de d6, con idea de
+presionar sobre el peón pasado con sus piezas pesadas.} 24. Qd1 Rc8 {Las negras
+no temen la entrada de las piezas pesadas blancas en su campo, ya que, tras la
+caída del peón de e4, serán las piezas negras las que generarán amenazas de mate
+contra el rey blanco.} 25. Qf3 Rc4 26. Rd1 Kh7 27. a3 Bxe4 {Keres se ha
+defendido con precisión y Taimanov no encuentra nada mejor que entrar en un
+final de damas en el que las blancas tendrán peones doblados en el flanco de
+dama.} 28. Nxe4 Rxe4 29. Rxd6 Re1+ 30. Kf2 Qxd6 31. Kxe1 Qg6 32. Kd2 e4 33. Qf2
+{Si bien la posición se ve peligrosa, las blancas pueden aguantar por dos
+razones: su solidez en el flanco de dama, donde además cuentan con un tres
+contra dos, lo cual se hará patente más adelante, y la debilidad del rey negro,
+sobre el que pende la amenaza continua de un jaque perpetuo.} 33... Qg5+ {33.
+... Qf6 no da nada, ya que las blancas podrían cambiar damas y seguir con 35.
+Ke6!, que fuerza 35. ... f5 36. g4 y son las blancas las que pueden presionar.
+35. g4 también sería posible, pero inferior: 35. ... Kg6 36. Ke3 Kg5 y tablas
+(pero no 36. ... f5).} 34. Ke2 Qd5 35. Ke3! {Y las blancas libran. Su sólido
+flanco de dama es la clave: el peón de b4 evita 35. ... Qc5+, el de b2 defiende
+en a3, que, de otro modo, estaría perdido tras 35. ... Qd3+, y el de b2 está
+defendido por la dama.} 35... Qd3+ {Buena respuesta. Las blancas amenazaban
+presionar en e4 con 36. Qc2 y 35. ... Kg6 no resultaba por 36. Qc2 Kf5 37.
+Qc8+.} 36. Kf4 g5+ 37. Ke5! {Y tablas, ya que, si bien el peón de e puede
+avanzar, viene un jaque perpetuo indefendible.} 1/2-1/2

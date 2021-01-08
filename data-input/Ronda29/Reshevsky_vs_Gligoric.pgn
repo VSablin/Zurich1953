@@ -1,0 +1,50 @@
+[Event "Torneo de Candidatos Zúrich 1953"]
+[Site "Zúrich"]
+[Date "????.??.??"]
+[Round "29"]
+[White "Reshevsky"]
+[Black "Gligoric"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 {Variante de la
+india de rey introducida por jugadores yugoslavos. La idea es forzar d5 si las
+blancas quieren evitar 7. ... Nc6 o, si  no, jugar 7. ... Nc6 e ir a a5 una vez
+las blancas jueguen d5.} 7. d5 Na6 8. Nd2 Nc7 9. Qc2 Rb8 10. b3 {Bronstein
+menciona aquí que mejor era 10. a4 evitando 10. ... b5. Esto debilitaría b4,
+pero no queda claro cómo las negras pueden aprovecharlo.} 10... b5 11. Bb2 bxc4
+12. Nxc4 {Mejor era tomar de peón por el simple hecho de que d5 quedaría bien
+defendido, además de que las piezas mayores blancas podrían disputar la columna
+abierta. Esta captura de caballo tendría sentido si las blancas pudieran acabar
+saltando a c6 con ese caballo. Sin embargo, no es posible por la siguiente
+variante: 12. ... Ba6 13. Nc5 Ncxd5 14. Nc6 Nb4 y las negras ganan un peón.}
+12... Ba6 13. Ne3 Rb4 14. O-O Qd7 15. h3 Rfb8 16. Rab1 Qc8 17. Kh2 Nce8
+{Gligoric no termina de ver cómo presionar d5 y concede a Reshevsky tiempos
+suficientes para reorganizarse. Gligoric debería haber llevado su caballo de c7
+hasta la fuerte casilla de d4 en vez de retroceder a e8.} 18. Ba3 R4b7 19. Rfc1
+Qd8 20. Na4 Nd7 21. Be4 {Reshevsky maniobra con su restringido alfil de casillas
+blancas para cambiarlo por su homólogo, mucho más activo. Otro plan posible,
+preferido por Bronstein, era buscar una expansión en el ala de dama con a3 y
+b4.} 21... Nc7 22. Bb2 Nf6 23. Bd3 Bh6 {Gligoric jugará con ... e6 para abrir la
+columna e para sus piezas, donde confluirán con su alfil de h6. Sin embargo,
+esto debilita en exceso la diagonal a1-h8, además de que deja totalmente
+desguarnecida la casilla f6. Reshevsky aprovechará esto a la perfección.} 24. f4
+Qd7 25. Nc3 e6 26. Ne4 {Esta es la jugada que refuta la idea negra. Notar que
+este caballo toca en f6 con fuertes amenazas.} 26... Nxe4 {Única jugada, ya que
+las blancas amenazaban doblete a rey y dama en f6. Veamos varias variantes para
+ilustrarlo: 26. ... Nfe8 27. Qc3 Bg7 28. Qxg7+ Nxg7 29. Nf6+ y la dama cae a la
+siguiente, quedando las blancas con piezade más o 26. ... Nfxd5 27. Nxd5 Bxd3
+28. Ndf6+ y las blancas también ganan pieza o 26. ... Nfe8 27. Qc3 e5 28. fxe5
+Bxe3 29. e6, amenazando mate y a la dama al mismo tiempo.} 27. Bxe4 f5 28. dxe6
+Qxe6 29. Bxb7 Rxb7 {No era mucho mejor 29. ... Bxb7 por 30. Qc4 Nd5 31. Ng2,
+seguido de Rd1, y las negras carecen de compensación.} 30. Qc3 Ne8 31. Qd2
+{Reshevsky, en apuros de tiempo, no entra en la variante forzada que le daba la
+victoria: 31. Qh8+ Kf2 32. Qxh7+ Bg7 33. Bxg7 Nxg7 34. Rc3 d5 35. Ng2 y la
+posición negra se cae por todas partes, además de que ya tienen un peón de
+menos. Ahora Gligoric tiene opciones de pelear por las tablas.} 31... Re7 32.
+Nd5 Qxe2+ 33. Qxe2 Rxe2+ 34. Kg1 Kf8 35. Re1 Rd2 36. Red1 Re2 37. Nf6 Bg7 {Error
+grave en apuros de tiempo. Lo mejor era cambiar en f6, volver con la torre a e6
+y tratar de llevar el alfil a e4. Aun con todo, las blancas podrían ganar con
+38. Rxd6, sacrificando dos piezas menores por torre, pero ganando muchísima
+actividad: 38. ... Ne4 39. Rxa6 Nd2 40. Rc1 Nf3+  41. Kf1 Rxb2 42 Rxc5. o 38.
+... Bb7 39. Bxf6 Rg2+ 40. Kf1 Rxg3 41. Rd8+ Kf7 42. Be5.} 38. Nxh7+ Kg8 39. Bxg7
+Kxg7 40. Ng5 Re3 41. Re1 {Y Gligoric se rindió.} 1-0
